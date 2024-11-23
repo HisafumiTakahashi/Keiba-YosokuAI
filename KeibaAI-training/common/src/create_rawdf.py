@@ -176,10 +176,10 @@ def create_horse_results(
             try:
                 horse_id = html_path.stem
                 html = f.read()
-                df = pd.read_html(html)[3]
-                # 受賞歴がある馬の場合、3番目に受賞歴テーブルが来るため、4番目のデータを取得する
+                df = pd.read_html(html)[2]
+                # 受賞歴がある馬の場合、4番目に受賞歴テーブルが来るため、5番目のデータを取得する
                 if df.columns[0] == "受賞歴":
-                    df = pd.read_html(html)[4]
+                    df = pd.read_html(html)[3]
                 # 新馬の競走馬レビューが付いた場合、次のhtmlへ飛ばす
                 elif df.columns[0] == 0:
                     continue
@@ -192,6 +192,7 @@ def create_horse_results(
             except ValueError as e:
                 print(f"{e} at {horse_id}")
                 continue
+
     concat_df = pd.concat(dfs.values())
     concat_df.columns = concat_df.columns.str.replace(" ", "")
     save_dir.mkdir(parents=True, exist_ok=True)
