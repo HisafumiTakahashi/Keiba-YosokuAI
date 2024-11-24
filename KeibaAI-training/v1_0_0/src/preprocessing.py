@@ -209,3 +209,53 @@ def process_race_info(
     ]
     df.to_csv(output_dir / save_filename, sep="\t", index=False)
     return df
+
+
+def process_race(
+    input_dir: Path = INPUT_DIR,
+    output_dir: Path = OUTPUT_DIR,
+    save_filename: str = "predict.csv",
+) -> pd.DataFrame:
+    """
+    出馬テーブルのrawデータファイルをinput_dirから読み込んで、加工し、
+    output_dirに保存する関数。
+    """
+
+    df = pd.read_csv(input_dir / save_filename, sep="\t")
+    
+    df["sex"] = df["性齢"].str[0].map(sex_mapping)
+    df["age"] = df["性齢"].str[1:].astype(int)
+    df["weight"] = df["馬体重(増減)"].str.extract(r"(\d+)").astype(int)
+    df["weight"] = pd.to_numeric(df["weight"], errors="coerce")
+    df["weight_diff"] = df["馬体重(増減)"].str.extract(r"\((.+)\)")
+    df["weight_diff"] = df["weight_diff"].fillna(0).astype(int)
+    df["weight_diff"] = pd.to_numeric(df["weight_diff"], errors="coerce")
+    df["yosou_odds"] = df["予想オッズ"].astype(float)
+    df["popularity"] = df["人気"].astype(int)
+    df["impost"] = df["斤量"].astype(float)
+    df["wakuban"] = df["枠"].astype(int)
+    df["umaban"] = df["馬番"].astype(int)
+
+    # データが着順に並んでいることによるリーク防止のため、各レースを馬番順にソートする
+    df = df.sort_values(["race_id", "umaban"])
+    # 使用する列を選択
+    df = df[
+        [
+            "race_id",
+            "horse_id",
+            "jockey_id",
+            "trainer_id",
+            "sex",
+            "age",
+            "weight",
+            "weight_diff",
+            "yosou_odds",
+            "popularity",
+            "impost",
+            "wakuban",
+            "umaban"
+        ]
+    ]
+
+    df.to_csv(output_dir / save_filename, sep="\t")
+    return df
