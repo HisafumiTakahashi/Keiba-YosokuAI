@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -591,11 +591,11 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=33568&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=97314&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=55150&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 55150 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=55148&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 55148 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=47758&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 47758 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=43363&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 43363 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=33568&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 33568 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=25228&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 25228 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=24029&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 24029 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=15533&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 15533 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=14935&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 14935 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=7539&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 7539 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=97314&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 97314 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=55150&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 55150 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=55148&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 55148 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=47758&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 47758 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=43363&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 43363 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=33568&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 33568 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=25228&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 25228 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=24029&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 24029 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=15533&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 15533 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020104893&no=14935&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 14935 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 
@@ -755,13 +755,13 @@ get_horse_detail_note('2020104893', 'Horse_Note_Box');
 <td>
 
 
-2,610万円 (中央)
+3,184万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>11戦2勝 [<a href="/horse/result/2020104893/" title="全競走成績">2-4-0-5</a>]</td>
+<td>13戦2勝 [<a href="/horse/result/2020104893/" title="全競走成績">2-5-0-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -778,7 +778,7 @@ get_horse_detail_note('2020104893', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2020104893/" title="セミマルの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2020104893/" title="セミマルの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -975,6 +975,116 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/08/20241222/">7京都8</a></td>
+<td>晴</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202408070808/" title="3歳以上2勝クラス">3歳以上2勝クラス</a></td>
+<td>
+<a href="/race/movie/202408070808" target="_blank" title="3歳以上2勝クラスの映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">3</td>
+<td class="txt_right">5</td>
+<td class="txt_right">2.3</td>
+<td class="rank_1 txt_right">1</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/01171/" title="西村淳也">西村淳也</a>
+
+</td>
+<td>58</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:25.9</td>
+<td class="txt_right">0.5</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>5-5</td>
+<td>36.0-37.6</td>
+<td class="bml">37.6</td>
+<td>532(+6)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2020104893&rid=202408070808"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020105929/">スターペスカオリ</a></td>
+
+<td>114.0</td>
+</tr><tr>
+<td><a href="/race/list/20241124/">2024/11/24</a></td>
+<td><a href="/race/sum/08/20241124/">6京都8</a></td>
+<td>曇</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202408060808/" title="3歳以上2勝クラス">3歳以上2勝クラス</a></td>
+<td>
+<a href="/race/movie/202408060808" target="_blank" title="3歳以上2勝クラスの映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">3</td>
+<td class="txt_right">6</td>
+<td class="txt_right">16.3</td>
+<td class=" txt_right">5</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/01171/" title="西村淳也">西村淳也</a>
+
+</td>
+<td>58</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:24.3</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>10-9</td>
+<td>34.7-37.6</td>
+<td class="rank_1">36.4</td>
+<td>526(+2)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2020104893&rid=202408060808"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102079/">サウンドアレグリア</a></td>
+
+<td>460.0</td>
+</tr><tr>
 <td><a href="/race/list/20240330/">2024/03/30</a></td>
 <td><a href="/race/sum/09/20240330/">2阪神3</a></td>
 <td>晴</td>

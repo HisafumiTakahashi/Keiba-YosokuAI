@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -597,7 +597,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021105890&no=10229&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021105890&no=12205&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -773,7 +773,7 @@ get_horse_detail_note('2021105890', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>5戦1勝 [<a href="/horse/result/2021105890/" title="全競走成績">1-0-1-3</a>]</td>
+<td>6戦1勝 [<a href="/horse/result/2021105890/" title="全競走成績">1-0-1-4</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -790,7 +790,7 @@ get_horse_detail_note('2021105890', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2021105890/" title="ロクシアスの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2021105890/" title="ロクシアスの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -987,6 +987,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5中山8</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202406050807/" title="3歳以上1勝クラス">3歳以上1勝クラス</a></td>
+<td>
+<a href="/race/movie/202406050807" target="_blank" title="3歳以上1勝クラスの映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">8</td>
+<td class="txt_right">16</td>
+<td class="txt_right">53.4</td>
+<td class=" txt_right">9</td>
+<td class="bml txt_right">13</td>
+<td>
+<a href="/jockey/result/recent/01179/" title="菅原明良">菅原明良</a>
+
+</td>
+<td>57</td>
+<td>ダ1800</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:59.6</td>
+<td class="txt_right">4.5</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>8-9-9-9</td>
+<td>37.7-39.7</td>
+<td class="bml">43.3</td>
+<td>500(+6)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021105890&rid=202406050807"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021105182/">ドバイブルース</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20240622/">2024/06/22</a></td>
 <td><a href="/race/sum/05/20240622/">3東京7</a></td>
 <td>晴</td>

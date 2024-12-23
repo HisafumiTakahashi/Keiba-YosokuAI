@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -591,21 +591,18 @@ event.preventDefault();
 <script language="javascript">
 function changeHorseMainPhoto( Id )
 {
-document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=&tn=yes&tmp=no&no=" + Id );
+document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022104313&tn=yes&tmp=no&no=" + Id );
 }
 </script>
 <div class="db_photo_box fc">
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022104313&no=26617&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
-<img src="https://db.netkeiba.com/common/image/dummy.jpg" alt="画像がありません" width="230" height="164" class="db_photo_main" />
 <div class="Slid_List Photo_Slid">
-<ul>
-<li><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
-<li><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
-<li style="margin:0"><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
+<ul id="Horse_Photo_Slide">
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022104313&no=26617&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 26617 );"/></a></li>
 </ul>
-<p class="prev"><span class="noimage_btn"><span>&laquo;</span></span></p>
-<p class="next"><span class="noimage_btn"><span>&raquo;</span></span></p>
 </div><!-- /.Slid_List Photo_Slid -->
+
 <p class="detail_link"><a href="https://db.netkeiba.com/v1.1//?pid=horse_photo&id=2022104313" title="写真一覧">写真一覧</a> / <a href="https://uploaddb.netkeiba.com/v1.1//?pid=horse_upload_photo&id=2022104313" title="写真投稿" id="photo_post">写真投稿</a></p>
 </div>
 <script>
@@ -762,17 +759,17 @@ get_horse_detail_note('2022104313', 'Horse_Note_Box');
 <td>
 
 
-460万円 (中央)
+1,010万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>3戦0勝 [<a href="/horse/result/2022104313/" title="全競走成績">0-0-3-0</a>]</td>
+<td>4戦1勝 [<a href="/horse/result/2022104313/" title="全競走成績">1-0-3-0</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race//" title=""></a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202406050802/" title="24'2歳未勝利">24'2歳未勝利</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -785,7 +782,7 @@ get_horse_detail_note('2022104313', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2022104313/" title="ドーバーブライトの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2022104313/" title="ドーバーブライトの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -982,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5中山8</a></td>
+<td>晴</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202406050802/" title="2歳未勝利">2歳未勝利</a></td>
+<td>
+<a href="/race/movie/202406050802" target="_blank" title="2歳未勝利の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">6</td>
+<td class="txt_right">12</td>
+<td class="txt_right">4.6</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05366/" title="ムーア">ムーア</a>
+
+</td>
+<td>56</td>
+<td>ダ1800</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:57.7</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>12-12-7-7</td>
+<td>37.3-41.5</td>
+<td class="rank_1">40.7</td>
+<td>510(+8)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022104313&rid=202406050802"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022102965/">(ブレトワルダ)</a></td>
+
+<td>550.0</td>
+</tr><tr>
 <td><a href="/race/list/20241005/">2024/10/05</a></td>
 <td><a href="/race/sum/04/20241005/">4新潟1</a></td>
 <td>曇</td>

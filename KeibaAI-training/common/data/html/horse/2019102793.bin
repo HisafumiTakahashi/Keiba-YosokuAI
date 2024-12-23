@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -761,7 +761,7 @@ get_horse_detail_note('2019102793', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>15戦1勝 [<a href="/horse/result/2019102793/" title="全競走成績">1-0-1-13</a>]</td>
+<td>16戦1勝 [<a href="/horse/result/2019102793/" title="全競走成績">1-0-1-14</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -778,7 +778,7 @@ get_horse_detail_note('2019102793', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2019102793/" title="アークデトリオンフの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2019102793/" title="アークデトリオンフの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/08/20241222/">7京都8</a></td>
+<td>曇</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202408070805/" title="障害3歳以上未勝利">障害3歳以上未勝利</a></td>
+<td>
+<a href="/race/movie/202408070805" target="_blank" title="障害3歳以上未勝利の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">14</td>
+<td class="txt_right">5</td>
+<td class="txt_right">7</td>
+<td class="txt_right">183.9</td>
+<td class=" txt_right">14</td>
+<td class="bml txt_right">12</td>
+<td>
+<a href="/jockey/result/recent/01123/" title="小野寺祐">小野寺祐</a>
+
+</td>
+<td>60</td>
+<td>障2910</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">3:25.9</td>
+<td class="txt_right">7.1</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>10-10-11-11</td>
+<td>109.0-43.1</td>
+<td class="bml">14.2</td>
+<td>490(-2)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2019102793&rid=202408070805"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020106836/">マテンロウジョイ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241116/">2024/11/16</a></td>
 <td><a href="/race/sum/03/20241116/">3福島5</a></td>
 <td>晴</td>

@@ -251,9 +251,9 @@ min-width: unset;
 <li class="Yoso">
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="Í½ÁÛ" id="navi_link_yoso">Í½ÁÛ</a>
 </li>
-<li class="Special">
+<!-- <li class="Special">
 <a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="Í­ÇÏµ­Ç°" id="navi_link_Special">Í­ÇÏµ­Ç°</a>
-</li>
+</li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="¥³¥é¥à" id="navi_link_column">¥³¥é¥à</a>
 </li>
@@ -762,13 +762,13 @@ get_horse_detail_note('2022100627', 'Horse_Note_Box');
 <td>
 
 
-180Ëü±ß (Ãæ±û)
+400Ëü±ß (Ãæ±û)
 
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>1Àï0¾¡ [<a href="/horse/result/2022100627/" title="Á´¶¥ÁöÀ®ÀÓ">0-0-1-0</a>]</td>
+<td>2Àï0¾¡ [<a href="/horse/result/2022100627/" title="Á´¶¥ÁöÀ®ÀÓ">0-1-1-0</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -982,6 +982,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5Ãæ»³8</a></td>
+<td>À²</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202406050801/" title="2ºÐÌ¤¾¡Íø">2ºÐÌ¤¾¡Íø</a></td>
+<td>
+<a href="/race/movie/202406050801" target="_blank" title="2ºÐÌ¤¾¡Íø¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">2</td>
+<td class="txt_right">3</td>
+<td class="txt_right">4.2</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/01163/" title="ºä°æÎÜÀ±">ºä°æÎÜÀ±</a>
+
+</td>
+<td>55</td>
+<td>¥À1200</td>
+<td>ÎÉ</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:12.4</td>
+<td class="txt_right">0.3</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-1</td>
+<td>34.0-38.1</td>
+<td class="rank_3">38.3</td>
+<td>536(0)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022100627&rid=202406050801"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022110128/">¥¨¥³¥í¥ô¥¡¥¤¥¹</a></td>
+
+<td>220.0</td>
+</tr><tr>
 <td><a href="/race/list/20241130/">2024/11/30</a></td>
 <td><a href="/race/sum/06/20241130/">5Ãæ»³1</a></td>
 <td>À²</td>

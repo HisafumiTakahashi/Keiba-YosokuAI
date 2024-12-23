@@ -6,6 +6,8 @@
 <meta http-equiv="content-type" content="text/html; charset=euc-jp" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
+
+
 <link href="https://cdn.netkeiba.com/img.db/common/css/reset.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/common.css?20210819" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_detail.css?20180621" rel="stylesheet" type="text/css" media="all" />
@@ -14,22 +16,26 @@
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_top.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/prettyPhoto.css?20160421" rel="stylesheet" type="text/css" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/jquery.fancybox-1.3.4.css?20160421" rel="stylesheet" type="text/css" />
+
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_classic_nk01.css?201911209" rel="stylesheet" type="text/css" />
+
 <!-- link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/common_header.css" type="text/css" -->
+
 <script language="javascript">
 <!--
 b = navigator.userAgent.toUpperCase();
 if(b.indexOf("MAC") >= 0)
 {
-cssFile = "mac.css";
+	cssFile = "mac.css";
 }
 else
 {
-cssFile = "win.css";
+	cssFile = "win.css";
 }
 document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeiba.com/img.db/common/css/" + cssFile + "'>");
 // -->
 </script>
+
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery-1.8.2.min.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.cookie.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/fontsize.js?20160421"></script>
@@ -41,6 +47,7 @@ document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeib
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.carouFredSel-6.2.0-packed.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.touchSwipe.min.js?20160421"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.netkeiba.com/img.db/common/css/ajaxtabs.css?20160421" />
+
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/ajaxtabs.js?20160421">
 /***********************************************
 * Ajax Tabs Content script v2.2- c Dynamic Drive DHTML code library (www.dynamicdrive.com)
@@ -50,6 +57,7 @@ document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeib
 </script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/get_ad_request.js"></script>
 <script type="text/javascript" src="/__utm.js"></script>
+
 <script type="text/javascript">
 <!--
 var _user_action_api_url    = 'https://cdn.netkeiba.com/img.user';
@@ -63,6 +71,7 @@ var _bbs_action_api_url     = 'https://bbs.netkeiba.com/';
 <script type="text/javascript" src="https://db.netkeiba.com/v1.1//common/js/social.action.js"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.bbs/common/js/bbs.action.js?2018053101"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.regist.sp//common/js/monthly_goods_link.js?2017080201"></script>
+
 
 <meta http-equiv="content-language" content="ja">
 <meta name="viewport" content="width=device-960px">
@@ -144,7 +153,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +261,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -595,7 +604,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022103199&no=1549&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022103199&no=315&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -759,13 +768,13 @@ get_horse_detail_note('2022103199', 'Horse_Note_Box');
 <td>
 
 
-250万円 (中央)
+470万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>3戦0勝 [<a href="/horse/result/2022103199/" title="全競走成績">0-0-1-2</a>]</td>
+<td>5戦0勝 [<a href="/horse/result/2022103199/" title="全競走成績">0-1-1-3</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -782,7 +791,7 @@ get_horse_detail_note('2022103199', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2022103199/" title="アメリータの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2022103199/" title="アメリータの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -979,6 +988,116 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/08/20241222/">7京都8</a></td>
+<td>曇</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202408070802/" title="2歳未勝利">2歳未勝利</a></td>
+<td>
+<a href="/race/movie/202408070802" target="_blank" title="2歳未勝利の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">18</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">25.9</td>
+<td class=" txt_right">9</td>
+<td class="bml txt_right">9</td>
+<td>
+<a href="/jockey/result/recent/01216/" title="吉村誠之">吉村誠之</a>
+
+</td>
+<td>53</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:36.0</td>
+<td class="txt_right">1.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>3-3</td>
+<td>34.9-36.1</td>
+<td class="bml">36.8</td>
+<td>424(-2)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022103199&rid=202408070802"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022101697/">グラフィティアート</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
+<td><a href="/race/list/20241201/">2024/12/01</a></td>
+<td><a href="/race/sum/08/20241201/">7京都2</a></td>
+<td>晴</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202408070202/" title="2歳未勝利">2歳未勝利</a></td>
+<td>
+<a href="/race/movie/202408070202" target="_blank" title="2歳未勝利の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">8</td>
+<td class="txt_right">10</td>
+<td class="txt_right">27.3</td>
+<td class=" txt_right">6</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/01216/" title="吉村誠之">吉村誠之</a>
+
+</td>
+<td>53</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:36.5</td>
+<td class="txt_right">0.5</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>1-1</td>
+<td>36.4-34.3</td>
+<td class="bml">34.8</td>
+<td>426(-2)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022103199&rid=202408070202"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022101429/">ブーディガ</a></td>
+
+<td>220.0</td>
+</tr><tr>
 <td><a href="/race/list/20241019/">2024/10/19</a></td>
 <td><a href="/race/sum/08/20241019/">5京都5</a></td>
 <td>小雨</td>

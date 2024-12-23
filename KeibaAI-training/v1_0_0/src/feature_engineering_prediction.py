@@ -12,7 +12,7 @@ from tqdm.notebook import tqdm
 from webdriver_manager.chrome import ChromeDriverManager
 
 # commonディレクトリのパス
-COMMON_DATA_DIR = Path("..", "..", "common", "data")
+COMMON_DATA_DIR = Path("..", "..", "common",  "src" , "data")
 POPULATION_DIR = COMMON_DATA_DIR / "prediction_population"
 MAPPING_DIR = COMMON_DATA_DIR / "mapping"
 # v3_0_0ディレクトリのパス
@@ -66,21 +66,21 @@ class PredictionFeatureCreator:
         population_filename: str = "population.csv",
         input_dir: Path = INPUT_DIR,
         horse_results_filename: Path = "horse_results_prediction.csv",
-        jockey_leading_filename: Path = "jockey_leading.csv",
-        trainer_leading_filename: Path = "trainer_leading.csv",
-        peds_filename: str = "peds_prediction.csv",
-        sire_leading_filename: str = "sire_leading.csv",
+        #jockey_leading_filename: Path = "jockey_leading.csv",
+        #trainer_leading_filename: Path = "trainer_leading.csv",
+        #peds_filename: str = "peds_prediction.csv",
+        #sire_leading_filename: str = "sire_leading.csv",
         output_dir: Path = OUTPUT_DIR,
         output_filename: str = "features_prediction.csv",
     ):
         self.population = pd.read_csv(population_dir / population_filename, sep="\t")
         self.horse_results = pd.read_csv(input_dir / horse_results_filename, sep="\t")
-        self.jockey_leading = pd.read_csv(input_dir / jockey_leading_filename, sep="\t")
-        self.trainer_leading = pd.read_csv(
-            input_dir / trainer_leading_filename, sep="\t"
-        )
-        self.peds = pd.read_csv(input_dir / peds_filename, sep="\t")
-        self.sire_leading = pd.read_csv(input_dir / sire_leading_filename, sep="\t")
+        #self.jockey_leading = pd.read_csv(input_dir / jockey_leading_filename, sep="\t")
+        #self.trainer_leading = pd.read_csv(
+        #    input_dir / trainer_leading_filename, sep="\t"
+        #)
+        #self.peds = pd.read_csv(input_dir / peds_filename, sep="\t")
+        #self.sire_leading = pd.read_csv(input_dir / sire_leading_filename, sep="\t")
         self.output_dir = output_dir
         self.output_filename = output_filename
         self.htmls = {}
@@ -196,10 +196,43 @@ class PredictionFeatureCreator:
         df["sex"] = df.iloc[:, 4].str[0].map(sex_mapping)
         df["age"] = df.iloc[:, 4].str[1:].astype(int)
         df["impost"] = df.iloc[:, 5].astype(float)
-        df["weight"] = df.iloc[:, 8].str.extract(r"(\d+)").astype(int)
-        df["weight_diff"] = df.iloc[:, 8].str.extract(r"\((.+)\)").astype(int)
-        df["tansho_odds"] = df.iloc[:, 9].astype(float)
-        df["popularity"] = df.iloc[:, 10].astype(int)
+        df["weight"] = df.iloc[:, 8].str.extract(r"(\d+)").fillna(0).astype(int)
+        # df["weight_diff"] = (
+        #     pd.to_numeric(
+        #         df.iloc[:, 8].str.extract(r"\(([-+]?\d+)\)")[0],  # 数値と符号を含めて抽出
+        #         errors="coerce"  # 数値に変換できない場合は NaN にする
+        #     ).fillna(0)  # NaN を 0 に置き換える
+        #     .astype(int)  # 整数型に変換
+        # )
+        # df["weight_diff"] = (
+        #     pd.to_numeric(
+        #         df.iloc[:, 8].str.extract(r"\(([-+]?\d+)\)")[0],  # 数値と符号のみ抽出
+        #         errors="coerce"  # 数値以外は NaN にする
+        #     )
+        #     .fillna(0)  # 欠損値は 0 に置き換え
+        #     .astype(int)  # 整数型に変換
+        # )
+        df["weight_diff"] = (
+            pd.to_numeric(
+                df.iloc[:, 8].str.extract(r"\(([-+]?\d+)\)")[0].replace("--", np.nan),  # '--' を NaN に置き換える
+                errors="coerce"  # 数値変換できないものを NaN にする
+            ).fillna(0)  # NaN を 0 に置き換える
+            .astype(int)  # 整数型に変換
+        )
+        df["tansho_odds"] =(#= df.iloc[:, 9].astype(float)
+            pd.to_numeric(
+                df.iloc[:, 9].replace("--", np.nan),
+                errors="coerce"  # 数値に変換できない場合は NaN にする
+            ).fillna(0)  # NaN を 0 に置き換える
+            .astype(float)  # 整数型に変換
+        )
+        df["popularity"] = (
+            pd.to_numeric(
+                df.iloc[:, 10].replace("--", np.nan),
+                errors="coerce"
+            ).fillna(0)
+            .astype(int)
+        )
         df["race_id"] = int(race_id)
         # 使用する列を選択
         df = df[
@@ -293,9 +326,9 @@ class PredictionFeatureCreator:
                         "rank",
                         "prize",
                         "rank_diff",
-                        "time",
-                        "win",
-                        "show",
+                        # "time",
+                        # "win",
+                        # "show",
                     ]
                 ]
                 .agg(["mean", "min"])
@@ -342,9 +375,9 @@ class PredictionFeatureCreator:
                         "rank",
                         "prize",
                         "rank_diff",
-                        "time",
-                        "win",
-                        "show",
+                        # "time",
+                        # "win",
+                        # "show",
                     ]
                 ]
                 .agg(["mean", "max", "min"])
@@ -451,9 +484,9 @@ class PredictionFeatureCreator:
         self.agg_horse_per_group_cols(group_cols=["race_class"], df_name="race_class")
         self.agg_horse_per_group_cols(group_cols=["race_type"], df_name="race_type")
         # リーディングデータの紐付け
-        self.agg_jockey()
-        self.agg_trainer()
-        self.agg_sire()
+        # self.agg_jockey()
+        # self.agg_trainer()
+        # self.agg_sire()
         # 全ての特徴量を結合
         print("merging all features...")
         features = (
@@ -469,16 +502,16 @@ class PredictionFeatureCreator:
                 on=["race_id", "horse_id"],
                 how="left",
             )
-            .merge(
-                self.agg_jockey_df,
-                on=["race_id", "horse_id"],
-                how="left",
-            )
-            .merge(
-                self.agg_trainer_df,
-                on=["race_id", "horse_id"],
-                how="left",
-            )
+            # .merge(
+            #     self.agg_jockey_df,
+            #     on=["race_id", "horse_id"],
+            #     how="left",
+            # )
+            # .merge(
+            #     self.agg_trainer_df,
+            #     on=["race_id", "horse_id"],
+            #     how="left",
+            # )
             .merge(
                 self.agg_horse_per_course_len_df,
                 on=["race_id", "date", "horse_id"],
@@ -499,11 +532,11 @@ class PredictionFeatureCreator:
                 on=["race_id", "date", "horse_id"],
                 how="left",
             )
-            .merge(
-                self.agg_sire_df,
-                on=["race_id", "horse_id"],
-                how="left",
-            )
+            # .merge(
+            #     self.agg_sire_df,
+            #     on=["race_id", "horse_id"],
+            #     how="left",
+            # )
         )
         features.to_csv(self.output_dir / self.output_filename, sep="\t", index=False)
         return features

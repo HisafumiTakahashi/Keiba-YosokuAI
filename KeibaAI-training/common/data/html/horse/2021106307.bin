@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1>モリノセピア</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2021106307/" style="color:#FFF;">Morino Sepia</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-</p>
-<p class="txt_01">現役　牡3歳　栗毛 </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1>モリノセピア</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2021106307/" style="color:#FFF;">Morino Sepia</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+                        </p>
+                        
+                        <p class="txt_01">現役　牡3歳　栗毛 </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -595,7 +602,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021106307&no=63481&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021106307&no=17385&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -759,13 +766,13 @@ get_horse_detail_note('2021106307', 'Horse_Note_Box');
 <td>
 
 
-2,225万円 (中央)
+2,380万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>9戦2勝 [<a href="/horse/result/2021106307/" title="全競走成績">2-2-2-3</a>]</td>
+<td>10戦2勝 [<a href="/horse/result/2021106307/" title="全競走成績">2-2-2-4</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -782,7 +789,7 @@ get_horse_detail_note('2021106307', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2021106307/" title="モリノセピアの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2021106307/" title="モリノセピアの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -979,6 +986,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5中山8</a></td>
+<td>晴</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202406050808/" title="冬至特別(2勝クラス)">冬至特別(2勝クラス)</a></td>
+<td>
+<a href="/race/movie/202406050808" target="_blank" title="冬至特別(2勝クラス)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">3</td>
+<td class="txt_right">5</td>
+<td class="txt_right">13.2</td>
+<td class=" txt_right">6</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/01092/" title="津村明秀">津村明秀</a>
+
+</td>
+<td>57</td>
+<td>ダ1200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:12.3</td>
+<td class="txt_right">0.7</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-2</td>
+<td>33.6-38.0</td>
+<td class="bml">38.6</td>
+<td>488(+8)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021106307&rid=202406050808"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021100161/">ロードフロンティア</a></td>
+
+<td>155.0</td>
+</tr><tr>
 <td><a href="/race/list/20241020/">2024/10/20</a></td>
 <td><a href="/race/sum/04/20241020/">4新潟6</a></td>
 <td>晴</td>

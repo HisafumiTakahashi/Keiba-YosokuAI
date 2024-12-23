@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100935&no=26775&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100935&no=53513&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -759,13 +759,13 @@ get_horse_detail_note('2021100935', 'Horse_Note_Box');
 <td>
 
 
-1,350万円 (中央)
+1,735万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>6戦2勝 [<a href="/horse/result/2021100935/" title="全競走成績">2-0-0-4</a>]</td>
+<td>8戦2勝 [<a href="/horse/result/2021100935/" title="全競走成績">2-0-0-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -782,7 +782,7 @@ get_horse_detail_note('2021100935', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2021100935/" title="ララマセラシオンの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2021100935/" title="ララマセラシオンの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -979,6 +979,118 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5中山8</a></td>
+<td>晴</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202406050810/" title="オルフェーヴルC(2勝クラス)">オルフェーヴルC(2勝クラス)</a></td>
+<td>
+<a href="/race/movie/202406050810" target="_blank" title="オルフェーヴルC(2勝クラス)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">5</td>
+<td class="txt_right">10</td>
+<td class="txt_right">23.0</td>
+<td class=" txt_right">9</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/01179/" title="菅原明良">菅原明良</a>
+
+</td>
+<td>57</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:33.8</td>
+<td class="txt_right">0.4</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>6-10-10</td>
+<td>34.6-35.6</td>
+<td class="bml">35.3</td>
+<td>516(0)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021100935&rid=202406050810"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021105121/">ピックアチェリー</a></td>
+
+<td>230.0</td>
+</tr><tr>
+<td><a href="/race/list/20241130/">2024/11/30</a></td>
+<td><a href="/race/sum/07/20241130/">4中京1</a></td>
+<td>晴</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202407040110/" title="中京日経賞(2勝クラス)">中京日経賞(2勝クラス)</a></td>
+<td>
+<a href="/race/movie/202407040110" target="_blank" title="中京日経賞(2勝クラス)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">13</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">10.2</td>
+<td class=" txt_right">6</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05203/" title="岩田康誠">岩田康誠</a>
+
+</td>
+<td>55</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:34.2</td>
+<td class="txt_right">0.3</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>8-8-8</td>
+<td>35.1-35.6</td>
+<td class="rank_2">33.9</td>
+<td>516(-6)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021100935&rid=202407040110"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+
+</td>
+<td><a href="/horse/2021100143/">メルトユアハート</a></td>
+
+<td>155.0</td>
+</tr><tr>
 <td><a href="/race/list/20241117/">2024/11/17</a></td>
 <td><a href="/race/sum/05/20241117/">5東京6</a></td>
 <td>晴</td>

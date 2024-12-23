@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1>ブルトンクール</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2019104868/" style="color:#FFF;">Brule Ton Coeur</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-                        </p>
-                        
-                        <p class="txt_01">現役　牝5歳　栗毛 </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1>ブルトンクール</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2019104868/" style="color:#FFF;">Brule Ton Coeur</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+</p>
+<p class="txt_01">現役　牝5歳　栗毛 </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -598,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104868&no=26132&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104868&no=41725&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -768,11 +761,11 @@ get_horse_detail_note('2019104868', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>19戦2勝 [<a href="/horse/result/2019104868/" title="全競走成績">2-0-0-17</a>]</td>
+<td>21戦2勝 [<a href="/horse/result/2019104868/" title="全競走成績">2-0-0-19</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202202010209/" title="22'遊楽部特別(１勝クラス)">22'遊楽部特別(１勝クラス)</a><!--、<a href="/race/202106050603/" title=21'２歳未勝利"">21'２歳未勝利</a>--></td>
+<td><a href="/race/202202010209/" title="22'遊楽部特別(1勝クラス)">22'遊楽部特別(1勝クラス)</a><!--、<a href="/race/202106050603/" title=21'2歳未勝利"">21'2歳未勝利</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -785,7 +778,7 @@ get_horse_detail_note('2019104868', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2019104868/" title="ブルトンクールの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2019104868/" title="ブルトンクールの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -982,6 +975,116 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5中山8</a></td>
+<td>晴</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202406050810/" title="オルフェーヴルC(2勝クラス)">オルフェーヴルC(2勝クラス)</a></td>
+<td>
+<a href="/race/movie/202406050810" target="_blank" title="オルフェーヴルC(2勝クラス)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">3</td>
+<td class="txt_right">5</td>
+<td class="txt_right">59.5</td>
+<td class=" txt_right">12</td>
+<td class="bml txt_right">15</td>
+<td>
+<a href="/jockey/result/recent/01203/" title="石田拓郎">石田拓郎</a>
+
+</td>
+<td>56</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:34.9</td>
+<td class="txt_right">1.5</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-2</td>
+<td>34.6-35.6</td>
+<td class="bml">37.1</td>
+<td>458(0)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2019104868&rid=202406050810"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021105121/">ピックアチェリー</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
+<td><a href="/race/list/20241208/">2024/12/08</a></td>
+<td><a href="/race/sum/06/20241208/">5中山4</a></td>
+<td>晴</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202406050412/" title="3歳以上2勝クラス">3歳以上2勝クラス</a></td>
+<td>
+<a href="/race/movie/202406050412" target="_blank" title="3歳以上2勝クラスの映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">8</td>
+<td class="txt_right">16</td>
+<td class="txt_right">63.8</td>
+<td class=" txt_right">11</td>
+<td class="bml txt_right">6</td>
+<td>
+<a href="/jockey/result/recent/01203/" title="石田拓郎">石田拓郎</a>
+
+</td>
+<td>53</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:34.0</td>
+<td class="txt_right">0.3</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>2-2-2</td>
+<td>33.9-36.3</td>
+<td class="bml">36.4</td>
+<td>458(+8)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2019104868&rid=202406050412"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020103066/">マルチャン</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20240914/">2024/09/14</a></td>
 <td><a href="/race/sum/06/20240914/">4中山3</a></td>
 <td>晴</td>

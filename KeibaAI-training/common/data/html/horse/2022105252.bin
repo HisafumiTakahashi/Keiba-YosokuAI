@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -773,7 +773,7 @@ get_horse_detail_note('2022105252', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>1戦0勝 [<a href="/horse/result/2022105252/" title="全競走成績">0-0-0-1</a>]</td>
+<td>2戦0勝 [<a href="/horse/result/2022105252/" title="全競走成績">0-0-0-2</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -790,7 +790,7 @@ get_horse_detail_note('2022105252', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2022105252/" title="バトラーズワーフの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2022105252/" title="バトラーズワーフの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -987,6 +987,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5中山8</a></td>
+<td>晴</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202406050802/" title="2歳未勝利">2歳未勝利</a></td>
+<td>
+<a href="/race/movie/202406050802" target="_blank" title="2歳未勝利の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">3</td>
+<td class="txt_right">5</td>
+<td class="txt_right">59.3</td>
+<td class=" txt_right">10</td>
+<td class="bml txt_right">12</td>
+<td>
+<a href="/jockey/result/recent/01157/" title="鮫島克駿">鮫島克駿</a>
+
+</td>
+<td>56</td>
+<td>ダ1800</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:59.9</td>
+<td class="txt_right">2.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>4-4-4-3</td>
+<td>37.3-41.5</td>
+<td class="bml">43.3</td>
+<td>462(+4)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022105252&rid=202406050802"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022104313/">ドーバーブライト</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241020/">2024/10/20</a></td>
 <td><a href="/race/sum/05/20241020/">4東京6</a></td>
 <td>晴</td>

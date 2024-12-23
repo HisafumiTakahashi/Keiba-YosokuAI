@@ -1,0 +1,26 @@
+features:
+  - horse_id
+  - jockey_id
+  - trainer_id
+  - umaban
+  - wakuban
+  - impost
+  - sex
+  - age
+  - weight
+  - weight_diff
+  - race_type
+  - around
+  - course_len
+  - weather
+  - ground_state
+  - race_class
+  - place
+  - rank_3races
+  - prize_3races
+  - rank_5races
+  - prize_5races
+  - rank_10races
+  - prize_10races
+  - rank_1000races
+  - prize_1000races

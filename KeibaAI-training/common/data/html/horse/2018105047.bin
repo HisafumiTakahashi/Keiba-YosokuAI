@@ -144,7 +144,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </noscript>
 <div id="page">
 
-<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241113" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -252,7 +252,7 @@ min-width: unset;
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
 <!-- <li class="Special">
-<a href="https://race.netkeiba.com/special/index.html?id=0059&rf=navi" title="日本ダービー" id="navi_link_Special">日本ダービー</a>
+<a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
 </li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
@@ -761,11 +761,11 @@ get_horse_detail_note('2018105047', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>21戦2勝 [<a href="/horse/result/2018105047/" title="全競走成績">2-2-2-15</a>]</td>
+<td>22戦2勝 [<a href="/horse/result/2018105047/" title="全競走成績">2-2-2-16</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202306040907/" title="23'３歳以上１勝クラス">23'３歳以上１勝クラス</a><!--、<a href="/race/202006050805/" title=20'２歳新馬"">20'２歳新馬</a>--></td>
+<td><a href="/race/202306040907/" title="23'3歳以上1勝クラス">23'3歳以上1勝クラス</a><!--、<a href="/race/202006050805/" title=20'2歳新馬"">20'2歳新馬</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -778,7 +778,7 @@ get_horse_detail_note('2018105047', 'Horse_Note_Box');
 <dt class="DB_ProfHead_dt_01">
 <div class="fc">
 <p class="db_prof_top_padigree_title png_bg">血統</p>
-<p class="detail_link"><a href="/horse/ped/2018105047/" title="ホウオウサンデーの血統詳細">血統詳細・兄弟馬</
+<p class="detail_link"><a href="/horse/ped/2018105047/" title="ホウオウサンデーの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
 </dt>
 <dd class="DB_ProfHead_dd_01">
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/06/20241222/">5中山8</a></td>
+<td>晴</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202406050809/" title="グッドラックH(2勝クラス)">グッドラックH(2勝クラス)</a></td>
+<td>
+<a href="/race/movie/202406050809" target="_blank" title="グッドラックH(2勝クラス)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">6</td>
+<td class="txt_right">11</td>
+<td class="txt_right">68.0</td>
+<td class=" txt_right">12</td>
+<td class="bml txt_right">15</td>
+<td>
+<a href="/jockey/result/recent/01140/" title="横山和生">横山和生</a>
+
+</td>
+<td>56</td>
+<td>芝2500</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">2:36.2</td>
+<td class="txt_right">4.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>16-16-16-16</td>
+<td>30.6-36.4</td>
+<td class="bml">37.9</td>
+<td>468(-4)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2018105047&rid=202406050809"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021105829/">スティンガーグラス</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20240916/">2024/09/16</a></td>
 <td><a href="/race/sum/06/20240916/">4中山5</a></td>
 <td>曇</td>

@@ -251,9 +251,9 @@ min-width: unset;
 <li class="Yoso">
 <a href="https://yoso.netkeiba.com/?access=init&rf=navi" title="予想" id="navi_link_yoso">予想</a>
 </li>
-<li class="Special">
+<!-- <li class="Special">
 <a href="https://race.netkeiba.com/special/index.html?id=0133&rf=navi" title="有馬記念" id="navi_link_Special">有馬記念</a>
-</li>
+</li> -->
 <li class="Column">
 <a href="https://news.netkeiba.com/?pid=column_top&rf=navi" title="コラム" id="navi_link_column">コラム</a>
 </li>
@@ -768,7 +768,7 @@ get_horse_detail_note('2022102980', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>1戦0勝 [<a href="/horse/result/2022102980/" title="全競走成績">0-0-0-1</a>]</td>
+<td>2戦0勝 [<a href="/horse/result/2022102980/" title="全競走成績">0-0-0-2</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -776,7 +776,7 @@ get_horse_detail_note('2022102980', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse//" title=""></a><a href="/horse//" title=""></a></td>
+<td><a href="/horse/2024101962/" title="スリーランディアの2024">スリーランディアの2024</a><a href="/horse//" title=""></a></td>
 </tr>
 </table>
 
@@ -982,6 +982,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20241222/">2024/12/22</a></td>
+<td><a href="/race/sum/08/20241222/">7京都8</a></td>
+<td>曇</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202408070802/" title="2歳未勝利">2歳未勝利</a></td>
+<td>
+<a href="/race/movie/202408070802" target="_blank" title="2歳未勝利の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">18</td>
+<td class="txt_right">3</td>
+<td class="txt_right">5</td>
+<td class="txt_right">21.5</td>
+<td class=" txt_right">7</td>
+<td class="bml txt_right">8</td>
+<td>
+<a href="/jockey/result/recent/01212/" title="柴田裕一">柴田裕一</a>
+
+</td>
+<td>52</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:35.8</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>13-13</td>
+<td>34.9-36.1</td>
+<td class="bml">35.7</td>
+<td>436(-6)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022102980&rid=202408070802"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022101697/">グラフィティアート</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241207/">2024/12/07</a></td>
 <td><a href="/race/sum/06/20241207/">5中山3</a></td>
 <td>晴</td>
