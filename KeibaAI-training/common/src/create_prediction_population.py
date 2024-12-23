@@ -41,9 +41,40 @@ def create(
     print("scraping race_id_list...")
     race_id_list = scraping.scrape_race_id_list([kaisai_date])
     dfs = {}
+    print(race_id_list)
     print("scraping horse_id_list...")
     for race_id in tqdm(race_id_list):
         horse_id_list = scrape_horse_id_list(race_id)
+        time.sleep(1)
+        df = pd.DataFrame(
+            {"date": kaisai_date, "race_id": race_id, "horse_id": horse_id_list}
+        )
+        
+        dfs[race_id] = df
+    concat_df = pd.concat(dfs.values())
+    concat_df["date"] = pd.to_datetime(concat_df["date"])
+    concat_df.to_csv(save_dir / save_filename, index=False, sep="\t")
+    return concat_df
+
+def create4Shingijutsu(
+    kaisai_date: str,
+    race_id: str,
+    save_dir: Path = POPULATION_DIR,
+    save_filename: str = "population.csv",
+) -> pd.DataFrame:
+    """
+    開催日（yyyymmdd形式）とレースIDを指定すると、予測母集団である
+    (date, race_id, horse_id)のDataFrameが返ってくる関数。
+    """
+    # print("scraping race_id_list...")
+    # race_id_list = scraping.scrape_race_id_list([kaisai_date])
+    # dfs = {}
+    # print(race_id_list)
+    dfs = {}
+    print("scraping horse_id_list...")
+    for race_id in tqdm(race_id):
+        horse_id_list = scrape_horse_id_list(race_id)
+        print(horse_id_list)
         time.sleep(1)
         df = pd.DataFrame(
             {"date": kaisai_date, "race_id": race_id, "horse_id": horse_id_list}

@@ -22,19 +22,42 @@ OUTPUT_DIR = DATA_DIR / "02_features"
 OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
 
 # カテゴリ変数を数値に変換するためのマッピング
-with open(MAPPING_DIR / "sex.json", "r") as f:
-    sex_mapping = json.load(f)
-with open(MAPPING_DIR / "race_type.json", "r") as f:
-    race_type_mapping = json.load(f)
-with open(MAPPING_DIR / "around.json", "r") as f:
-    around_mapping = json.load(f)
-with open(MAPPING_DIR / "weather.json", "r") as f:
-    weather_mapping = json.load(f)
-with open(MAPPING_DIR / "ground_state.json", "r") as f:
-    ground_state_mapping = json.load(f)
-with open(MAPPING_DIR / "race_class.json", "r") as f:
-    race_class_mapping = json.load(f)
-
+# with open(MAPPING_DIR / "sex.json", "r") as f:
+#     sex_mapping = json.load(f)
+# with open(MAPPING_DIR / "race_type.json", "r") as f:
+#     race_type_mapping = json.load(f)
+# with open(MAPPING_DIR / "around.json", "r") as f:
+#     around_mapping = json.load(f)
+# with open(MAPPING_DIR / "weather.json", "r") as f:
+#     weather_mapping = json.load(f)
+# with open(MAPPING_DIR / "ground_state.json", "r") as f:
+#     ground_state_mapping = json.load(f)
+# with open(MAPPING_DIR / "race_class.json", "r") as f:
+#     race_class_mapping = json.load(f)
+sex_mapping = {"牡": 0, "牝": 1, "セ": 2}
+race_type_mapping = {"ダ": 0, "芝": 1, "障": 3}
+weather_mapping = {"晴": 0, "曇": 1, "小雨": 2, "雨": 3}
+ground_state_mapping = {"良": 0, "稍": 1, "稍重": 1, "重": 2, "不":3, "不良":3}
+race_class_mapping = {
+    "新馬": 0,
+    "未勝利": 1,
+    "1勝クラス": 2,
+    "2勝クラス": 3,
+    "3勝クラス": 4,
+    "オープン": 5,
+    "G3": 6,
+    "G2": 7,
+    "G1": 8,
+    "OP": 5,
+    "特別": 5,
+    "500万以下": 2,
+    "1000万以下": 3,
+    "1600万以下": 4
+    }
+around_mapping = {
+    "右":0,
+    "左":1
+}
 
 class PredictionFeatureCreator:
     def __init__(
