@@ -12,11 +12,12 @@ from tqdm.notebook import tqdm
 from webdriver_manager.chrome import ChromeDriverManager
 
 # commonディレクトリのパス
-COMMON_DATA_DIR = Path("..", "..", "common",  "src" , "data")
+# COMMON_DATA_DIR = Path("..", "..", "common",  "src" , "data")
+COMMON_DATA_DIR = Path("data")
 POPULATION_DIR = COMMON_DATA_DIR / "prediction_population"
 MAPPING_DIR = COMMON_DATA_DIR / "mapping"
 # v3_0_0ディレクトリのパス
-DATA_DIR = Path("..", "data")
+DATA_DIR = Path("data")
 INPUT_DIR = DATA_DIR / "01_preprocessed"
 OUTPUT_DIR = DATA_DIR / "02_features"
 OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
@@ -196,7 +197,7 @@ class PredictionFeatureCreator:
         df["sex"] = df.iloc[:, 4].str[0].map(sex_mapping)
         df["age"] = df.iloc[:, 4].str[1:].astype(int)
         df["impost"] = df.iloc[:, 5].astype(float)
-        df["weight"] = df.iloc[:, 8].str.extract(r"(\d+)").fillna(0).astype(int)
+        df["weight"] = df.iloc[:, 8].astype(str).str.extract(r"(\d+)").fillna(0).astype(int)
         # df["weight_diff"] = (
         #     pd.to_numeric(
         #         df.iloc[:, 8].str.extract(r"\(([-+]?\d+)\)")[0],  # 数値と符号を含めて抽出
@@ -214,7 +215,7 @@ class PredictionFeatureCreator:
         # )
         df["weight_diff"] = (
             pd.to_numeric(
-                df.iloc[:, 8].str.extract(r"\(([-+]?\d+)\)")[0].replace("--", np.nan),  # '--' を NaN に置き換える
+                df.iloc[:, 8].astype(str).str.extract(r"\(([-+]?\d+)\)")[0].replace("--", np.nan),  # '--' を NaN に置き換える
                 errors="coerce"  # 数値変換できないものを NaN にする
             ).fillna(0)  # NaN を 0 に置き換える
             .astype(int)  # 整数型に変換
@@ -497,11 +498,11 @@ class PredictionFeatureCreator:
                 on=["race_id", "horse_id"],
                 how="left",
             )
-            .merge(
-                self.agg_horse_n_races_relative_df,
-                on=["race_id", "horse_id"],
-                how="left",
-            )
+            # .merge(
+            #     self.agg_horse_n_races_relative_df,
+            #     on=["race_id", "horse_id"],
+            #     how="left",
+            # )
             # .merge(
             #     self.agg_jockey_df,
             #     on=["race_id", "horse_id"],
@@ -512,26 +513,26 @@ class PredictionFeatureCreator:
             #     on=["race_id", "horse_id"],
             #     how="left",
             # )
-            .merge(
-                self.agg_horse_per_course_len_df,
-                on=["race_id", "date", "horse_id"],
-                how="left",
-            )
-            .merge(
-                self.agg_horse_per_group_cols_dfs["ground_state_race_type"],
-                on=["race_id", "date", "horse_id"],
-                how="left",
-            )
-            .merge(
-                self.agg_horse_per_group_cols_dfs["race_class"],
-                on=["race_id", "date", "horse_id"],
-                how="left",
-            )
-            .merge(
-                self.agg_horse_per_group_cols_dfs["race_type"],
-                on=["race_id", "date", "horse_id"],
-                how="left",
-            )
+            # .merge(
+            #     self.agg_horse_per_course_len_df,
+            #     on=["race_id", "date", "horse_id"],
+            #     how="left",
+            # )
+            # .merge(
+            #     self.agg_horse_per_group_cols_dfs["ground_state_race_type"],
+            #     on=["race_id", "date", "horse_id"],
+            #     how="left",
+            # )
+            # .merge(
+            #     self.agg_horse_per_group_cols_dfs["race_class"],
+            #     on=["race_id", "date", "horse_id"],
+            #     how="left",
+            # )
+            # .merge(
+            #     self.agg_horse_per_group_cols_dfs["race_type"],
+            #     on=["race_id", "date", "horse_id"],
+            #     how="left",
+            # )
             # .merge(
             #     self.agg_sire_df,
             #     on=["race_id", "horse_id"],

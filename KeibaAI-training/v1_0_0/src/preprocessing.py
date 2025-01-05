@@ -3,10 +3,10 @@ from pathlib import Path
 import pandas as pd
 import json
 
-COMMON_DATA_DIR = Path("..", "..", "common","src","data")
+COMMON_DATA_DIR = Path("data")
 INPUT_DIR = COMMON_DATA_DIR / "rawdf"
 MAPPING_DIR = COMMON_DATA_DIR / "mapping"
-OUTPUT_DIR = Path("..", "data", "01_preprocessed")
+OUTPUT_DIR = Path("data", "01_preprocessed")
 OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
 
 #カテゴリ変数を数値に変換するためのマッピング
@@ -35,6 +35,9 @@ race_class_mapping = {
     "G3": 6,
     "G2": 7,
     "G1": 8,
+    "GIII": 6,
+    "GII": 7,
+    "GI": 8,
     "OP": 5,
     "特別": 5,
     "500万以下": 2,

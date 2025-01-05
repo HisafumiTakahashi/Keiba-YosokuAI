@@ -13,7 +13,7 @@ from selenium.webdriver.common.by import By
 from tqdm.notebook import tqdm
 from webdriver_manager.chrome import ChromeDriverManager
 
-DATA_DIR = Path("..", "data")
+DATA_DIR = Path("data")
 HTML_RACE_DIR = DATA_DIR / "html" / "race"
 HTML_HORSE_DIR = DATA_DIR / "html" / "horse"
 HTML_PED_DIR = DATA_DIR / "html" / "ped"

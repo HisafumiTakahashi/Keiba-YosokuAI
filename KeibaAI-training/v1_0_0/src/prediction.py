@@ -4,7 +4,7 @@ import lightgbm as lgb
 import pandas as pd
 import yaml
 
-DATA_DIR = Path("..", "data")
+DATA_DIR = Path("data")
 MODEL_DIR = DATA_DIR / "03_train"
 
 
@@ -18,7 +18,7 @@ def predict(
         feature_cols = yaml.safe_load(f)["features"]
     # with open(model_dir / model_filename, "rb") as f:
     #     model = pickle.load(f)
-    model = lgb.Booster(model_file=Path("..", "model", "modelArima.txt"))
+    model = lgb.Booster(model_file=Path("model", "modelbetween0101-1131.txt"))
     prediction_df = features[["race_id", "umaban", "tansho_odds", "popularity"]].copy()
     prediction_df["pred"] = model.predict(features[feature_cols])
     return prediction_df.sort_values("pred", ascending=False)

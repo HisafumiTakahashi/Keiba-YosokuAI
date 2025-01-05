@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-DATA_DIR = Path("..", "data")
+DATA_DIR = Path("data")
 INPUT_DIR = DATA_DIR / "01_preprocessed"
 OUTPUT_DIR = DATA_DIR / "02_features"
 OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
@@ -27,7 +27,7 @@ class FeatureCreator:
         self.output_dir = output_dir
         self.output_filename = output_filename
 
-    def agg_horse_n_races(self, n_races: list[int] = [1, 3, 5, 10, 1000]) -> None:
+    def agg_horse_n_races(self, n_races: list[int] = [3, 5, 10, 1000]) -> None:
         """
         直近nレースの着順と賞金の平均を集計する関数。
         """
