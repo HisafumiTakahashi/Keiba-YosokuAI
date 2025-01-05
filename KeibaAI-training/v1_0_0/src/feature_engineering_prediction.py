@@ -278,7 +278,9 @@ class PredictionFeatureCreator:
         info1 = re.findall(r"[\w:]+", div1)
         info_dict["race_type"] = race_type_mapping[info1[1][0]]
         info_dict["around"] = (
-            around_mapping[info1[2][0]] if info_dict["race_type"] != 2 else np.nan
+            around_mapping[info1[2][0]] 
+            if info_dict["race_type"] != 3 
+            else np.nan
         )
         info_dict["course_len"] = int(re.findall(r"\d+", info1[1])[0])
         info_dict["weather"] = weather_mapping[re.findall(r"天候:(\w+)", div1)[0]]
