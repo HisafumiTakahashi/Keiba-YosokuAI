@@ -103,6 +103,7 @@ def scrape_html_race(
         if skip and filepath.is_file():
             print(f"skipped: {race_id}")
         else:
+            print(race_id)
             url = f"https://db.netkeiba.com/race/{race_id}"
             req = Request(url, headers= HEADERS)
             html = urlopen(req).read()  # スクレイピング
