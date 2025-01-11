@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1><!--  □地 -->ウォーターアレ</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2021100600/" style="color:#FFF;">Water Are</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-</p>
-<p class="txt_01">　牡　栗毛 </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1><!--  □地 -->ウォーターアレ</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2021100600/" style="color:#FFF;">Water Are</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+                        </p>
+                        
+                        <p class="txt_01">　牡　栗毛 </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -761,14 +768,14 @@ get_horse_detail_note('2021100600', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-73万円 (地方)
+78万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>12戦0勝 [<a href="/horse/result/2021100600/" title="全競走成績">0-3-1-8</a>]</td>
+<td>13戦0勝 [<a href="/horse/result/2021100600/" title="全競走成績">0-3-1-9</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -982,6 +989,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/48/20250104/">名古屋</a></td>
+<td>晴</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202548010406/" title="C15組">C15組</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010406" target="_blank" title="C15組の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">7</td>
+<td class="txt_right">7</td>
+<td class="txt_right">5.6</td>
+<td class=" txt_right">4</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05489/" title="今井貴大">今井貴大</a>
+
+</td>
+<td>56</td>
+<td>ダ1500</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:37.3</td>
+<td class="txt_right">0.9</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>3-3-4</td>
+<td>0.0-39.1</td>
+<td class="bml">39.9</td>
+<td>467(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102706/">アルーリングソレル</a></td>
+
+<td>5.0</td>
+</tr><tr>
 <td><a href="/race/list/20241220/">2024/12/20</a></td>
 <td><a href="/race/sum/48/20241220/">名古屋</a></td>
 <td>晴</td>

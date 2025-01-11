@@ -754,14 +754,14 @@ get_horse_detail_note('2020105204', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-72万円 (地方)
+76万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>39戦0勝 [<a href="/horse/result/2020105204/" title="全競走成績">0-1-1-37</a>]</td>
+<td>40戦0勝 [<a href="/horse/result/2020105204/" title="全競走成績">0-1-1-38</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/55/20250105/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202555010512/" title="SAGAリベンジャー(C2)">SAGAリベンジャー(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010512" target="_blank" title="SAGAリベンジャー(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">14.9</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/05609/" title="飛田愛斗">飛田愛斗</a>
+
+</td>
+<td>54</td>
+<td>ダ900</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">0:57.4</td>
+<td class="txt_right">0.9</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>7-7</td>
+<td>0.0-37.7</td>
+<td class="rank_3">37.7</td>
+<td>454(-2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2017101861/">スルーザリミッツ</a></td>
+
+<td>4.8</td>
+</tr><tr>
 <td><a href="/race/list/20241214/">2024/12/14</a></td>
 <td><a href="/race/sum/55/20241214/">佐賀</a></td>
 <td>晴</td>

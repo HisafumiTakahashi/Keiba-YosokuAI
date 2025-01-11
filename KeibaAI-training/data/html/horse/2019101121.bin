@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -409,14 +409,14 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head_name fc">
 
 <div class="horse_title">
-<h1>ララエフォール</h1>
+<h1><!--  □地 -->ララエフォール</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2019101121/" style="color:#FFF;">La La Effort</a>
 </p>
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">抹消　牡　鹿毛 </p>
+<p class="txt_01">　牡　鹿毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019101121&no=20491&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019101121&no=104885&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,11 +729,11 @@ get_horse_detail_note('2019101121', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/01143/" title="和田雄二">和田雄二</a> (美浦)</td>
+<td><a href="/trainer/05486/" title="今津博之">今津博之</a> (愛知)</td>
 </tr>
 <tr>
 <th>馬主</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/851800.gif" alt="フジイ興産" class="OwnerColours"><a href="/owner/851800/" title="フジイ興産">フジイ興産</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/800031.gif" alt="桑田照夫" class="OwnerColours"><a href="/owner/800031/" title="桑田照夫">桑田照夫</a></td>
 </tr>
 
 <tr>
@@ -755,13 +755,13 @@ get_horse_detail_note('2019101121', 'Horse_Note_Box');
 <td>
 
 
-4,282万円 (中央)
 
+4,282万円 (中央) /24万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>26戦2勝 [<a href="/horse/result/2019101121/" title="全競走成績">2-4-2-18</a>]</td>
+<td>27戦2勝 [<a href="/horse/result/2019101121/" title="全競走成績">2-4-3-18</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/48/20250106/">名古屋</a></td>
+<td>曇</td>
+<td class="txt_right">11</td>
+<td class=""><a href="/race/202548010611/" title="門松特別(A)">門松特別(A)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010611" target="_blank" title="門松特別(A)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">4.4</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05638/" title="塚本征吾">塚本征吾</a>
+
+</td>
+<td>56</td>
+<td>ダ1400</td>
+<td>重</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:29.3</td>
+<td class="txt_right">0.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>9-9-5</td>
+<td>0.0-38.5</td>
+<td class="rank_1">37.9</td>
+<td>507(+7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020106596/">アルティメットサガ</a></td>
+
+<td>24.0</td>
+</tr><tr>
 <td><a href="/race/list/20241109/">2024/11/09</a></td>
 <td><a href="/race/sum/05/20241109/">5東京3</a></td>
 <td>晴</td>

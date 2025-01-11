@@ -409,14 +409,14 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head_name fc">
 
 <div class="horse_title">
-<h1>テイエムメープル</h1>
+<h1><!--  □地 -->テイエムメープル</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2022100770/" style="color:#FFF;">T M Maple</a>
 </p>
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">抹消　牝　鹿毛 </p>
+<p class="txt_01">　牝　鹿毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -736,7 +736,7 @@ get_horse_detail_note('2022100770', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/01111/" title="鈴木孝志">鈴木孝志</a> (栗東)</td>
+<td><a href="/trainer/05738/" title="平山宏秀">平山宏秀</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -760,15 +760,15 @@ get_horse_detail_note('2022100770', 'Horse_Note_Box');
 <tr>
 <th>獲得賞金</th>
 <td>
-0万円
 
+3万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>2戦0勝 [<a href="/horse/result/2022100770/" title="全競走成績">0-0-0-2</a>]</td>
+<td>3戦0勝 [<a href="/horse/result/2022100770/" title="全競走成績">0-0-0-3</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -982,6 +982,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/55/20250104/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202555010412/" title="SAGAリベンジャー(3歳)">SAGAリベンジャー(3歳)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010412" target="_blank" title="SAGAリベンジャー(3歳)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">4</td>
+<td class="txt_right">4</td>
+<td class="txt_right">18.9</td>
+<td class=" txt_right">7</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05656/" title="中山蓮王">中山蓮王</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:35.0</td>
+<td class="txt_right">0.8</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>9-9-10-9</td>
+<td>0.0-40.7</td>
+<td class="rank_1">40.0</td>
+<td>551(+37)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022105680/">チェスター</a></td>
+
+<td>3.4</td>
+</tr><tr>
 <td><a href="/race/list/20241130/">2024/11/30</a></td>
 <td><a href="/race/sum/08/20241130/">7京都1</a></td>
 <td>晴</td>

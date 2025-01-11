@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103020&no=49353&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103020&no=71951&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -769,7 +769,7 @@ get_horse_detail_note('2021103020', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202408070410/" title="24'JRAウルトラプレミアムブエナビスタC(3勝クラス)">24'JRAウルトラプレミアムブエナビスタC(3勝クラス)</a><!--、<a href="/race/202407030209/" title=24'天竜川特別(2勝クラス)"">24'天竜川特別(2勝クラス)</a>--></td>
+<td><a href="/race/202408070410/" title="24'ＪＲＡウルトラプレミアムブエナビスタC(１６００万下)">24'ＪＲＡウルトラプレミアムブエナビスタC(１６００万下)</a><!--、<a href="/race/202407030209/" title=24'天竜川特別(１０００万下)"">24'天竜川特別(１０００万下)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

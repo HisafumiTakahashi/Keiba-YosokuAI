@@ -593,7 +593,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105786&no=48814&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105786&no=94547&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -773,7 +773,7 @@ get_horse_detail_note('2020105786', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202408070409/" title="70'オリオンS(１６００它布)">70'オリオンS(１６００它布)</a><!--、<a href="/race/202307040612/" title=70'萨磨泼侍(１０００它布)"">70'萨磨泼侍(１０００它布)</a>--></td>
+<td><a href="/race/202408070409/" title="24'オリオンS(１６００它布)">24'オリオンS(１６００它布)</a><!--、<a href="/race/202307040612/" title=23'萨磨泼侍(１０００它布)"">23'萨磨泼侍(１０００它布)</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>

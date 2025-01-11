@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -729,7 +729,7 @@ get_horse_detail_note('2020104968', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02c5/" title="加藤和義">加藤和義</a> (地方)</td>
+<td><a href="/trainer/a02c5/" title="加藤和義">加藤和義</a> (金沢)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020104968', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446122705/" title="若槻彩香さんお誕生日おめでとう記念">若槻彩香さんお誕生日おめでとう記念</a><!--、<a href="/race/202446082706/" title=耀太くん２歳のお誕生日おめでとう！記念"">耀太くん２歳のお誕生日おめでとう！記念</a>--></td>
+<td><a href="/race/202446122705/" title="若槻彩香さんお誕生日おめでとう記念">若槻彩香さんお誕生日おめでとう記念</a><!--、<a href="/race/202346111401/" title=うまかつ.net金沢ジョッキー選手権11"">うまかつ.net金沢ジョッキー選手権11</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

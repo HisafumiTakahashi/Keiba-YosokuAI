@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">顶呜
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -593,7 +593,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018105350&no=81422&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018105350&no=20956&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -773,7 +773,7 @@ get_horse_detail_note('2018105350', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202310030410/" title="23'户肃S(3尽クラス)">23'户肃S(3尽クラス)</a><!--、<a href="/race/202107050912/" title=21'3盒笆惧2尽クラス"">21'3盒笆惧2尽クラス</a>--></td>
+<td><a href="/race/202310030410/" title="23'户肃S(１６００它布)">23'户肃S(１６００它布)</a><!--、<a href="/race/202107050912/" title=21'３盒惧１０００它布"">21'３盒惧１０００它布</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>

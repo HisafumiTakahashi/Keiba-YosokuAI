@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">∂•Œÿ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -761,7 +761,7 @@ get_horse_detail_note('2020101718', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>22¿Ô4æ° [<a href="/horse/result/2020101718/" title="¡¥∂•¡ˆ¿Æ¿”">4-3-1-14</a>]</td>
+<td>23¿Ô4æ° [<a href="/horse/result/2020101718/" title="¡¥∂•¡ˆ¿Æ¿”">4-3-1-15</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/42/20250108/">±∫œ¬</a></td>
+<td>¿≤</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202542010812/" title=" °æ–§§∆√ Ã(C2C3)"> °æ–§§∆√ Ã(C2C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010812" target="_blank" title=" °æ–§§∆√ Ã(C2C3)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">70.1</td>
+<td class=" txt_right">10</td>
+<td class="bml txt_right">11</td>
+<td>
+<a href="/jockey/result/recent/05649/" title="√Ê≈ÁŒ…»˛">√Ê≈ÁŒ…»˛</a>
+
+</td>
+<td>51</td>
+<td>•¿2000</td>
+<td>Ω≈</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">2:20.1</td>
+<td class="txt_right">2.9</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>10-9-9-9</td>
+<td>40.1-40.5</td>
+<td class="bml">42.3</td>
+<td>477(+6)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020101436/">•Ø•È•≠•Û•´</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241225/">2024/12/25</a></td>
 <td><a href="/race/sum/42/20241225/">±∫œ¬</a></td>
 <td>¿≤</td>

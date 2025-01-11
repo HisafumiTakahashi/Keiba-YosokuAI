@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1><!--  □地 -->アルスカー</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2021103334/" style="color:#FFF;">Alskar</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-                        </p>
-                        
-                        <p class="txt_01">　牝　鹿毛 </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1><!--  □地 -->アルスカー</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2021103334/" style="color:#FFF;">Alskar</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+</p>
+<p class="txt_01">　牝　鹿毛 </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -772,11 +765,11 @@ get_horse_detail_note('2021103334', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>15戦1勝 [<a href="/horse/result/2021103334/" title="全競走成績">1-2-2-10</a>]</td>
+<td>16戦2勝 [<a href="/horse/result/2021103334/" title="全競走成績">2-2-2-10</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202454062303/" title="愛猫モモ20歳特別">愛猫モモ20歳特別</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202454062303/" title="愛猫モモ20歳特別">愛猫モモ20歳特別</a><!--、<a href="/race/202554010803/" title=C3ー10"">C3ー10</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -986,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/54/20250108/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202554010803/" title="C3ー10">C3ー10</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010803" target="_blank" title="C3ー10の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">7</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">6.3</td>
+<td class=" txt_right">4</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05577/" title="岩本怜">岩本怜</a>
+
+</td>
+<td>54</td>
+<td>ダ1300</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:29.0</td>
+<td class="txt_right">-0.3</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>4-4-3-2</td>
+<td>0.0-44.0</td>
+<td class="bml">43.8</td>
+<td>513(+8)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103311/">(ピークブルーム)</a></td>
+
+<td>60.0</td>
+</tr><tr>
 <td><a href="/race/list/20241222/">2024/12/22</a></td>
 <td><a href="/race/sum/54/20241222/">高知</a></td>
 <td>晴</td>

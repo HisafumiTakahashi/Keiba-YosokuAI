@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1><!--  ¢¢ÃÏ -->¥Ô¥Ã¥¯¥¢¥ó¥É¥í¡¼¥ë</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2021103141/" style="color:#FFF;">Pick and Roll</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
-</p>
-<p class="txt_01">¡¡²´¡¡¹õ¼¯ÌÓ </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1><!--  ¢¢ÃÏ -->¥Ô¥Ã¥¯¥¢¥ó¥É¥í¡¼¥ë</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2021103141/" style="color:#FFF;">Pick and Roll</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
+                        </p>
+                        
+                        <p class="txt_01">¡¡²´¡¡¹õ¼¯ÌÓ </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -733,7 +740,7 @@ get_horse_detail_note('2021103141', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/a0218/" title="¼ò°æ¿Î">¼ò°æ¿Î</a> (ÃÏÊý)</td>
+<td><a href="/trainer/a0218/" title="¼ò°æ¿Î">¼ò°æ¿Î</a> (´ä¼ê)</td>
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
@@ -769,7 +776,7 @@ get_horse_detail_note('2021103141', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202435051206/" title="£³ºÐ£Ã£±ÆóÁÈ">£³ºÐ£Ã£±ÆóÁÈ</a><!--¡¢<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202435051206/" title="3ºÐC1ÆóÁÈ">3ºÐC1ÆóÁÈ</a><!--¡¢<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

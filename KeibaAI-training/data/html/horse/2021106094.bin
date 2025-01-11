@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021106094&no=26881&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021106094&no=23552&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -733,7 +733,7 @@ get_horse_detail_note('2021106094', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02b7/" title="中川雅之">中川雅之</a> (金沢)</td>
+<td><a href="/trainer/05780/" title="宇野木博">宇野木博</a> (浦和)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2021106094', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>12戦6勝 [<a href="/horse/result/2021106094/" title="全競走成績">6-0-0-6</a>]</td>
+<td>13戦6勝 [<a href="/horse/result/2021106094/" title="全競走成績">6-0-1-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/42/20250110/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202542011007/" title="ここが好き、やっぱり(C2)">ここが好き、やっぱり(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542011007" target="_blank" title="ここが好き、やっぱり(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">8</td>
+<td class="txt_right">11</td>
+<td class="txt_right">2.9</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05524/" title="笹川翼">笹川翼</a>
+
+</td>
+<td>56</td>
+<td>ダ1500</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:37.8</td>
+<td class="txt_right">0.9</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-2-2-2</td>
+<td>31.5-38.8</td>
+<td class="bml">39.6</td>
+<td>538(-3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101984/">デルマプルシャ</a></td>
+
+<td>25.0</td>
+</tr><tr>
 <td><a href="/race/list/20241217/">2024/12/17</a></td>
 <td><a href="/race/sum/46/20241217/">金沢</a></td>
 <td>曇</td>

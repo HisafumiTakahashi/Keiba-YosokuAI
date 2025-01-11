@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -765,7 +765,7 @@ get_horse_detail_note('2020102840', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202410020107/" title="24'4歳以上1勝クラス">24'4歳以上1勝クラス</a><!--、<a href="/race/202347102705/" title=笠松けいば金曜日ライブ配信中"">笠松けいば金曜日ライブ配信中</a>--></td>
+<td><a href="/race/202410020107/" title="24'４歳上５００万下">24'４歳上５００万下</a><!--、<a href="/race/202347111012/" title=アルチスタ特別"">アルチスタ特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

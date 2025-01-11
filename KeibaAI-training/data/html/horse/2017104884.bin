@@ -729,7 +729,7 @@ get_horse_detail_note('2017104884', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05337/" title="内野健二">内野健二</a> (地方)</td>
+<td><a href="/trainer/05337/" title="内野健二">内野健二</a> (浦和)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2017104884', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202007010302/" title="20'３歳未勝利">20'３歳未勝利</a><!--、<a href="/race/202346121011/" title=楽天競馬ならポイントで馬券が買える特別"">楽天競馬ならポイントで馬券が買える特別</a>--></td>
+<td><a href="/race/202007010302/" title="20'3歳未勝利">20'3歳未勝利</a><!--、<a href="/race/202346121011/" title=楽天競馬ならポイントで馬券が買える特別"">楽天競馬ならポイントで馬券が買える特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

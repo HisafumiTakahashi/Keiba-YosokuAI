@@ -760,12 +760,12 @@ get_horse_detail_note('2021106553', 'Horse_Note_Box');
 
 
 
-140Ëü±ß (Ãæ±û) /15Ëü±ß (ÃÏÊý)
+140Ëü±ß (Ãæ±û) /28Ëü±ß (ÃÏÊý)
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>8Àï0¾¡ [<a href="/horse/result/2021106553/" title="Á´¶¥ÁöÀ®ÀÓ">0-0-2-6</a>]</td>
+<td>9Àï0¾¡ [<a href="/horse/result/2021106553/" title="Á´¶¥ÁöÀ®ÀÓ">0-1-2-6</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/55/20250106/">º´²ì</a></td>
+<td>ÆÞ</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202555010602/" title="C2¡¼16ÁÈ">C2¡¼16ÁÈ</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010602" target="_blank" title="C2¡¼16ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2.5</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05456/" title="ÅÄÃæ½ã">ÅÄÃæ½ã</a>
+
+</td>
+<td>56</td>
+<td>¥À1400</td>
+<td>ãÄ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.2</td>
+<td class="txt_right">0.1</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>3-4-3-4</td>
+<td>0.0-39.9</td>
+<td class="rank_1">39.9</td>
+<td>473(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102323/">¥«¥·¥Î¥­¥ã¥Ã¥Ä¥¢¥¤</a></td>
+
+<td>12.8</td>
+</tr><tr>
 <td><a href="/race/list/20241215/">2024/12/15</a></td>
 <td><a href="/race/sum/55/20241215/">º´²ì</a></td>
 <td>ÆÞ</td>

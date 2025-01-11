@@ -733,7 +733,7 @@ get_horse_detail_note('2021100742', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02b7/" title="中川雅之">中川雅之</a> (金沢)</td>
+<td><a href="/trainer/a02b7/" title="中川雅之">中川雅之</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021100742', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446072208/" title="釜田大輔生誕祭記念">釜田大輔生誕祭記念</a><!--、<a href="/race/202446121711/" title=キルタンサス賞"">キルタンサス賞</a>--></td>
+<td><a href="/race/202446081811/" title="サラブレッド大賞典トライアル特別">サラブレッド大賞典トライアル特別</a><!--、<a href="/race/202446072208/" title=釜田大輔生誕祭記念"">釜田大輔生誕祭記念</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

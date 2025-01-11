@@ -733,7 +733,7 @@ get_horse_detail_note('2021101679', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02b0/" title="打越勇児">打越勇児</a> (高知)</td>
+<td><a href="/trainer/05480/" title="田口輝彦">田口輝彦</a> (笠松)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,11 +765,11 @@ get_horse_detail_note('2021101679', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>10戦0勝 [<a href="/horse/result/2021101679/" title="全競走成績">0-1-4-5</a>]</td>
+<td>11戦1勝 [<a href="/horse/result/2021101679/" title="全競走成績">1-1-4-5</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race//" title=""></a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202547011005/" title="笠松けいば金曜日ライブ配信中">笠松けいば金曜日ライブ配信中</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/47/20250110/">笠松</a></td>
+<td>曇</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202547011005/" title="笠松けいば金曜日ライ(C)">笠松けいば金曜日ライ(C)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547011005" target="_blank" title="笠松けいば金曜日ライ(C)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">2.6</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05521/" title="藤原幹生">藤原幹生</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:30.6</td>
+<td class="txt_right">-0.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-2-2</td>
+<td>0.0-40.5</td>
+<td class="rank_2">40.1</td>
+<td>448(+3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021104835/">(エクストラドライ)</a></td>
+
+<td>40.0</td>
+</tr><tr>
 <td><a href="/race/list/20241221/">2024/12/21</a></td>
 <td><a href="/race/sum/54/20241221/">高知</a></td>
 <td>晴</td>

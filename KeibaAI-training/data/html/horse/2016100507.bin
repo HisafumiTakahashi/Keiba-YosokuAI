@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2016100507&no=6294&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2016100507&no=70462&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2016100507', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/05108/" title="É°¿¹Ë®É×">É°¿¹Ë®É×</a> (ÃÏÊý)</td>
+<td><a href="/trainer/05108/" title="É°¿¹Ë®É×">É°¿¹Ë®É×</a> (ËÌ³¤Æ»)</td>
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2016100507', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202204010311/" title="70'î²¿ÊÆÃÊÌ(£±£°£°£°Ëü²¼)">70'î²¿ÊÆÃÊÌ(£±£°£°£°Ëü²¼)</a><!--¡¢<a href="/race/202003030307/" title=70'£³ºÐ¾å???Ëü²¼"">70'£³ºÐ¾å???Ëü²¼</a>--></td>
+<td><a href="/race/202204010311/" title="22'î²¿ÊÆÃÊÌ(2¾¡¥¯¥é¥¹)">22'î²¿ÊÆÃÊÌ(2¾¡¥¯¥é¥¹)</a><!--¡¢<a href="/race/202003030307/" title=20'3ºÐ°Ê¾å1¾¡¥¯¥é¥¹"">20'3ºÐ°Ê¾å1¾¡¥¯¥é¥¹</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

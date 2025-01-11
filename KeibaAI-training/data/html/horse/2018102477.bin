@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -729,7 +729,7 @@ get_horse_detail_note('2018102477', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/05425/" title="½¡¹ËÂÙÉ§">½¡¹ËÂÙÉ§</a> (ÃÏÊı)</td>
+<td><a href="/trainer/05425/" title="½¡¹ËÂÙÉ§">½¡¹ËÂÙÉ§</a> (¶âÂô)</td>
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2018102477', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202250051212/" title="£Ã£±£Ã£²">£Ã£±£Ã£²</a><!--¡¢<a href="/race/202351013112/" title=¥í¥¦¥Ğ¥¤¾Ş£Ã£±"">¥í¥¦¥Ğ¥¤¾Ş£Ã£±</a>--></td>
+<td><a href="/race/202250051212/" title="C1C2">C1C2</a><!--¡¢<a href="/race/202351013112/" title=¥í¥¦¥Ğ¥¤¾ŞC1"">¥í¥¦¥Ğ¥¤¾ŞC1</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

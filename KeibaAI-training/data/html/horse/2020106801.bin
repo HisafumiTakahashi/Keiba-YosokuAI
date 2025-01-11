@@ -729,7 +729,7 @@ get_horse_detail_note('2020106801', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a01e2/" title="頼本盛行">頼本盛行</a> (地方)</td>
+<td><a href="/trainer/a01e2/" title="頼本盛行">頼本盛行</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020106801', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202346070401/" title="無料ネット新聞うまかつ．ｎｅｔ金沢賞">無料ネット新聞うまかつ．ｎｅｔ金沢賞</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202346070401/" title="無料ネット新聞うまかつ.net金沢賞">無料ネット新聞うまかつ.net金沢賞</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

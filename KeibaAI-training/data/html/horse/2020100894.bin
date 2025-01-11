@@ -729,7 +729,7 @@ get_horse_detail_note('2020100894', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02a6/" title="平山真希">平山真希</a> (浦和)</td>
+<td><a href="/trainer/a02a6/" title="平山真希">平山真希</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020100894', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202342071701/" title="特選">特選</a><!--、<a href="/race/202342062901/" title=3歳五"">3歳五</a>--></td>
+<td><a href="/race/202342071701/" title="特選">特選</a><!--、<a href="/race/202342062901/" title=３歳五"">３歳五</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

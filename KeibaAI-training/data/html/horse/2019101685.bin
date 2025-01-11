@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019101685&no=85221&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019101685&no=61134&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/50/20250109/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">11</td>
+<td class=""><a href="/race/202550010911/" title="猪名川町いなぼう特別(A1)">猪名川町いなぼう特別(A1)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010911" target="_blank" title="猪名川町いなぼう特別(A1)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">7</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">&nbsp;</td>
+<td class=" txt_right">&nbsp;</td>
+<td class="bml txt_right">取</td>
+<td>
+<a href="/jockey/result/recent/05522/" title="井上幹太">井上幹太</a>
+
+</td>
+<td>56</td>
+<td>ダ1230</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">&nbsp;</td>
+<td class="txt_right">&nbsp;</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>&nbsp;</td>
+<td>0.0-39.2</td>
+<td class="bml">&nbsp;</td>
+<td>計不</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019106165/">スマートセプター</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241218/">2024/12/18</a></td>
 <td><a href="/race/sum/50/20241218/">園田</a></td>
 <td>晴</td>

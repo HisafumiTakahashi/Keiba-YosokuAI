@@ -733,7 +733,7 @@ get_horse_detail_note('2021102133', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05610/" title="加藤和宏">加藤和宏</a> (地方)</td>
+<td><a href="/trainer/05237/" title="藤田正治">藤田正治</a> (笠松)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,11 +765,11 @@ get_horse_detail_note('2021102133', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>15戦1勝 [<a href="/horse/result/2021102133/" title="全競走成績">1-3-1-10</a>]</td>
+<td>16戦2勝 [<a href="/horse/result/2021102133/" title="全競走成績">2-3-1-10</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446082002/" title="３歳Ｂ　６">３歳Ｂ　６</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202446082002/" title="3歳B 6">3歳B 6</a><!--、<a href="/race/202547011004/" title=ほっちゃんゆきなちゃん結婚記念"">ほっちゃんゆきなちゃん結婚記念</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/47/20250110/">笠松</a></td>
+<td>曇</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202547011004/" title="ほっちゃんゆきなちゃ(C)">ほっちゃんゆきなちゃ(C)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547011004" target="_blank" title="ほっちゃんゆきなちゃ(C)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">2.2</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05638/" title="塚本征吾">塚本征吾</a>
+
+</td>
+<td>56</td>
+<td>ダ1400</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:33.7</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>4-3-2</td>
+<td>0.0-40.5</td>
+<td class="rank_1">40.2</td>
+<td>447(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102732/">(ペプチドアーニャ)</a></td>
+
+<td>40.0</td>
+</tr><tr>
 <td><a href="/race/list/20241224/">2024/12/24</a></td>
 <td><a href="/race/sum/46/20241224/">金沢</a></td>
 <td>雨</td>

@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019100097&no=103547&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019100097&no=112632&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2019100097', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202330100411/" title="がんばれ！Ａｉｂａ浦河応援特別">がんばれ！Ａｉｂａ浦河応援特別</a><!--、<a href="/race/202330072709/" title=あびら町純米大吟醸あびら川特別"">あびら町純米大吟醸あびら川特別</a>--></td>
+<td><a href="/race/202330041901/" title="3歳以上C4ー3">3歳以上C4ー3</a><!--、<a href="/race/202330051105/" title=3歳以上C4ー2"">3歳以上C4ー2</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

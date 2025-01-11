@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020106758&no=56973&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020106758&no=45368&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -733,7 +733,7 @@ get_horse_detail_note('2020106758', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="¥é¥¤¥Õ¥¨¥ó¥¿¡¼¥×¥é¥¤" class="OwnerColours"><a href="/owner/x033c1/" title="¥é¥¤¥Õ¥¨¥ó¥¿¡¼¥×¥é¥¤">¥é¥¤¥Õ¥¨¥ó¥¿¡¼¥×¥é¥¤</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="£Á£Ó£Õ£Ë£Á£Ë£É£Ë£Á£Ë" class="OwnerColours"><a href="/owner/x04d3b/" title="£Á£Ó£Õ£Ë£Á£Ë£É£Ë£Á£Ë">£Á£Ó£Õ£Ë£Á£Ë£É£Ë£Á£Ë</a></td>
 </tr>
 
 <tr>
@@ -761,7 +761,7 @@ get_horse_detail_note('2020106758', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>39Àï1¾¡ [<a href="/horse/result/2020106758/" title="Á´¶¥ÁöÀ®ÀÓ">1-2-3-33</a>]</td>
+<td>40Àï1¾¡ [<a href="/horse/result/2020106758/" title="Á´¶¥ÁöÀ®ÀÓ">1-2-3-34</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/42/20250107/">±ºÏÂ</a></td>
+<td>À²</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202542010708/" title="±ºÏÂ¥¨¥¤¥È¥Á¥ã¥ì¥ó¥¸(C3)">±ºÏÂ¥¨¥¤¥È¥Á¥ã¥ì¥ó¥¸(C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010708" target="_blank" title="±ºÏÂ¥¨¥¤¥È¥Á¥ã¥ì¥ó¥¸(C3)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">24.8</td>
+<td class=" txt_right">6</td>
+<td class="bml txt_right">10</td>
+<td>
+<a href="/jockey/result/recent/a0235/" title="³ÞÌîÍºÂç">³ÞÌîÍºÂç</a>
+
+</td>
+<td>56</td>
+<td>¥À1400</td>
+<td>½Å</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:35.1</td>
+<td class="txt_right">4.7</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>8-8-10-11</td>
+<td>38.5-39.0</td>
+<td class="bml">42.2</td>
+<td>457(+1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018106803/">¥Ä¡¼¥¨¥à¥¿¥¤¥¬¡¼</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241225/">2024/12/25</a></td>
 <td><a href="/race/sum/42/20241225/">±ºÏÂ</a></td>
 <td>À²</td>

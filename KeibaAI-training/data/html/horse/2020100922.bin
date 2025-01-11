@@ -729,7 +729,7 @@ get_horse_detail_note('2020100922', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05709/" title="千葉博次">千葉博次</a> (地方)</td>
+<td><a href="/trainer/05709/" title="千葉博次">千葉博次</a> (岩手)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020100922', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202336040307/" title="３歳Ｂ２">３歳Ｂ２</a><!--、<a href="/race/202336031302/" title=３歳Ｃ１一組"">３歳Ｃ１一組</a>--></td>
+<td><a href="/race/202336040307/" title="3歳B2">3歳B2</a><!--、<a href="/race/202336031302/" title=3歳C1一組"">3歳C1一組</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

@@ -756,12 +756,12 @@ get_horse_detail_note('2020106950', 'Horse_Note_Box');
 
 
 
-2,080万円 (中央) /190万円 (地方)
+2,080万円 (中央) /208万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>13戦2勝 [<a href="/horse/result/2020106950/" title="全競走成績">2-3-2-6</a>]</td>
+<td>14戦2勝 [<a href="/horse/result/2020106950/" title="全競走成績">2-3-3-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/48/20250103/">名古屋</a></td>
+<td>晴</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202548010310/" title="巳年特別(A)">巳年特別(A)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010310" target="_blank" title="巳年特別(A)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">7</td>
+<td class="txt_right">7</td>
+<td class="txt_right">5.1</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05557/" title="加藤聡一">加藤聡一</a>
+
+</td>
+<td>54</td>
+<td>ダ1700</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:50.9</td>
+<td class="txt_right">0.7</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>3-3-5</td>
+<td>0.0-38.3</td>
+<td class="rank_3">38.8</td>
+<td>488(-8)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2017100904/">タイクーンバゴ</a></td>
+
+<td>18.0</td>
+</tr><tr>
 <td><a href="/race/list/20241205/">2024/12/05</a></td>
 <td><a href="/race/sum/48/20241205/">名古屋</a></td>
 <td>晴</td>

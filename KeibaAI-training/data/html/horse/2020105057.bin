@@ -729,7 +729,7 @@ get_horse_detail_note('2020105057', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05160/" title="佐藤茂">佐藤茂</a> (金沢)</td>
+<td><a href="/trainer/05160/" title="佐藤茂">佐藤茂</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020105057', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446031007/" title="楽天競馬ならポイントで馬券が買える賞">楽天競馬ならポイントで馬券が買える賞</a><!--、<a href="/race/202446121704/" title=ぼくらが夜明け甘犬44生誕記念杯"">ぼくらが夜明け甘犬44生誕記念杯</a>--></td>
+<td><a href="/race/202446072206/" title="片山津温泉うきうき縁日特別">片山津温泉うきうき縁日特別</a><!--、<a href="/race/202446031007/" title=楽天競馬ならポイントで馬券が買える賞"">楽天競馬ならポイントで馬券が買える賞</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

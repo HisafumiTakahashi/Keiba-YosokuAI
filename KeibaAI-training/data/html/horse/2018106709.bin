@@ -732,7 +732,7 @@ get_horse_detail_note('2018106709', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>拇兜徽</th>
-<td><a href="/trainer/00849/" title="孟收宫办">孟收宫办</a> (唉梦)</td>
+<td><a href="/trainer/00849/" title="孟收宫办">孟收宫办</a> (孟数)</td>
 </tr>
 <tr>
 <th>窍肩</th>
@@ -759,16 +759,16 @@ get_horse_detail_note('2018106709', 'Horse_Note_Box');
 
 
 
-77它边 (面丙) /280它边 (孟数)
+77它边 (面丙) /297它边 (孟数)
 </td>
 </tr>
 <tr>
 <th>奶换喇烙</th>
-<td>46里4尽 [<a href="/horse/result/2018106709/" title="链顶瘤喇烙">4-0-2-40</a>]</td>
+<td>47里4尽 [<a href="/horse/result/2018106709/" title="链顶瘤喇烙">4-1-2-40</a>]</td>
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202350061506/" title="C2企">C2企</a><!--、<a href="/race/202350052404/" title=C3企"">C3企</a>--></td>
+<td><a href="/race/202350061506/" title="Ｃ２企">Ｃ２企</a><!--、<a href="/race/202350052404/" title=Ｃ３企"">Ｃ３企</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>
@@ -978,6 +978,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/48/20250104/">叹概舶</a></td>
+<td>啦</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202548010412/" title="C13寥">C13寥</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010412" target="_blank" title="C13寥の鼻咙"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">6</td>
+<td class="txt_right">53.0</td>
+<td class=" txt_right">9</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05196/" title="弟布品">弟布品</a>
+
+</td>
+<td>52</td>
+<td>ダ1400</td>
+<td>紊</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:30.9</td>
+<td class="txt_right">0.1</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>2-2-2</td>
+<td>0.0-39.7</td>
+<td class="bml">39.7</td>
+<td>478(+3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103062/">キャンディタフト</a></td>
+
+<td>17.5</td>
+</tr><tr>
 <td><a href="/race/list/20241223/">2024/12/23</a></td>
 <td><a href="/race/sum/48/20241223/">叹概舶</a></td>
 <td>啦</td>

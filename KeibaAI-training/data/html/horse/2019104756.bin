@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104756&no=31748&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104756&no=30785&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2019104756', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202206010611/" title="70'京成杯(G3)">70'京成杯(G3)</a><!--、<a href="/race/202105050209/" title=70'百日草特別(５００万下)"">70'百日草特別(５００万下)</a>--></td>
+<td><a href="/race/202206010611/" title="22'京成杯(G3)">22'京成杯(G3)</a><!--、<a href="/race/202105050209/" title=21'百日草特別(1勝クラス)"">21'百日草特別(1勝クラス)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

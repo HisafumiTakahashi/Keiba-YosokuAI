@@ -736,7 +736,7 @@ get_horse_detail_note('2021106491', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05106/" title="真島元徳">真島元徳</a> (佐賀)</td>
+<td><a href="/trainer/05106/" title="真島元徳">真島元徳</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -772,7 +772,7 @@ get_horse_detail_note('2021106491', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202355102305/" title="2歳ー6組">2歳ー6組</a><!--、<a href="/race/202455010502/" title=新春万福賞"">新春万福賞</a>--></td>
+<td><a href="/race/202355102305/" title="２歳ー６組">２歳ー６組</a><!--、<a href="/race/202455010502/" title=新春万福賞"">新春万福賞</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

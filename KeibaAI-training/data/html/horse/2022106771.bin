@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1>¥Î¥á¥ó¥¿¡¼¥Î</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2022106771/" style="color:#FFF;">Nomentano</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
-</p>
-<p class="txt_01">¸½Ìò¡¡ÌÆ3ºÐ¡¡¹õ¼¯ÌÓ </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1>¥Î¥á¥ó¥¿¡¼¥Î</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2022106771/" style="color:#FFF;">Nomentano</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
+                        </p>
+                        
+                        <p class="txt_01">¸½Ìò¡¡ÌÆ3ºÐ¡¡¹õ¼¯ÌÓ </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -599,7 +606,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022106771&no=26967&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 26967 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022106771&no=28642&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 28642 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022106771&no=26967&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 26967 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 

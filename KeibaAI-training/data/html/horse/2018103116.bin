@@ -409,14 +409,14 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head_name fc">
 
 <div class="horse_title">
-<h1>サトノロイヤル</h1>
+<h1><!--  □地 -->サトノロイヤル</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2018103116/" style="color:#FFF;">Satono Royal</a>
 </p>
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">抹消　牡　鹿毛 </p>
+<p class="txt_01">　牡　鹿毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018103116&no=73620&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018103116&no=61179&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2018103116', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/01172/" title="新谷功一">新谷功一</a> (栗東)</td>
+<td><a href="/trainer/05302/" title="内田勝義">内田勝義</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -761,11 +761,11 @@ get_horse_detail_note('2018103116', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>24戦4勝 [<a href="/horse/result/2018103116/" title="全競走成績">4-4-2-14</a>]</td>
+<td>25戦4勝 [<a href="/horse/result/2018103116/" title="全競走成績">4-4-2-15</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202305020510/" title="23'立夏S(3勝クラス)">23'立夏S(3勝クラス)</a><!--、<a href="/race/202210010311/" title=22'小倉城特別(2勝クラス)"">22'小倉城特別(2勝クラス)</a>--></td>
+<td><a href="/race/202305020510/" title="70'立夏S(１６００万下)">70'立夏S(１６００万下)</a><!--、<a href="/race/202210010311/" title=70'小倉城特別(１０００万下)"">70'小倉城特別(１０００万下)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/45/20250104/">川崎</a></td>
+<td>晴</td>
+<td class="txt_right">11</td>
+<td class=""><a href="/race/202545010411/" title="スパーキングオールス(A2)">スパーキングオールス(A2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202545010411" target="_blank" title="スパーキングオールス(A2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">3.7</td>
+<td class="rank_2 txt_right">2</td>
+<td class="bml txt_right">10</td>
+<td>
+<a href="/jockey/result/recent/05455/" title="町田直希">町田直希</a>
+
+</td>
+<td>57</td>
+<td>ダ2100</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">2:24.0</td>
+<td class="txt_right">1.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>1-1-1-1</td>
+<td>32.7-40.6</td>
+<td class="bml">41.8</td>
+<td>511(+7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101340/">プラセボ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241117/">2024/11/17</a></td>
 <td><a href="/race/sum/05/20241117/">5東京6</a></td>
 <td>晴</td>

@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105804&no=15153&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105804&no=52091&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2020105804', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/05718/" title="ºäËÜÏÂÌé">ºäËÜÏÂÌé</a> (ÃÏÊı)</td>
+<td><a href="/trainer/05718/" title="ºäËÜÏÂÌé">ºäËÜÏÂÌé</a> (Ê¼¸Ë)</td>
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
@@ -754,7 +754,7 @@ get_horse_detail_note('2020105804', 'Horse_Note_Box');
 <th>³ÍÆÀ¾Ş¶â</th>
 <td>
 
-771Ëü±ß (ÃÏÊı)
+782Ëü±ß (ÃÏÊı)
 
 
 </td>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020105804', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202350060709/" title="£³ºĞ£Â£Ã£±">£³ºĞ£Â£Ã£±</a><!--¡¢<a href="/race/202451030712/" title=¥¢¡¼¥â¥ó¥É¾Ş£Ã£±"">¥¢¡¼¥â¥ó¥É¾Ş£Ã£±</a>--></td>
+<td><a href="/race/202451030712/" title="¥¢¡¼¥â¥ó¥É¾ŞC1">¥¢¡¼¥â¥ó¥É¾ŞC1</a><!--¡¢<a href="/race/202350052506/" title=3ºĞC1"">3ºĞC1</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>
@@ -1000,16 +1000,20 @@ $('#horse_award_box').html(data.data);
 <td>ÎÉ</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:32.5</td>
 <td class="txt_right">0.5</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>7-7-7-8</td>
 <td>0.0-40.1</td>

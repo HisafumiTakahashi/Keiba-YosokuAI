@@ -599,7 +599,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=73281&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 73281 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=73280&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 73280 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=45020&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 45020 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=38813&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 38813 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=74383&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 74383 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=73281&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 73281 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=73280&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 73280 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=45020&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 45020 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100504&no=38813&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 38813 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 
@@ -733,7 +733,7 @@ get_horse_detail_note('2021100504', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05337/" title="内野健二">内野健二</a> (浦和)</td>
+<td><a href="/trainer/05337/" title="内野健二">内野健二</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,11 +765,11 @@ get_horse_detail_note('2021100504', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>15戦2勝 [<a href="/horse/result/2021100504/" title="全競走成績">2-2-1-10</a>]</td>
+<td>16戦2勝 [<a href="/horse/result/2021100504/" title="全競走成績">2-2-2-10</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202435082002/" title="3歳C2五組">3歳C2五組</a><!--、<a href="/race/202435111201/" title=C2四組"">C2四組</a>--></td>
+<td><a href="/race/202435082002/" title="３歳Ｃ２五組">３歳Ｃ２五組</a><!--、<a href="/race/202435111201/" title=Ｃ２四組"">Ｃ２四組</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/42/20250107/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202542010706/" title="特選(C3)">特選(C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010706" target="_blank" title="特選(C3)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">4</td>
+<td class="txt_right">4</td>
+<td class="txt_right">5.4</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/a056c/" title="千野稜真">千野稜真</a>
+
+</td>
+<td>51</td>
+<td>ダ1500</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:40.8</td>
+<td class="txt_right">2.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>5-5-5-4</td>
+<td>32.3-39.2</td>
+<td class="rank_3">40.6</td>
+<td>422(-9)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021100916/">ツェルニー</a></td>
+
+<td>22.5</td>
+</tr><tr>
 <td><a href="/race/list/20241223/">2024/12/23</a></td>
 <td><a href="/race/sum/42/20241223/">浦和</a></td>
 <td>晴</td>

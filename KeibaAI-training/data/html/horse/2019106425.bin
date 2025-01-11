@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019106425&no=26185&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019106425&no=54420&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2019106425', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202207030502/" title="22'£³ºĞÌ¤¾¡Íø">22'£³ºĞÌ¤¾¡Íø</a><!--¡¢<a href="/race/202250082411/" title=£Ê£Ò£Á¸òÎ®ÁôÀîÆÃÊÌ"">£Ê£Ò£Á¸òÎ®ÁôÀîÆÃÊÌ</a>--></td>
+<td><a href="/race/202207030502/" title="22'3ºĞÌ¤¾¡Íø">22'3ºĞÌ¤¾¡Íø</a><!--¡¢<a href="/race/202250082411/" title=JRA¸òÎ®ÁôÀîÆÃÊÌ"">JRA¸òÎ®ÁôÀîÆÃÊÌ</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

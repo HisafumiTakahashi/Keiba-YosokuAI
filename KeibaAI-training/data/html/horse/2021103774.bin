@@ -595,11 +595,11 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=38875&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=50137&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=50690&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50690 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=50137&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50137 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=38875&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 38875 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=74384&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 74384 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=50690&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50690 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=50137&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50137 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103774&no=38875&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 38875 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 
@@ -733,7 +733,7 @@ get_horse_detail_note('2021103774', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/05368/" title="Ý¯°æº£Ä«">Ý¯°æº£Ä«</a> (°¦ÃÎ)</td>
+<td><a href="/trainer/05015/" title="³¤ÇÏÂô»Ê">³¤ÇÏÂô»Ê</a> (±ºÏÂ)</td>
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2021103774', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>17Àï2¾¡ [<a href="/horse/result/2021103774/" title="Á´¶¥ÁöÀ®ÀÓ">2-0-2-13</a>]</td>
+<td>18Àï2¾¡ [<a href="/horse/result/2021103774/" title="Á´¶¥ÁöÀ®ÀÓ">2-0-2-14</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/42/20250107/">±ºÏÂ</a></td>
+<td>À²</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202542010706/" title="ÆÃÁª(C3)">ÆÃÁª(C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010706" target="_blank" title="ÆÃÁª(C3)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">7.9</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05397/" title="µÈÎ±¹§»Ê">µÈÎ±¹§»Ê</a>
+
+</td>
+<td>56</td>
+<td>¥À1500</td>
+<td>½Å</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:41.3</td>
+<td class="txt_right">2.7</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>9-8-7-5</td>
+<td>32.3-39.2</td>
+<td class="bml">40.8</td>
+<td>505(-3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021100916/">¥Ä¥§¥ë¥Ë¡¼</a></td>
+
+<td>9.0</td>
+</tr><tr>
 <td><a href="/race/list/20241223/">2024/12/23</a></td>
 <td><a href="/race/sum/48/20241223/">Ì¾¸Å²°</a></td>
 <td>À²</td>

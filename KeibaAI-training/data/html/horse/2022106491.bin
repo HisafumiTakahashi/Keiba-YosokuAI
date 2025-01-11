@@ -733,7 +733,7 @@ get_horse_detail_note('2022106491', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05580/" title="田中守">田中守</a> (地方)</td>
+<td><a href="/trainer/05580/" title="田中守">田中守</a> (高知)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2022106491', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202454122806/" title="金の鞍賞">金の鞍賞</a><!--、<a href="/race/202454113002/" title=将充騎手お疲れ様特別"">将充騎手お疲れ様特別</a>--></td>
+<td><a href="/race/202454122806/" title="金の鞍賞">金の鞍賞</a><!--、<a href="/race/202454111701/" title=2歳ー5"">2歳ー5</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

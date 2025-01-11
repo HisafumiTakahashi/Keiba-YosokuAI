@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2016104656&no=75266&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2016104656&no=50710&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2016104656', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>拇兜徽</th>
-<td><a href="/trainer/a03eb/" title="陛舶郊">陛舶郊</a> (孟数)</td>
+<td><a href="/trainer/a03eb/" title="陛舶郊">陛舶郊</a> (唉梦)</td>
 </tr>
 <tr>
 <th>窍肩</th>
@@ -756,7 +756,7 @@ get_horse_detail_note('2016104656', 'Horse_Note_Box');
 
 
 
-5,228它边 (面丙) /29它边 (孟数)
+5,228它边 (面丙) /39它边 (孟数)
 </td>
 </tr>
 <tr>
@@ -765,7 +765,7 @@ get_horse_detail_note('2016104656', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/201901010112/" title="19'挨川感泼侍(１０００它布)">19'挨川感泼侍(１０００它布)</a><!--、<a href="/race/201902010208/" title=19'３盒惧５００它布"">19'３盒惧５００它布</a>--></td>
+<td><a href="/race/201901010112/" title="19'挨川感泼侍(2尽クラス)">19'挨川感泼侍(2尽クラス)</a><!--、<a href="/race/201902010208/" title=19'3盒笆惧1尽クラス"">19'3盒笆惧1尽クラス</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>
@@ -1000,16 +1000,20 @@ $('#horse_award_box').html(data.data);
 <td>紊</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">2:09.0</td>
 <td class="txt_right">1.2</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>10-5-3-4</td>
 <td>0.0-38.8</td>

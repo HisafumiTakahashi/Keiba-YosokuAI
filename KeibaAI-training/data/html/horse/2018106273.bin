@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018106273&no=66239&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018106273&no=50161&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2018106273', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>潛卅鴃務</th>
-<td><a href="/race/202205050211/" title="22'失伙未件民件隋狟嶄м(G2)">22'失伙未件民件隋狟嶄м(G2)</a><!--﹜<a href="/race/202205040310/" title=22'牰模S(3鴃弁仿旦)"">22'牰模S(3鴃弁仿旦)</a>--></td>
+<td><a href="/race/202205050211/" title="22'失伙未件民件隋狟嶄м(G2)">22'失伙未件民件隋狟嶄м(G2)</a><!--﹜<a href="/race/202205040310/" title=22'牰模S(ㄠㄥㄟㄟ坳票)"">22'牰模S(ㄠㄥㄟㄟ坳票)</a>--></td>
 </tr>
 <tr>
 <th>嗤褪ж</th>

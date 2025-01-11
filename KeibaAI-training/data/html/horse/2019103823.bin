@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">∂•Œÿ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -591,11 +591,11 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=12682&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=101499&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=115664&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 115664 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=109150&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 109150 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=109092&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 109092 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=109078&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 109078 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=108982&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 108982 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=103482&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 103482 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=103375&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 103375 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=101499&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 101499 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=96728&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 96728 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=91574&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 91574 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=119735&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 119735 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=115664&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 115664 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=109150&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 109150 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=109092&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 109092 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=109078&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 109078 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=108982&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 108982 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=103482&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 103482 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=103375&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 103375 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=101499&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 101499 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103823&no=96728&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 96728 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 
@@ -761,11 +761,11 @@ get_horse_detail_note('2019103823', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>13¿Ô5æ° [<a href="/horse/result/2019103823/" title="¡¥∂•¡ˆ¿Æ¿”">5-1-1-6</a>]</td>
+<td>14¿Ô5æ° [<a href="/horse/result/2019103823/" title="¡¥∂•¡ˆ¿Æ¿”">5-1-1-7</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
-<td><a href="/race/202406010111/" title="24'√Êª≥∂‚«’(G3)">24'√Êª≥∂‚«’(G3)</a><!--°¢<a href="/race/202309040810/" title=23'¿æµ‹S(3æ°•Ø•È•π)"">23'¿æµ‹S(3æ°•Ø•È•π)</a>--></td>
+<td><a href="/race/202406010111/" title="24'√Êª≥∂‚«’(G3)">24'√Êª≥∂‚«’(G3)</a><!--°¢<a href="/race/202309040810/" title=23'¿æµ‹S(£±£∂£∞£∞À¸≤º)"">23'¿æµ‹S(£±£∂£∞£∞À¸≤º)</a>--></td>
 </tr>
 <tr>
 <th>∂·ø∆«œ</th>
@@ -975,6 +975,65 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/06/20250105/">1√Êª≥1</a></td>
+<td>∆ﬁ</td>
+<td class="txt_right">11</td>
+<td class="rank_3"><a href="/race/202506010111/" title="∆¸¥©•π•›æﬁ√Êª≥∂‚«’(GIII)">∆¸¥©•π•›æﬁ√Êª≥∂‚«’(GIII)</a></td>
+<td>
+<a href="/race/movie/202506010111" target="_blank" title="∆¸¥©•π•›æﬁ√Êª≥∂‚«’(GIII)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">18</td>
+<td class="txt_right">7</td>
+<td class="txt_right">14</td>
+<td class="txt_right">8.5</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">15</td>
+<td>
+<a href="/jockey/result/recent/01092/" title="ƒ≈¬ºÃ¿Ω®">ƒ≈¬ºÃ¿Ω®</a>
+
+</td>
+<td>58</td>
+<td>º«2000</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:59.5</td>
+<td class="txt_right">1.4</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>16-16-16-16</td>
+<td>34.9-35.7</td>
+<td class="bml">35.5</td>
+<td>496(+6)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2019103823&rid=202506010111"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+
+</td>
+<td><a href="/horse/2019105252/">•¢•Î• •∑°º•‡</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20240922/">2024/09/22</a></td>
 <td><a href="/race/sum/06/20240922/">4√Êª≥7</a></td>
 <td>∆ﬁ</td>
@@ -1821,7 +1880,7 @@ $('#paddock_movie_box').html(data.data);
 </p>
 </a>
 <div class="ReferencePaddock_Txt">
-<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202506010111">√Êª≥∂‚«’</a> <span class="Icon_GradeType Icon_GradeType3">GIII</span> <span class="RaceResultNum ResultRank15">15√Â</span></p>
+<p class="ReferencePaddockName"><a href="https://db.netkeiba.com/race/202506010111/">√Êª≥∂‚«’</a> <span class="Icon_GradeType Icon_GradeType3">GIII</span> <span class="RaceResultNum ResultRank15">15√Â</span></p>
 <p class="ReferencePaddockDate">2025/01/05 √Êª≥11R º«2000m</p>
 </div>
 </div>
@@ -1829,7 +1888,7 @@ $('#paddock_movie_box').html(data.data);
 <div class="PhotoContainer">
 <div class="PhotoInner">
 <section class="PhotoPaddockModal modal">
-<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202506010111">√Êª≥∂‚«’<span class="Icon_GradeType Icon_GradeType3">GIII</span></a> <span class="RaceResultNum ResultRank15">15√Â</span></p>
+<p class="ReferencePaddockName"><a href="https://db.netkeiba.com/race/202506010111/">√Êª≥∂‚«’<span class="Icon_GradeType Icon_GradeType3">GIII</span></a> <span class="RaceResultNum ResultRank15">15√Â</span></p>
 <div class="VideoBox">
 <img src="https://cdn.netkeiba.com/img.racev4.sp/batai_img.php?id=3627">
 <p>¢•12∑Ó25∆¸ª£±∆(c)netkeiba</p>

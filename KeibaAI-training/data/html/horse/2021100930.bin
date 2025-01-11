@@ -595,11 +595,11 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100930&no=15202&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100930&no=73990&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100930&no=18499&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 18499 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100930&no=15202&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 15202 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100930&no=73990&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 73990 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100930&no=18499&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 18499 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100930&no=15202&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 15202 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 
@@ -765,7 +765,7 @@ get_horse_detail_note('2021100930', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>12戦0勝 [<a href="/horse/result/2021100930/" title="全競走成績">0-1-0-11</a>]</td>
+<td>13戦0勝 [<a href="/horse/result/2021100930/" title="全競走成績">0-1-0-12</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/42/20250110/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202542011007/" title="ここが好き、やっぱり(C2)">ここが好き、やっぱり(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542011007" target="_blank" title="ここが好き、やっぱり(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">8</td>
+<td class="txt_right">12</td>
+<td class="txt_right">47.0</td>
+<td class=" txt_right">8</td>
+<td class="bml txt_right">10</td>
+<td>
+<a href="/jockey/result/recent/05607/" title="木間塚龍">木間塚龍</a>
+
+</td>
+<td>55</td>
+<td>ダ1500</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:40.3</td>
+<td class="txt_right">3.4</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>6-6-8-11</td>
+<td>31.5-38.8</td>
+<td class="bml">41.1</td>
+<td>484(+2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101984/">デルマプルシャ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241225/">2024/12/25</a></td>
 <td><a href="/race/sum/42/20241225/">浦和</a></td>
 <td>晴</td>

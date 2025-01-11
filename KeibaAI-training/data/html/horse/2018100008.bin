@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018100008&no=92372&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018100008&no=58549&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -756,7 +756,7 @@ get_horse_detail_note('2018100008', 'Horse_Note_Box');
 
 
 
-1,911万円 (中央) /745万円 (地方)
+1,911万円 (中央) /850万円 (地方)
 </td>
 </tr>
 <tr>
@@ -1000,16 +1000,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:13.8</td>
 <td class="txt_right">0.3</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>2-2</td>
 <td>35.6-37.9</td>
@@ -3084,10 +3088,53 @@ $('#relation_movie').html(data.data);
 
 <div class="db_h_rank_box_head">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/db_det_h_03_03.png" alt="" class="icon" />
-<h2>みんなのナサ評価 (評価：<a href="/?pid=horse_reviewer_list&id=2018100008" title="みんなのナサ評価">0</a>件)</h2>
+<h2>みんなのナサ評価 (評価：<a href="/?pid=horse_reviewer_list&id=2018100008" title="みんなのナサ評価">1</a>件)</h2>
 </div><!-- /.db_h_rank_box_head -->
+<div class="horse_rank_data fc">
+<p class="ListSortInfo">
+デビュー前から引退後まで、いつでも評価できるユーザー参加型の競走馬レビューです。
+</p>
+<div class="db_h_rank_review">
+<div class="categorybar_line" >
+<h3 class="categorybar"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_db_tekisei_02.png" width="20" height="20" alt="" />みんなの適性レビュー</h3>
+</div>
+<dl>
+<dd>
+<table summary="ナサの適性レビュー">
+<tr>
+<th>コース適性</th>
+<td><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_turf_gray.png" width="26" height="17" alt="芝" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_gray.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_centerline.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_blue.png" width="194" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_dirt_blue.png" width="26" height="17" alt="ダート" /></td>
+</tr>
+<tr>
+<th>距離適性</th>
+<td><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_sprint_blue.png" width="26" height="17" alt="短い" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_blue.png" width="194" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_centerline.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_gray.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_styer_gray.png" width="26" height="17" alt="長い" /></td>
+</tr>
+<tr>
+<th>脚質</th>
+<td><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_nige_blue.png" width="26" height="17" alt="逃げ" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_blue.png" width="194" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_centerline.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_gray.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_oikomi_gray.png" width="26" height="17" alt="追込" /></td>
+</tr>
+<tr>
+<th>成長</th>
+<td><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_soujuku_blue.png" width="26" height="17" alt="早熟" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_blue.png" width="97" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_centerline.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_gray.png" width="97" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bansei_gray.png" width="26" height="17" alt="晩成" /></td>
+</tr>
+<tr>
+<th>重馬場</th>
+<td><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_tokui_gray.png" width="26" height="17" alt="得意" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_gray.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_centerline.png" width="1" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_bar_blue.png" width="194" height="17" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/review_nigate_blue.png" width="26" height="17" alt="苦手" /></td>
+</tr>
+</table>
+</dd>
+</dl>
+</div><!-- /.db_h_rank_review -->
+<div class="rate_box">
+<div class="categorybar_line" >
+<h3 class="categorybar"><img src="https://cdn.netkeiba.com/img.db/style/netkeiba.ja/image/icon_db_rate_03.png" width="18" height="20" alt="" />netkeibaレーティング</h3>
+</div>
 
 <p class="no_review_data">皆さまからのレビュー評価をお待ちしております！</p>
+</div><!-- /.rate_box -->
+</div><!-- /.fc -->
+<p class="detail_link"><a href="/?pid=horse_reviewer_list&id=2018100008">もっと見る</a></p>
+
 </div><!-- /.db_h_rank_box -->
 <div class="relation_box fc">
 

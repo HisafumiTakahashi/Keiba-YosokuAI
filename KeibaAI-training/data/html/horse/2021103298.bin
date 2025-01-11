@@ -6,8 +6,6 @@
 <meta http-equiv="content-type" content="text/html; charset=euc-jp" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
-
-
 <link href="https://cdn.netkeiba.com/img.db/common/css/reset.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/common.css?20210819" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_detail.css?20180621" rel="stylesheet" type="text/css" media="all" />
@@ -16,26 +14,22 @@
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_top.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/prettyPhoto.css?20160421" rel="stylesheet" type="text/css" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/jquery.fancybox-1.3.4.css?20160421" rel="stylesheet" type="text/css" />
-
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_classic_nk01.css?201911209" rel="stylesheet" type="text/css" />
-
 <!-- link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/common_header.css" type="text/css" -->
-
 <script language="javascript">
 <!--
 b = navigator.userAgent.toUpperCase();
 if(b.indexOf("MAC") >= 0)
 {
-	cssFile = "mac.css";
+cssFile = "mac.css";
 }
 else
 {
-	cssFile = "win.css";
+cssFile = "win.css";
 }
 document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeiba.com/img.db/common/css/" + cssFile + "'>");
 // -->
 </script>
-
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery-1.8.2.min.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.cookie.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/fontsize.js?20160421"></script>
@@ -47,7 +41,6 @@ document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeib
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.carouFredSel-6.2.0-packed.js?20160421"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.touchSwipe.min.js?20160421"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.netkeiba.com/img.db/common/css/ajaxtabs.css?20160421" />
-
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/ajaxtabs.js?20160421">
 /***********************************************
 * Ajax Tabs Content script v2.2- c Dynamic Drive DHTML code library (www.dynamicdrive.com)
@@ -57,7 +50,6 @@ document.write("<link rel='stylesheet' type='text/css' href='https://cdn.netkeib
 </script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/get_ad_request.js"></script>
 <script type="text/javascript" src="/__utm.js"></script>
-
 <script type="text/javascript">
 <!--
 var _user_action_api_url    = 'https://cdn.netkeiba.com/img.user';
@@ -71,7 +63,6 @@ var _bbs_action_api_url     = 'https://bbs.netkeiba.com/';
 <script type="text/javascript" src="https://db.netkeiba.com/v1.1//common/js/social.action.js"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.bbs/common/js/bbs.action.js?2018053101"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.regist.sp//common/js/monthly_goods_link.js?2017080201"></script>
-
 
 <meta http-equiv="content-language" content="ja">
 <meta name="viewport" content="width=device-960px">
@@ -742,11 +733,11 @@ get_horse_detail_note('2021103298', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05639/" title="小牧毅">小牧毅</a> (兵庫)</td>
+<td><a href="/trainer/05661/" title="石川浩文">石川浩文</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="（株）キャピタル・シ" class="OwnerColours"><a href="/owner/x08ce1/" title="（株）キャピタル・シ">（株）キャピタル・シ</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="（株）アプエンテ" class="OwnerColours"><a href="/owner/x09d53/" title="（株）アプエンテ">（株）アプエンテ</a></td>
 </tr>
 
 <tr>
@@ -774,7 +765,7 @@ get_horse_detail_note('2021103298', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>8戦0勝 [<a href="/horse/result/2021103298/" title="全競走成績">0-0-1-7</a>]</td>
+<td>9戦0勝 [<a href="/horse/result/2021103298/" title="全競走成績">0-0-1-8</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -988,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/55/20250104/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202555010401/" title="ウェルカム2025賞(C2)">ウェルカム2025賞(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010401" target="_blank" title="ウェルカム2025賞(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2</td>
+<td class="txt_right">17.3</td>
+<td class="rank_3 txt_right">3</td>
+<td class="bml txt_right">6</td>
+<td>
+<a href="/jockey/result/recent/05478/" title="石川慎将">石川慎将</a>
+
+</td>
+<td>56</td>
+<td>ダ1300</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:28.0</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>8-9-9-7</td>
+<td>0.0-40.3</td>
+<td class="rank_1">38.8</td>
+<td>432(+9)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2017101036/">クリノホノオ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241203/">2024/12/03</a></td>
 <td><a href="/race/sum/50/20241203/">園田</a></td>
 <td>晴</td>

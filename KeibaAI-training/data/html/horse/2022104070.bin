@@ -765,7 +765,7 @@ get_horse_detail_note('2022104070', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>1¿Ô0æ° [<a href="/horse/result/2022104070/" title="¡¥∂•¡ˆ¿Æ¿”">0-0-0-1</a>]</td>
+<td>2¿Ô0æ° [<a href="/horse/result/2022104070/" title="¡¥∂•¡ˆ¿Æ¿”">0-0-0-2</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -979,6 +979,65 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/07/20250105/">1√Êµ˛1</a></td>
+<td>¿≤</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202507010102/" title="3∫–Ã§æ°Õ¯">3∫–Ã§æ°Õ¯</a></td>
+<td>
+<a href="/race/movie/202507010102" target="_blank" title="3∫–Ã§æ°Õ¯§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">8</td>
+<td class="txt_right">16</td>
+<td class="txt_right">250.8</td>
+<td class=" txt_right">16</td>
+<td class="bml txt_right">12</td>
+<td>
+<a href="/jockey/result/recent/01195/" title="¿Ó√º≥§Õ„">¿Ó√º≥§Õ„</a>
+
+</td>
+<td>54</td>
+<td>•¿1400</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:28.1</td>
+<td class="txt_right">2.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>16-16</td>
+<td>35.9-38.1</td>
+<td class="bml">38.2</td>
+<td>464(+6)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022104070&rid=202507010102"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+
+</td>
+<td><a href="/horse/2022102052/">•ª•Î•∫•—•Ô°º</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20240916/">2024/09/16</a></td>
 <td><a href="/race/sum/07/20240916/">3√Êµ˛5</a></td>
 <td>¿≤</td>

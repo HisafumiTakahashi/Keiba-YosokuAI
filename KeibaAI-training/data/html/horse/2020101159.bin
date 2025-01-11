@@ -729,7 +729,7 @@ get_horse_detail_note('2020101159', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05604/" title="川西毅">川西毅</a> (愛知)</td>
+<td><a href="/trainer/05604/" title="川西毅">川西毅</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020101159', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202448021208/" title="C26組">C26組</a><!--、<a href="/race/202447032211/" title=春三日月特別"">春三日月特別</a>--></td>
+<td><a href="/race/202447032211/" title="春三日月特別">春三日月特別</a><!--、<a href="/race/202448022812/" title=矢作古川特別"">矢作古川特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

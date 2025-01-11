@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105850&no=80935&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105850&no=21096&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2020105850', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05235/" title="金田一昌">金田一昌</a> (地方)</td>
+<td><a href="/trainer/05235/" title="金田一昌">金田一昌</a> (金沢)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020105850', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202346111906/" title="輪島かにまつり特別">輪島かにまつり特別</a><!--、<a href="/race/202346052807/" title=サンストーン特別"">サンストーン特別</a>--></td>
+<td><a href="/race/202346051601/" title="無料ネット新聞うまかつ.net金沢賞">無料ネット新聞うまかつ.net金沢賞</a><!--、<a href="/race/202346111906/" title=輪島かにまつり特別"">輪島かにまつり特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

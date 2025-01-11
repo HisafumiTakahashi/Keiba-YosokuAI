@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">∂•Œÿ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -761,7 +761,7 @@ get_horse_detail_note('2020104257', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>19¿Ô4æ° [<a href="/horse/result/2020104257/" title="¡¥∂•¡ˆ¿Æ¿”">4-2-1-12</a>]</td>
+<td>20¿Ô4æ° [<a href="/horse/result/2020104257/" title="¡¥∂•¡ˆ¿Æ¿”">4-2-1-13</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/45/20250103/">¿Ó∫Í</a></td>
+<td>∆ﬁ</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202545010305/" title="…€¬ﬁ¬∫æﬁ(C2º∑)">…€¬ﬁ¬∫æﬁ(C2º∑)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202545010305" target="_blank" title="…€¬ﬁ¬∫æﬁ(C2º∑)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">5</td>
+<td class="txt_right">6</td>
+<td class="txt_right">39.5</td>
+<td class=" txt_right">8</td>
+<td class="bml txt_right">8</td>
+<td>
+<a href="/jockey/result/recent/05647/" title="ø∑∏∂º˛«œ">ø∑∏∂º˛«œ</a>
+
+</td>
+<td>54</td>
+<td>•¿1400</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:35.6</td>
+<td class="txt_right">2.7</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>4-5-6-5</td>
+<td>39.6-40.8</td>
+<td class="bml">42.7</td>
+<td>460(-2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018104940/">•–•Ø•È•Ù•°</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20240805/">2024/08/05</a></td>
 <td><a href="/race/sum/45/20240805/">¿Ó∫Í</a></td>
 <td>∆ﬁ</td>

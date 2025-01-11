@@ -761,7 +761,7 @@ get_horse_detail_note('2020101461', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>28戦2勝 [<a href="/horse/result/2020101461/" title="全競走成績">2-2-6-18</a>]</td>
+<td>29戦2勝 [<a href="/horse/result/2020101461/" title="全競走成績">2-2-6-19</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/47/20250110/">笠松</a></td>
+<td>曇</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202547011003/" title="たけし&amp;ゆきのwed(C)">たけし&amp;ゆきのwed(C)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547011003" target="_blank" title="たけし&amp;ゆきのwed(C)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">81.9</td>
+<td class=" txt_right">6</td>
+<td class="bml txt_right">8</td>
+<td>
+<a href="/jockey/result/recent/a0199/" title="服部大地">服部大地</a>
+
+</td>
+<td>56</td>
+<td>ダ1400</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:37.2</td>
+<td class="txt_right">5.6</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>8-8-8</td>
+<td>0.0-39.5</td>
+<td class="bml">43.3</td>
+<td>519(+13)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102059/">スマートマナリス</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241128/">2024/11/28</a></td>
 <td><a href="/race/sum/47/20241128/">笠松</a></td>
 <td>晴</td>

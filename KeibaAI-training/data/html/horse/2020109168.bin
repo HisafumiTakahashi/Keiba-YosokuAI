@@ -729,7 +729,7 @@ get_horse_detail_note('2020109168', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05420/" title="東美義">東美義</a> (佐賀)</td>
+<td><a href="/trainer/05420/" title="東美義">東美義</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020109168', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202355040806/" title="3歳ー8組">3歳ー8組</a><!--、<a href="/race/202355042406/" title=3歳ー7組"">3歳ー7組</a>--></td>
+<td><a href="/race/202355042406/" title="３歳ー７組">３歳ー７組</a><!--、<a href="/race/202355040806/" title=３歳ー８組"">３歳ー８組</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

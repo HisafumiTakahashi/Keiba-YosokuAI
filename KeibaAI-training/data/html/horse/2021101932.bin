@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021101932&no=19813&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021101932&no=16483&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -733,7 +733,7 @@ get_horse_detail_note('2021101932', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05741/" title="池田忠好">池田忠好</a> (地方)</td>
+<td><a href="/trainer/05741/" title="池田忠好">池田忠好</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021101932', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202455091405/" title="佐賀城賞">佐賀城賞</a><!--、<a href="/race/202455072211/" title=ブルースター特別"">ブルースター特別</a>--></td>
+<td><a href="/race/202455110403/" title="没後150年江藤新平の復権賞">没後150年江藤新平の復権賞</a><!--、<a href="/race/202455111810/" title=トパーズ特選"">トパーズ特選</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

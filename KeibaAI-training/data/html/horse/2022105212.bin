@@ -769,11 +769,11 @@ get_horse_detail_note('2022105212', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202403030102/" title="24'２歳未勝利">24'２歳未勝利</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202403030102/" title="24'2歳未勝利">24'2歳未勝利</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse/2021107169/" title="ネムレスクイーン">ネムレスクイーン</a><a href="/horse//" title=""></a></td>
+<td><a href="/horse/2021107169/" title="ネムレスクイーン">ネムレスクイーン</a>、<a href="/horse/2024105730/" title="アップロックの2024">アップロックの2024</a></td>
 </tr>
 </table>
 

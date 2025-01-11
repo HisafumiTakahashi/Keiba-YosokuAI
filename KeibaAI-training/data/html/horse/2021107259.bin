@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1>レヴィテーション</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2021107259/" style="color:#FFF;">Levitation</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-</p>
-<p class="txt_01">現役　牝4歳　鹿毛 </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1>レヴィテーション</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2021107259/" style="color:#FFF;">Levitation</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+                        </p>
+                        
+                        <p class="txt_01">現役　牝4歳　鹿毛 </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -597,7 +604,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021107259&no=64326&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021107259&no=27920&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -773,7 +780,7 @@ get_horse_detail_note('2021107259', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>8戦2勝 [<a href="/horse/result/2021107259/" title="全競走成績">2-0-1-5</a>]</td>
+<td>9戦2勝 [<a href="/horse/result/2021107259/" title="全競走成績">2-0-1-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -781,7 +788,7 @@ get_horse_detail_note('2021107259', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse/2023106788/" title="アンティグラビティの2023">アンティグラビティの2023</a><a href="/horse//" title=""></a></td>
+<td><a href="/horse/2023106788/" title="アンティグラビティの2023">アンティグラビティの2023</a>、<a href="/horse/2024107378/" title="アンティグラビティの2024">アンティグラビティの2024</a></td>
 </tr>
 </table>
 
@@ -987,6 +994,65 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/06/20250105/">1中山1</a></td>
+<td>晴</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202506010112/" title="4歳以上2勝クラス">4歳以上2勝クラス</a></td>
+<td>
+<a href="/race/movie/202506010112" target="_blank" title="4歳以上2勝クラスの映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">4</td>
+<td class="txt_right">8</td>
+<td class="txt_right">39.9</td>
+<td class=" txt_right">8</td>
+<td class="bml txt_right">7</td>
+<td>
+<a href="/jockey/result/recent/01118/" title="宮崎北斗">宮崎北斗</a>
+
+</td>
+<td>56</td>
+<td>ダ1200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:12.0</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>15-16</td>
+<td>34.5-36.5</td>
+<td class="rank_1">36.0</td>
+<td>438(+4)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021107259&rid=202506010112"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+
+</td>
+<td><a href="/horse/2021103061/">ムーム</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20240928/">2024/09/28</a></td>
 <td><a href="/race/sum/06/20240928/">4中山8</a></td>
 <td>曇</td>

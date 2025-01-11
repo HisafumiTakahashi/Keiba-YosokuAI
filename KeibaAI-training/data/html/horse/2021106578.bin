@@ -736,7 +736,7 @@ get_horse_detail_note('2021106578', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>拇兜徽</th>
-<td><a href="/trainer/a02df/" title="短忱各鞠">短忱各鞠</a> (孟数)</td>
+<td><a href="/trainer/a02df/" title="短忱各鞠">短忱各鞠</a> (始杆)</td>
 </tr>
 <tr>
 <th>窍肩</th>
@@ -761,7 +761,7 @@ get_horse_detail_note('2021106578', 'Horse_Note_Box');
 <th>惩评巨垛</th>
 <td>
 
-143它边 (孟数)
+160它边 (孟数)
 
 
 </td>
@@ -772,7 +772,7 @@ get_horse_detail_note('2021106578', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202450091207/" title="Ｃ２企">Ｃ２企</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202450091207/" title="C2企">C2企</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>
@@ -1007,16 +1007,20 @@ $('#horse_award_box').html(data.data);
 <td>紊</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:32.6</td>
 <td class="txt_right">2.1</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>7-9-8-5</td>
 <td>0.0-39.3</td>

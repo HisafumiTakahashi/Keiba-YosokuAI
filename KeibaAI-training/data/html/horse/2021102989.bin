@@ -758,14 +758,14 @@ get_horse_detail_note('2021102989', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-39万円 (地方)
+46万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>12戦0勝 [<a href="/horse/result/2021102989/" title="全競走成績">0-1-3-8</a>]</td>
+<td>13戦0勝 [<a href="/horse/result/2021102989/" title="全競走成績">0-1-4-8</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -773,7 +773,7 @@ get_horse_detail_note('2021102989', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse/2023102117/" title="ステファニーズシスターの2023">ステファニーズシスターの2023</a><a href="/horse//" title=""></a></td>
+<td><a href="/horse/2023102117/" title="ステファニーズシスターの2023">ステファニーズシスターの2023</a>、<a href="/horse/2024101961/" title="ステファニーズシスターの2024">ステファニーズシスターの2024</a></td>
 </tr>
 </table>
 
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/55/20250104/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202555010404/" title="長楽萬年賞(C2)">長楽萬年賞(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010404" target="_blank" title="長楽萬年賞(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">4</td>
+<td class="txt_right">4</td>
+<td class="txt_right">3.3</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05609/" title="飛田愛斗">飛田愛斗</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.9</td>
+<td class="txt_right">0.6</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6-4-3</td>
+<td>0.0-40.2</td>
+<td class="rank_3">40.5</td>
+<td>445(+4)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101017/">ダノンクック</a></td>
+
+<td>7.2</td>
+</tr><tr>
 <td><a href="/race/list/20241214/">2024/12/14</a></td>
 <td><a href="/race/sum/55/20241214/">佐賀</a></td>
 <td>晴</td>

@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021101175&no=55334&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021101175&no=26607&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2021101175', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>11¿Ô1æ° [<a href="/horse/result/2021101175/" title="¡¥∂•¡ˆ¿Æ¿”">1-0-0-10</a>]</td>
+<td>12¿Ô1æ° [<a href="/horse/result/2021101175/" title="¡¥∂•¡ˆ¿Æ¿”">1-0-0-11</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/55/20250105/">∫¥≤Ï</a></td>
+<td>∆ﬁ</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202555010503/" title="C2°º19¡»">C2°º19¡»</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010503" target="_blank" title="C2°º19¡»§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">6</td>
+<td class="txt_right">6</td>
+<td class="txt_right">61.8</td>
+<td class=" txt_right">7</td>
+<td class="bml txt_right">7</td>
+<td>
+<a href="/jockey/result/recent/05629/" title="µ⁄¿ÓŒı">µ⁄¿ÓŒı</a>
+
+</td>
+<td>53</td>
+<td>•¿1400</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:34.7</td>
+<td class="txt_right">1.6</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>5-5-6-7</td>
+<td>0.0-40.5</td>
+<td class="bml">41.5</td>
+<td>413(+2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021104909/">•’•È•Ô°º•´•Û•—•À°º</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241215/">2024/12/15</a></td>
 <td><a href="/race/sum/55/20241215/">∫¥≤Ï</a></td>
 <td>∆ﬁ</td>

@@ -761,7 +761,7 @@ get_horse_detail_note('2020104352', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>38戦0勝 [<a href="/horse/result/2020104352/" title="全競走成績">0-4-5-29</a>]</td>
+<td>39戦0勝 [<a href="/horse/result/2020104352/" title="全競走成績">0-4-5-30</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/50/20250108/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202550010805/" title="杉ヶ町7ハロンC3一">杉ヶ町7ハロンC3一</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010805" target="_blank" title="杉ヶ町7ハロンC3一の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">8</td>
+<td class="txt_right">11</td>
+<td class="txt_right">134.4</td>
+<td class=" txt_right">8</td>
+<td class="bml txt_right">10</td>
+<td>
+<a href="/jockey/result/recent/05581/" title="松木大地">松木大地</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:39.4</td>
+<td class="txt_right">4.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>7-9-10-11</td>
+<td>0.0-42.8</td>
+<td class="bml">44.9</td>
+<td>444(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020103966/">スティールアグネス</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241229/">2024/12/29</a></td>
 <td><a href="/race/sum/50/20241229/">園田</a></td>
 <td>晴</td>

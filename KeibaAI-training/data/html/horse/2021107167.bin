@@ -768,11 +768,11 @@ get_horse_detail_note('2021107167', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>10Àï1¾¡ [<a href="/horse/result/2021107167/" title="Á´¶¥ÁöÀ®ÀÓ">1-0-0-9</a>]</td>
+<td>11Àï2¾¡ [<a href="/horse/result/2021107167/" title="Á´¶¥ÁöÀ®ÀÓ">2-0-0-9</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202450083007/" title="C2Æó">C2Æó</a><!--¡¢<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202450083007/" title="C2Æó">C2Æó</a><!--¡¢<a href="/race/202550010909/" title=C2°ì"">C2°ì</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>
@@ -982,6 +982,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/50/20250109/">±àÅÄ</a></td>
+<td>À²</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202550010909/" title="C2°ì">C2°ì</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010909" target="_blank" title="C2°ì¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2</td>
+<td class="txt_right">8.4</td>
+<td class=" txt_right">5</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/a0575/" title="¹â¶¶°¦³ð">¹â¶¶°¦³ð</a>
+
+</td>
+<td>51</td>
+<td>¥À1400</td>
+<td>ãÄ</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:35.4</td>
+<td class="txt_right">-0.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>4-4-3-4</td>
+<td>0.0-41.8</td>
+<td class="rank_3">41.4</td>
+<td>475(-5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020104692/">(¥ê¥´¡¼¥È¥¥¡¼)</a></td>
+
+<td>70.0</td>
+</tr><tr>
 <td><a href="/race/list/20241226/">2024/12/26</a></td>
 <td><a href="/race/sum/50/20241226/">±àÅÄ</a></td>
 <td>À²</td>

@@ -591,21 +591,18 @@ event.preventDefault();
 <script language="javascript">
 function changeHorseMainPhoto( Id )
 {
-document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=&tn=yes&tmp=no&no=" + Id );
+document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021101237&tn=yes&tmp=no&no=" + Id );
 }
 </script>
 <div class="db_photo_box fc">
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021101237&no=74256&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
-<img src="https://db.netkeiba.com/common/image/dummy.jpg" alt="画像がありません" width="230" height="164" class="db_photo_main" />
 <div class="Slid_List Photo_Slid">
-<ul>
-<li><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
-<li><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
-<li style="margin:0"><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
+<ul id="Horse_Photo_Slide">
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021101237&no=74256&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 74256 );"/></a></li>
 </ul>
-<p class="prev"><span class="noimage_btn"><span>&laquo;</span></span></p>
-<p class="next"><span class="noimage_btn"><span>&raquo;</span></span></p>
 </div><!-- /.Slid_List Photo_Slid -->
+
 <p class="detail_link"><a href="https://db.netkeiba.com/v1.1//?pid=horse_photo&id=2021101237" title="写真一覧">写真一覧</a> / <a href="https://uploaddb.netkeiba.com/v1.1//?pid=horse_upload_photo&id=2021101237" title="写真投稿" id="photo_post">写真投稿</a></p>
 </div>
 <script>
@@ -762,13 +759,13 @@ get_horse_detail_note('2021101237', 'Horse_Note_Box');
 <td>
 
 
-2,070万円 (中央)
+2,530万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>6戦2勝 [<a href="/horse/result/2021101237/" title="全競走成績">2-2-1-1</a>]</td>
+<td>7戦2勝 [<a href="/horse/result/2021101237/" title="全競走成績">2-3-1-1</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -982,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/06/20250105/">1中山1</a></td>
+<td>晴</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202506010112/" title="4歳以上2勝クラス">4歳以上2勝クラス</a></td>
+<td>
+<a href="/race/movie/202506010112" target="_blank" title="4歳以上2勝クラスの映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">3</td>
+<td class="txt_right">6</td>
+<td class="txt_right">3.3</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05626/" title="マーカン">マーカン</a>
+
+</td>
+<td>58</td>
+<td>ダ1200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:11.0</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>2-2</td>
+<td>34.5-36.5</td>
+<td class="rank_3">36.3</td>
+<td>532(+12)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021101237&rid=202506010112"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103061/">ムーム</a></td>
+
+<td>460.0</td>
+</tr><tr>
 <td><a href="/race/list/20241109/">2024/11/09</a></td>
 <td><a href="/race/sum/03/20241109/">3福島3</a></td>
 <td>晴</td>

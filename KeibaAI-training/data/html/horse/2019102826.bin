@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -761,7 +761,7 @@ get_horse_detail_note('2019102826', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>17戦1勝 [<a href="/horse/result/2019102826/" title="全競走成績">1-1-1-14</a>]</td>
+<td>18戦1勝 [<a href="/horse/result/2019102826/" title="全競走成績">1-1-1-15</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/06/20250106/">1中山2</a></td>
+<td>小雨</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202506010208/" title="中山新春ジャンプS(OP)">中山新春ジャンプS(OP)</a></td>
+<td>
+<a href="/race/movie/202506010208" target="_blank" title="中山新春ジャンプS(OP)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">14</td>
+<td class="txt_right">5</td>
+<td class="txt_right">8</td>
+<td class="txt_right">70.9</td>
+<td class=" txt_right">10</td>
+<td class="bml txt_right">12</td>
+<td>
+<a href="/jockey/result/recent/01198/" title="土田真翔">土田真翔</a>
+
+</td>
+<td>60</td>
+<td>障3200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">3:41.0</td>
+<td class="txt_right">4.5</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>9-6-7-7</td>
+<td>106.0-38.1</td>
+<td class="bml">13.8</td>
+<td>542(0)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2019102826&rid=202506010208"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020103875/">フェーレンベルク</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241130/">2024/11/30</a></td>
 <td><a href="/race/sum/06/20241130/">5中山1</a></td>
 <td>晴</td>

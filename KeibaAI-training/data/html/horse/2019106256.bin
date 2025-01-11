@@ -729,7 +729,7 @@ get_horse_detail_note('2019106256', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05005/" title="九日俊光">九日俊光</a> (佐賀)</td>
+<td><a href="/trainer/05005/" title="九日俊光">九日俊光</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2019106256', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202245051808/" title="エメラルドフラワー賞">エメラルドフラワー賞</a><!--、<a href="/race/202350033010/" title=B1"">B1</a>--></td>
+<td><a href="/race/202245051808/" title="エメラルドフラワー賞">エメラルドフラワー賞</a><!--、<a href="/race/202350033010/" title=Ｂ１"">Ｂ１</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

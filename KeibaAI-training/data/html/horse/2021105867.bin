@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021105867&no=15910&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021105867&no=39490&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,11 +765,11 @@ get_horse_detail_note('2021105867', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>15戦2勝 [<a href="/horse/result/2021105867/" title="全競走成績">2-1-3-9</a>]</td>
+<td>16戦2勝 [<a href="/horse/result/2021105867/" title="全競走成績">2-1-3-10</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202407030509/" title="24'長良川特別(５００万下)">24'長良川特別(５００万下)</a><!--、<a href="/race/202308030803/" title=23'２歳未勝利"">23'２歳未勝利</a>--></td>
+<td><a href="/race/202407030509/" title="24'長良川特別(1勝クラス)">24'長良川特別(1勝クラス)</a><!--、<a href="/race/202308030803/" title=23'2歳未勝利"">23'2歳未勝利</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/07/20250105/">1中京1</a></td>
+<td>晴</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202507010109/" title="鶴舞特別(2勝クラス)">鶴舞特別(2勝クラス)</a></td>
+<td>
+<a href="/race/movie/202507010109" target="_blank" title="鶴舞特別(2勝クラス)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">7</td>
+<td class="txt_right">8</td>
+<td class="txt_right">17.0</td>
+<td class=" txt_right">4</td>
+<td class="bml txt_right">10</td>
+<td>
+<a href="/jockey/result/recent/05212/" title="Ｍ．デム">Ｍ．デム</a>
+
+</td>
+<td>57</td>
+<td>芝2200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">2:14.6</td>
+<td class="txt_right">2.5</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>5-5-3-6</td>
+<td>35.2-35.5</td>
+<td class="bml">37.3</td>
+<td>506(0)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021105867&rid=202507010109"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021109070/">ハヤテノフクノスケ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241207/">2024/12/07</a></td>
 <td><a href="/race/sum/08/20241207/">7京都3</a></td>
 <td>晴</td>

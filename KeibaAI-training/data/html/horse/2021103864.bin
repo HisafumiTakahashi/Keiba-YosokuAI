@@ -733,11 +733,11 @@ get_horse_detail_note('2021103864', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05768/" title="田中一巧">田中一巧</a> (兵庫)</td>
+<td><a href="/trainer/05591/" title="工藤伸輔">工藤伸輔</a> (浦和)</td>
 </tr>
 <tr>
 <th>馬主</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="組）サンデーヒルズ" class="OwnerColours"><a href="/owner/x0abea/" title="組）サンデーヒルズ">組）サンデーヒルズ</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="北原大史" class="OwnerColours"><a href="/owner/x097fd/" title="北原大史">北原大史</a></td>
 </tr>
 
 <tr>
@@ -765,7 +765,7 @@ get_horse_detail_note('2021103864', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>9戦1勝 [<a href="/horse/result/2021103864/" title="全競走成績">1-1-0-7</a>]</td>
+<td>10戦1勝 [<a href="/horse/result/2021103864/" title="全競走成績">1-1-0-8</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/42/20250109/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202542010907/" title="C2六　七">C2六　七</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010907" target="_blank" title="C2六　七の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">6</td>
+<td class="txt_right">8</td>
+<td class="txt_right">4.9</td>
+<td class="rank_3 txt_right">3</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/05607/" title="木間塚龍">木間塚龍</a>
+
+</td>
+<td>55</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:32.4</td>
+<td class="txt_right">1.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>6-7-5-5</td>
+<td>37.2-40.3</td>
+<td class="rank_3">41.1</td>
+<td>518(+1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020102167/">サノノタルマエ</a></td>
+
+<td>15.0</td>
+</tr><tr>
 <td><a href="/race/list/20241211/">2024/12/11</a></td>
 <td><a href="/race/sum/50/20241211/">園田</a></td>
 <td>曇</td>

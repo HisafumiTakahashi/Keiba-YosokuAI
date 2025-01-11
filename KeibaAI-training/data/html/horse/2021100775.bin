@@ -760,7 +760,7 @@ get_horse_detail_note('2021100775', 'Horse_Note_Box');
 
 
 
-55它边 (面丙) /101它边 (孟数)
+55它边 (面丙) /109它边 (孟数)
 </td>
 </tr>
 <tr>
@@ -1004,16 +1004,20 @@ $('#horse_award_box').html(data.data);
 <td>稍</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:29.3</td>
 <td class="txt_right">0.5</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>1-1-1-1</td>
 <td>0.0-38.7</td>

@@ -729,7 +729,7 @@ get_horse_detail_note('2020101726', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a035f/" title="中西達也">中西達也</a> (地方)</td>
+<td><a href="/trainer/a035f/" title="中西達也">中西達也</a> (高知)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020101726', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202454010909/" title="ファイナルレース">ファイナルレース</a><!--、<a href="/race/202354081904/" title=３歳ー６"">３歳ー６</a>--></td>
+<td><a href="/race/202354081904/" title="3歳ー6">3歳ー6</a><!--、<a href="/race/202454010909/" title=ファイナルレース"">ファイナルレース</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

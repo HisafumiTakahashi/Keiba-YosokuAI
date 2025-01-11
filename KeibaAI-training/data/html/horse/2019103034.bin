@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103034&no=35726&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019103034&no=116366&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2019103034', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202205020611/" title="22'NHKマイルC(G1)">22'NHKマイルC(G1)</a><!--、<a href="/race/202209020711/" title=22'アーリントンC(G3)"">22'アーリントンC(G3)</a>--></td>
+<td><a href="/race/202205020611/" title="22'ＮＨＫマイルC(G1)">22'ＮＨＫマイルC(G1)</a><!--、<a href="/race/202209020711/" title=22'アーリントンC(G3)"">22'アーリントンC(G3)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

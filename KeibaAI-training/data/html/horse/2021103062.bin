@@ -760,16 +760,16 @@ get_horse_detail_note('2021103062', 'Horse_Note_Box');
 
 
 
-55万円 (中央) /65万円 (地方)
+55万円 (中央) /115万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>11戦0勝 [<a href="/horse/result/2021103062/" title="全競走成績">0-2-1-8</a>]</td>
+<td>12戦1勝 [<a href="/horse/result/2021103062/" title="全競走成績">1-2-1-8</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race//" title=""></a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202548010412/" title="C13組">C13組</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/48/20250104/">名古屋</a></td>
+<td>晴</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202548010412/" title="C13組">C13組</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010412" target="_blank" title="C13組の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">7</td>
+<td class="txt_right">9</td>
+<td class="txt_right">2.9</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05512/" title="阪野学">阪野学</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:30.8</td>
+<td class="txt_right">-0.1</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>9-8-6</td>
+<td>0.0-39.7</td>
+<td class="rank_1">38.4</td>
+<td>397(-2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018106709/">(メイショウラピッド)</a></td>
+
+<td>50.0</td>
+</tr><tr>
 <td><a href="/race/list/20241220/">2024/12/20</a></td>
 <td><a href="/race/sum/48/20241220/">名古屋</a></td>
 <td>晴</td>

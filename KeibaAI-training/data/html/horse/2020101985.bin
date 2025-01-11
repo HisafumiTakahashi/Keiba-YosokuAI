@@ -729,7 +729,7 @@ get_horse_detail_note('2020101985', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05274/" title="今津勝之">今津勝之</a> (地方)</td>
+<td><a href="/trainer/05274/" title="今津勝之">今津勝之</a> (愛知)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020101985', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202448032712/" title="五条川特別">五条川特別</a><!--、<a href="/race/202448031205/" title=３スナさん６０４へ集合記念"">３スナさん６０４へ集合記念</a>--></td>
+<td><a href="/race/202448031205/" title="3スナさん604へ集合記念">3スナさん604へ集合記念</a><!--、<a href="/race/202448032712/" title=五条川特別"">五条川特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

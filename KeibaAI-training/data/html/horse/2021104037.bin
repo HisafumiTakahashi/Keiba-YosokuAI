@@ -765,7 +765,7 @@ get_horse_detail_note('2021104037', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>10Àï3¾¡ [<a href="/horse/result/2021104037/" title="Á´¶¥ÁöÀ®ÀÓ">3-1-1-5</a>]</td>
+<td>11Àï3¾¡ [<a href="/horse/result/2021104037/" title="Á´¶¥ÁöÀ®ÀÓ">3-1-1-6</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/47/20250107/">³Þ¾¾</a></td>
+<td>ÆÞ</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202547010709/" title="¼·Áð´¡ÆÃÊÌ(B)">¼·Áð´¡ÆÃÊÌ(B)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547010709" target="_blank" title="¼·Áð´¡ÆÃÊÌ(B)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">1.9</td>
+<td class="rank_1 txt_right">1</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05408/" title="Åû°æÍ¦²ð">Åû°æÍ¦²ð</a>
+
+</td>
+<td>54</td>
+<td>¥À1600</td>
+<td>ãÄ</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:49.1</td>
+<td class="txt_right">3.6</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-3-4</td>
+<td>0.0-41.3</td>
+<td class="bml">44.9</td>
+<td>472(-5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020101759/">¥È¡¼¥Û¥¦¥Ó¥¨¥ó¥È</a></td>
+
+<td>3.0</td>
+</tr><tr>
 <td><a href="/race/list/20241213/">2024/12/13</a></td>
 <td><a href="/race/sum/47/20241213/">³Þ¾¾</a></td>
 <td>ÆÞ</td>

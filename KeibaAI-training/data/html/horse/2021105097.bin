@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021105097&no=62775&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021105097&no=34906&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -758,14 +758,14 @@ get_horse_detail_note('2021105097', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-17万円 (地方)
+24万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>11戦0勝 [<a href="/horse/result/2021105097/" title="全競走成績">0-0-0-11</a>]</td>
+<td>12戦0勝 [<a href="/horse/result/2021105097/" title="全競走成績">0-0-0-12</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/50/20250103/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202550010305/" title="お兄ちゃん☆来場記念(C2)">お兄ちゃん☆来場記念(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010305" target="_blank" title="お兄ちゃん☆来場記念(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">7</td>
+<td class="txt_right">10</td>
+<td class="txt_right">228.4</td>
+<td class=" txt_right">10</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05628/" title="小谷周平">小谷周平</a>
+
+</td>
+<td>56</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.8</td>
+<td class="txt_right">1.9</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>12-11-11-11</td>
+<td>0.0-40.0</td>
+<td class="rank_2">40.5</td>
+<td>428(+5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021105021/">ベラジオラオウ</a></td>
+
+<td>7.0</td>
+</tr><tr>
 <td><a href="/race/list/20241127/">2024/11/27</a></td>
 <td><a href="/race/sum/50/20241127/">園田</a></td>
 <td>晴</td>

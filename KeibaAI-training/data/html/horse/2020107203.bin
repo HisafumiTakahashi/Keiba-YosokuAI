@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020107203&no=42544&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020107203&no=62965&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -756,12 +756,12 @@ get_horse_detail_note('2020107203', 'Horse_Note_Box');
 
 
 
-1,108万円 (中央) /6万円 (地方)
+1,108万円 (中央) /13万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>23戦1勝 [<a href="/horse/result/2020107203/" title="全競走成績">1-1-1-20</a>]</td>
+<td>24戦1勝 [<a href="/horse/result/2020107203/" title="全競走成績">1-1-1-21</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/55/20250106/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202555010610/" title="ジャニュアリー特選(C1)">ジャニュアリー特選(C1)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010610" target="_blank" title="ジャニュアリー特選(C1)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">7</td>
+<td class="txt_right">9</td>
+<td class="txt_right">18.6</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/05147/" title="長田進仁">長田進仁</a>
+
+</td>
+<td>56</td>
+<td>ダ1860</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">2:05.9</td>
+<td class="txt_right">2.1</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>9-9-6-5</td>
+<td>0.0-39.0</td>
+<td class="bml">40.6</td>
+<td>476(-3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021106078/">ブルーストレイル</a></td>
+
+<td>6.6</td>
+</tr><tr>
 <td><a href="/race/list/20241216/">2024/12/16</a></td>
 <td><a href="/race/sum/55/20241216/">佐賀</a></td>
 <td>曇</td>

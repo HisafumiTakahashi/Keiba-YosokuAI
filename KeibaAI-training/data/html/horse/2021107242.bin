@@ -597,7 +597,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021107242&no=13011&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021107242&no=2731&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -777,7 +777,7 @@ get_horse_detail_note('2021107242', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446100811/" title="金沢競馬Ｃ１プレミアム">金沢競馬Ｃ１プレミアム</a><!--、<a href="/race/202446092101/" title=瑠璃ちゃん明日で１歳記念★"">瑠璃ちゃん明日で１歳記念★</a>--></td>
+<td><a href="/race/202446092101/" title="瑠璃ちゃん明日で1歳記念★">瑠璃ちゃん明日で1歳記念★</a><!--、<a href="/race/202446100811/" title=金沢競馬C1プレミアム"">金沢競馬C1プレミアム</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

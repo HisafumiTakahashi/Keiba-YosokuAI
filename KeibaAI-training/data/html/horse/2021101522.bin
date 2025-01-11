@@ -758,14 +758,14 @@ get_horse_detail_note('2021101522', 'Horse_Note_Box');
 <th>³ÍÆÀ¾Þ¶â</th>
 <td>
 
-165Ëü±ß (ÃÏÊý)
+172Ëü±ß (ÃÏÊý)
 
 
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>21Àï1¾¡ [<a href="/horse/result/2021101522/" title="Á´¶¥ÁöÀ®ÀÓ">1-5-3-12</a>]</td>
+<td>22Àï1¾¡ [<a href="/horse/result/2021101522/" title="Á´¶¥ÁöÀ®ÀÓ">1-5-3-13</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/48/20250103/">Ì¾¸Å²°</a></td>
+<td>À²</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202548010303/" title="C6ÁÈ">C6ÁÈ</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010303" target="_blank" title="C6ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">12.4</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/05196/" title="µÜ²¼Æ·">µÜ²¼Æ·</a>
+
+</td>
+<td>52</td>
+<td>¥À1500</td>
+<td>ÎÉ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:36.9</td>
+<td class="txt_right">0.4</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6-5</td>
+<td>0.0-38.4</td>
+<td class="rank_3">38.5</td>
+<td>458(-7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103442/">¥æ¥¦¥È¥¶¥¢¥·¥²</a></td>
+
+<td>7.5</td>
+</tr><tr>
 <td><a href="/race/list/20241224/">2024/12/24</a></td>
 <td><a href="/race/sum/48/20241224/">Ì¾¸Å²°</a></td>
 <td>À²</td>

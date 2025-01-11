@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1>¥Ç¥Õ¥¡¥¤</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2021104421/" style="color:#FFF;">Defy</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
-                        </p>
-                        
-                        <p class="txt_01">¸½Ìò¡¡ÌÆ4ºÐ¡¡ÀÄ¼¯ÌÓ </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1>¥Ç¥Õ¥¡¥¤</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2021104421/" style="color:#FFF;">Defy</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
+</p>
+<p class="txt_01">¸½Ìò¡¡ÌÆ4ºÐ¡¡ÀÄ¼¯ÌÓ </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -776,7 +769,7 @@ get_horse_detail_note('2021104421', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202404040807/" title="24'3ºÐ°Ê¾å1¾¡¥¯¥é¥¹">24'3ºÐ°Ê¾å1¾¡¥¯¥é¥¹</a><!--¡¢<a href="/race/202405030604/" title=24'3ºÐÌ¤¾¡Íø"">24'3ºÐÌ¤¾¡Íø</a>--></td>
+<td><a href="/race/202404040807/" title="24'£³ºÐ¾å£µ£°£°Ëü²¼">24'£³ºÐ¾å£µ£°£°Ëü²¼</a><!--¡¢<a href="/race/202405030604/" title=24'£³ºÐÌ¤¾¡Íø"">24'£³ºÐÌ¤¾¡Íø</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

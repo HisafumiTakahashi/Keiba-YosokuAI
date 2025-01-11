@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019110085&no=79009&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019110085&no=17073&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2019110085', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05242/" title="角田輝也">角田輝也</a> (地方)</td>
+<td><a href="/trainer/05242/" title="角田輝也">角田輝也</a> (愛知)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -761,11 +761,11 @@ get_horse_detail_note('2019110085', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>28戦3勝 [<a href="/horse/result/2019110085/" title="全競走成績">3-3-0-22</a>]</td>
+<td>29戦3勝 [<a href="/horse/result/2019110085/" title="全競走成績">3-4-0-22</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202110030401/" title="21'２歳未勝利">21'２歳未勝利</a><!--、<a href="/race/202245101310/" title=オクトーバースター賞"">オクトーバースター賞</a>--></td>
+<td><a href="/race/202110030401/" title="21'2歳未勝利">21'2歳未勝利</a><!--、<a href="/race/202245101310/" title=オクトーバースター賞"">オクトーバースター賞</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/47/20250110/">笠松</a></td>
+<td>晴</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202547011009/" title="スイセン特別(A)">スイセン特別(A)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547011009" target="_blank" title="スイセン特別(A)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">4.8</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05557/" title="加藤聡一">加藤聡一</a>
+
+</td>
+<td>56</td>
+<td>ダ1600</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:44.4</td>
+<td class="txt_right">0.1</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1</td>
+<td>0.0-38.7</td>
+<td class="rank_2">38.8</td>
+<td>480(-3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020103363/">ダグフォース</a></td>
+
+<td>28.0</td>
+</tr><tr>
 <td><a href="/race/list/20241003/">2024/10/03</a></td>
 <td><a href="/race/sum/48/20241003/">名古屋</a></td>
 <td>雨</td>

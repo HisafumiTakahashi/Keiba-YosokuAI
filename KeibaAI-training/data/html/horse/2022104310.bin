@@ -759,13 +759,13 @@ get_horse_detail_note('2022104310', 'Horse_Note_Box');
 <td>
 
 
-220Ëü±ß (Ãæ±û)
+276Ëü±ß (Ãæ±û)
 
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>2Àï0¾¡ [<a href="/horse/result/2022104310/" title="Á´¶¥ÁöÀ®ÀÓ">0-1-0-1</a>]</td>
+<td>3Àï0¾¡ [<a href="/horse/result/2022104310/" title="Á´¶¥ÁöÀ®ÀÓ">0-1-0-2</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/06/20250105/">1Ãæ»³1</a></td>
+<td>À²</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202506010102/" title="3ºÐÌ¤¾¡Íø">3ºÐÌ¤¾¡Íø</a></td>
+<td>
+<a href="/race/movie/202506010102" target="_blank" title="3ºÐÌ¤¾¡Íø¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">7</td>
+<td class="txt_right">13</td>
+<td class="txt_right">2.3</td>
+<td class="rank_1 txt_right">1</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/01140/" title="²£»³ÏÂÀ¸">²£»³ÏÂÀ¸</a>
+
+</td>
+<td>57</td>
+<td>¥À1800</td>
+<td>ÎÉ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:57.4</td>
+<td class="txt_right">1.3</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>5-5-2-2</td>
+<td>38.0-39.0</td>
+<td class="bml">40.2</td>
+<td>520(+6)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022104310&rid=202506010102"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022105175/">¥Õ¥£¡¼¥ê¥¦¥¹</a></td>
+
+<td>56.0</td>
+</tr><tr>
 <td><a href="/race/list/20241207/">2024/12/07</a></td>
 <td><a href="/race/sum/06/20241207/">5Ãæ»³3</a></td>
 <td>À²</td>

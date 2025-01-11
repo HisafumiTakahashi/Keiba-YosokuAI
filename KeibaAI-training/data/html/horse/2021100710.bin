@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -765,7 +765,7 @@ get_horse_detail_note('2021100710', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>13戦0勝 [<a href="/horse/result/2021100710/" title="全競走成績">0-1-1-11</a>]</td>
+<td>14戦0勝 [<a href="/horse/result/2021100710/" title="全競走成績">0-1-1-12</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/50/20250109/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202550010904/" title="柏梨田スプリントC3">柏梨田スプリントC3</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010904" target="_blank" title="柏梨田スプリントC3の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">49.4</td>
+<td class=" txt_right">7</td>
+<td class="bml txt_right">6</td>
+<td>
+<a href="/jockey/result/recent/05584/" title="山田雄大">山田雄大</a>
+
+</td>
+<td>56</td>
+<td>ダ1230</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:24.9</td>
+<td class="txt_right">2.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>3-3-4-4</td>
+<td>0.0-41.1</td>
+<td class="bml">42.7</td>
+<td>459(-14)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103945/">ルクスアルム</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241226/">2024/12/26</a></td>
 <td><a href="/race/sum/50/20241226/">園田</a></td>
 <td>晴</td>

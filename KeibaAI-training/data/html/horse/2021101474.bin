@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -733,7 +733,7 @@ get_horse_detail_note('2021101474', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/a0269/" title="µÈÅÄ»Ê">µÈÅÄ»Ê</a> (ÃÏÊý)</td>
+<td><a href="/trainer/a0269/" title="µÈÅÄ»Ê">µÈÅÄ»Ê</a> (´ä¼ê)</td>
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021101474', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202436121703/" title="£Ã£²Ï»ÁÈ">£Ã£²Ï»ÁÈ</a><!--¡¢<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202436121703/" title="C2Ï»ÁÈ">C2Ï»ÁÈ</a><!--¡¢<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>
@@ -1004,16 +1004,20 @@ $('#horse_award_box').html(data.data);
 <td>ÉÔ</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:30.5</td>
 <td class="txt_right">0.9</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>1-1-1-1</td>
 <td>0.0-40.7</td>

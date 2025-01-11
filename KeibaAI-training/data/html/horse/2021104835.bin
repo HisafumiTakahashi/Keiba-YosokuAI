@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1><!--  ¢¢√œ -->•®•Ø•π•»•È•…•È•§</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2021104835/" style="color:#FFF;">Extra Dry</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ° <span></span>…º°À--></strong>
-                        </p>
-                        
-                        <p class="txt_01">°°≤¥°°ºØÃ” </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1><!--  ¢¢√œ -->•®•Ø•π•»•È•…•È•§</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2021104835/" style="color:#FFF;">Extra Dry</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ° <span></span>…º°À--></strong>
+</p>
+<p class="txt_01">°°≤¥°°ºØÃ” </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -780,7 +773,7 @@ get_horse_detail_note('2021104835', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>8¿Ô1æ° [<a href="/horse/result/2021104835/" title="¡¥∂•¡ˆ¿Æ¿”">1-2-0-5</a>]</td>
+<td>9¿Ô1æ° [<a href="/horse/result/2021104835/" title="¡¥∂•¡ˆ¿Æ¿”">1-3-0-5</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -994,6 +987,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/47/20250110/">≥ﬁææ</a></td>
+<td>∆ﬁ</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202547011005/" title="≥ﬁææ§±§§§–∂‚ÕÀ∆¸•È•§(C)">≥ﬁææ§±§§§–∂‚ÕÀ∆¸•È•§(C)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547011005" target="_blank" title="≥ﬁææ§±§§§–∂‚ÕÀ∆¸•È•§(C)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">8</td>
+<td class="txt_right">8</td>
+<td class="txt_right">1.9</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05558/" title="≈œ ’ŒµÃÈ">≈œ ’ŒµÃÈ</a>
+
+</td>
+<td>56</td>
+<td>•¿1400</td>
+<td>Ω≈</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:30.8</td>
+<td class="txt_right">0.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1</td>
+<td>0.0-40.5</td>
+<td class="bml">40.7</td>
+<td>468(-3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101679/">•∑•Œ•Œ•·</a></td>
+
+<td>14.0</td>
+</tr><tr>
 <td><a href="/race/list/20241229/">2024/12/29</a></td>
 <td><a href="/race/sum/47/20241229/">≥ﬁææ</a></td>
 <td>∆ﬁ</td>

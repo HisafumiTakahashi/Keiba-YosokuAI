@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -761,7 +761,7 @@ get_horse_detail_note('2020106371', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>12Àï0¾¡ [<a href="/horse/result/2020106371/" title="Á´¶¥ÁöÀ®ÀÓ">0-1-1-10</a>]</td>
+<td>13Àï0¾¡ [<a href="/horse/result/2020106371/" title="Á´¶¥ÁöÀ®ÀÓ">0-2-1-10</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/42/20250107/">±ºÏÂ</a></td>
+<td>À²</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202542010707/" title="C3Ï»¡¡¼·">C3Ï»¡¡¼·</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010707" target="_blank" title="C3Ï»¡¡¼·¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">5.8</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/a02c4/" title="¸«±ÛÉË±û">¸«±ÛÉË±û</a>
+
+</td>
+<td>56</td>
+<td>¥À1500</td>
+<td>½Å</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:40.0</td>
+<td class="txt_right">0.6</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>6-5-2-2</td>
+<td>33.7-39.1</td>
+<td class="rank_2">39.5</td>
+<td>547(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018110075/">¥½¥¸¥å¥ó</a></td>
+
+<td>32.0</td>
+</tr><tr>
 <td><a href="/race/list/20241225/">2024/12/25</a></td>
 <td><a href="/race/sum/42/20241225/">±ºÏÂ</a></td>
 <td>À²</td>

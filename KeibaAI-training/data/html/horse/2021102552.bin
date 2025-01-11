@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1><!--  ¢¢√œ -->•·•§•∑•Á•¶•§•æ•¶</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2021102552/" style="color:#FFF;">Meisho Izo</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ° <span></span>…º°À--></strong>
-</p>
-<p class="txt_01">°°≤¥°°∞≤Ã” </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1><!--  ¢¢√œ -->•·•§•∑•Á•¶•§•æ•¶</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2021102552/" style="color:#FFF;">Meisho Izo</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ° <span></span>…º°À--></strong>
+                        </p>
+                        
+                        <p class="txt_01">°°≤¥°°∞≤Ã” </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -595,7 +602,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021102552&no=70424&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021102552&no=66867&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +772,7 @@ get_horse_detail_note('2021102552', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>12¿Ô0æ° [<a href="/horse/result/2021102552/" title="¡¥∂•¡ˆ¿Æ¿”">0-3-0-9</a>]</td>
+<td>13¿Ô0æ° [<a href="/horse/result/2021102552/" title="¡¥∂•¡ˆ¿Æ¿”">0-3-0-10</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -979,6 +986,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/47/20250107/">≥ﬁææ</a></td>
+<td>¿≤</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202547010706/" title="C18¡»">C18¡»</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547010706" target="_blank" title="C18¡»§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2</td>
+<td class="txt_right">21.5</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">7</td>
+<td>
+<a href="/jockey/result/recent/05226/" title="π‚Ã⁄∑Ú">π‚Ã⁄∑Ú</a>
+
+</td>
+<td>56</td>
+<td>•¿1400</td>
+<td>Ω≈</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:36.1</td>
+<td class="txt_right">2.5</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-3-7</td>
+<td>0.0-42.7</td>
+<td class="bml">45.1</td>
+<td>457(-11)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102050/">•ﬂ•®•Î•∑•»•Ì•Û</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241227/">2024/12/27</a></td>
 <td><a href="/race/sum/47/20241227/">≥ﬁææ</a></td>
 <td>∆ﬁ</td>

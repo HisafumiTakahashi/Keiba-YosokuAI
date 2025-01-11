@@ -733,7 +733,7 @@ get_horse_detail_note('2021103295', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a041c/" title="繁田健一">繁田健一</a> (地方)</td>
+<td><a href="/trainer/a041c/" title="繁田健一">繁田健一</a> (浦和)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021103295', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202442122402/" title="ランチタイムチャレンジ">ランチタイムチャレンジ</a><!--、<a href="/race/202442112102/" title=ランチタイムチャレンジ"">ランチタイムチャレンジ</a>--></td>
+<td><a href="/race/202442112102/" title="ランチタイムチャレンジ">ランチタイムチャレンジ</a><!--、<a href="/race/202442122402/" title=ランチタイムチャレンジ"">ランチタイムチャレンジ</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1><!--  □地 -->キングオリヴァー</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2021105851/" style="color:#FFF;">King Oliver</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-                        </p>
-                        
-                        <p class="txt_01">　牡　黒鹿毛 </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1><!--  □地 -->キングオリヴァー</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2021105851/" style="color:#FFF;">King Oliver</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+</p>
+<p class="txt_01">　牡　黒鹿毛 </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -740,7 +733,7 @@ get_horse_detail_note('2021105851', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a0367/" title="山田徹">山田徹</a> (佐賀)</td>
+<td><a href="/trainer/a0367/" title="山田徹">山田徹</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -776,7 +769,7 @@ get_horse_detail_note('2021105851', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202455111812/" title="SAGAリベンジャーズ">SAGAリベンジャーズ</a><!--、<a href="/race/202455120102/" title=江北町ふるさと納税で検索!杯"">江北町ふるさと納税で検索!杯</a>--></td>
+<td><a href="/race/202455120102/" title="江北町ふるさと納税で検索！杯">江北町ふるさと納税で検索！杯</a><!--、<a href="/race/202455111812/" title=ＳＡＧＡリベンジャーズ"">ＳＡＧＡリベンジャーズ</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

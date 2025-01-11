@@ -765,7 +765,7 @@ get_horse_detail_note('2020104681', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202346040201/" title="»³¸ýÎ´¡õÈþÃÒ·Ã¤Î·ëº§µ­Ç°Æü½Ë¤¤ÇÕ¡ù">»³¸ýÎ´¡õÈþÃÒ·Ã¤Î·ëº§µ­Ç°Æü½Ë¤¤ÇÕ¡ù</a><!--¡¢<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202346040201/" title="»³¸ýÎ´&amp;ÈþÃÒ·Ã¤Î·ëº§µ­Ç°Æü½Ë¤¤ÇÕ¡ù">»³¸ýÎ´&amp;ÈþÃÒ·Ã¤Î·ëº§µ­Ç°Æü½Ë¤¤ÇÕ¡ù</a><!--¡¢<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

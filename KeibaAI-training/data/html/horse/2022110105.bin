@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022110105&no=3659&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022110105&no=26380&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -769,7 +769,7 @@ get_horse_detail_note('2022110105', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202407040509/" title="24'¥¹¥Ý¡¼¥ÄÃæµþ£²ºÐS(OP)">24'¥¹¥Ý¡¼¥ÄÃæµþ£²ºÐS(OP)</a><!--¡¢<a href="/race/202408070406/" title=24'£²ºÐ£µ£°£°Ëü²¼"">24'£²ºÐ£µ£°£°Ëü²¼</a>--></td>
+<td><a href="/race/202407040509/" title="24'¥¹¥Ý¡¼¥ÄÃæµþ2ºÐS(OP)">24'¥¹¥Ý¡¼¥ÄÃæµþ2ºÐS(OP)</a><!--¡¢<a href="/race/202408070406/" title=24'2ºÐ1¾¡¥¯¥é¥¹"">24'2ºÐ1¾¡¥¯¥é¥¹</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

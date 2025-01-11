@@ -409,14 +409,14 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head_name fc">
 
 <div class="horse_title">
-<h1>エスパノーラ</h1>
+<h1><!--  □地 -->エスパノーラ</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2022105675/" style="color:#FFF;">Espanola</a>
 </p>
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">抹消　牝　鹿毛 </p>
+<p class="txt_01">　牝　鹿毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -733,11 +733,11 @@ get_horse_detail_note('2022105675', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/01150/" title="池上昌和">池上昌和</a> (美浦)</td>
+<td><a href="/trainer/05214/" title="原口次夫">原口次夫</a> (愛知)</td>
 </tr>
 <tr>
 <th>馬主</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/270006.gif" alt="島川隆哉" class="OwnerColours"><a href="/owner/270006/" title="島川隆哉">島川隆哉</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="上野孝展" class="OwnerColours"><a href="/owner/x0af2a/" title="上野孝展">上野孝展</a></td>
 </tr>
 
 <tr>
@@ -757,15 +757,15 @@ get_horse_detail_note('2022105675', 'Horse_Note_Box');
 <tr>
 <th>獲得賞金</th>
 <td>
-0万円
 
+5万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>3戦0勝 [<a href="/horse/result/2022105675/" title="全競走成績">0-0-0-3</a>]</td>
+<td>4戦0勝 [<a href="/horse/result/2022105675/" title="全競走成績">0-0-0-4</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/48/20250104/">名古屋</a></td>
+<td>晴</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202548010401/" title="3歳5組">3歳5組</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010401" target="_blank" title="3歳5組の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">8.3</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05196/" title="宮下瞳">宮下瞳</a>
+
+</td>
+<td>52</td>
+<td>ダ1500</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:39.3</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>2-2-3</td>
+<td>0.0-39.4</td>
+<td class="bml">40.3</td>
+<td>471(+3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022105606/">ホーススピリット</a></td>
+
+<td>5.4</td>
+</tr><tr>
 <td><a href="/race/list/20241124/">2024/11/24</a></td>
 <td><a href="/race/sum/05/20241124/">5東京8</a></td>
 <td>晴</td>

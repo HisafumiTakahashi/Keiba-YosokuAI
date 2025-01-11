@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1>¥±¥¤¥±¥¤</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2021103799/" style="color:#FFF;">Keikei</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
-                        </p>
-                        
-                        <p class="txt_01">¸½Ìò¡¡¥»4ºÐ¡¡·ªÌÓ </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1>¥±¥¤¥±¥¤</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2021103799/" style="color:#FFF;">Keikei</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
+</p>
+<p class="txt_01">¸½Ìò¡¡¥»4ºÐ¡¡·ªÌÓ </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -602,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103799&no=19880&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103799&no=44847&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -776,7 +769,7 @@ get_horse_detail_note('2021103799', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202406030406/" title="24'3ºÐ1¾¡¥¯¥é¥¹">24'3ºÐ1¾¡¥¯¥é¥¹</a><!--¡¢<a href="/race/202407010105/" title=24'3ºÐÌ¤¾¡Íø"">24'3ºÐÌ¤¾¡Íø</a>--></td>
+<td><a href="/race/202406030406/" title="24'£³ºÐ£µ£°£°Ëü²¼">24'£³ºÐ£µ£°£°Ëü²¼</a><!--¡¢<a href="/race/202407010105/" title=24'£³ºÐÌ¤¾¡Íø"">24'£³ºÐÌ¤¾¡Íø</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

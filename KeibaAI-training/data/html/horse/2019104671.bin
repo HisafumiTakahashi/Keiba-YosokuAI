@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104671&no=101338&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104671&no=88711&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2019104671', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05544/" title="加藤幸保">加藤幸保</a> (地方)</td>
+<td><a href="/trainer/05544/" title="加藤幸保">加藤幸保</a> (笠松)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2019104671', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202447032210/" title="24'スプリングアタック(OP)">24'スプリングアタック(OP)</a><!--、<a href="/race/202347051112/" title=屋形船特別"">屋形船特別</a>--></td>
+<td><a href="/race/202447032210/" title="24'スプリングアタック(OP)">24'スプリングアタック(OP)</a><!--、<a href="/race/202247113003/" title=ファントムおじいちゃん記念杯"">ファントムおじいちゃん記念杯</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

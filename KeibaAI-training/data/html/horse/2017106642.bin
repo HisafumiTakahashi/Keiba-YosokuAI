@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017106642&no=54655&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017106642&no=51605&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2017106642', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202142112310/" title="21'焙下淡前(G2)">21'焙下淡前(G2)</a><!--、<a href="/race/202110030411/" title=21'プロキオンS(G3)"">21'プロキオンS(G3)</a>--></td>
+<td><a href="/race/202110030411/" title="21'プロキオンS(G3)">21'プロキオンS(G3)</a><!--、<a href="/race/202142112310/" title=21'焙下淡前(G2)"">21'焙下淡前(G2)</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>

@@ -765,7 +765,7 @@ get_horse_detail_note('2022102600', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>2¿Ô0æ° [<a href="/horse/result/2022102600/" title="¡¥∂•¡ˆ¿Æ¿”">0-0-1-1</a>]</td>
+<td>3¿Ô0æ° [<a href="/horse/result/2022102600/" title="¡¥∂•¡ˆ¿Æ¿”">0-0-1-2</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/07/20250106/">1√Êµ˛2</a></td>
+<td>∆ﬁ</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202507010201/" title="3∫–Ã§æ°Õ¯">3∫–Ã§æ°Õ¯</a></td>
+<td>
+<a href="/race/movie/202507010201" target="_blank" title="3∫–Ã§æ°Õ¯§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">4</td>
+<td class="txt_right">7</td>
+<td class="txt_right">8.6</td>
+<td class=" txt_right">4</td>
+<td class="bml txt_right">13</td>
+<td>
+<a href="/jockey/result/recent/01015/" title="∏≈¿Óµ»ÕŒ">∏≈¿Óµ»ÕŒ</a>
+
+</td>
+<td>55</td>
+<td>•¿1800</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:58.4</td>
+<td class="txt_right">2.1</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>1-1-1-1</td>
+<td>37.5-39.6</td>
+<td class="bml">41.7</td>
+<td>464(0)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022102600&rid=202507010201"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022105954/">•≥•Û•∆• •È•§•Û</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241215/">2024/12/15</a></td>
 <td><a href="/race/sum/08/20241215/">7µ˛≈‘6</a></td>
 <td>¿≤</td>

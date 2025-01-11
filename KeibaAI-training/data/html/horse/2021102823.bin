@@ -765,7 +765,7 @@ get_horse_detail_note('2021102823', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>9戦0勝 [<a href="/horse/result/2021102823/" title="全競走成績">0-1-0-8</a>]</td>
+<td>10戦0勝 [<a href="/horse/result/2021102823/" title="全競走成績">0-2-0-8</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/50/20250109/">園田</a></td>
+<td>曇</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202550010905/" title="木間生7ハロンC3一">木間生7ハロンC3一</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010905" target="_blank" title="木間生7ハロンC3一の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">5</td>
+<td class="txt_right">6</td>
+<td class="txt_right">25.0</td>
+<td class=" txt_right">6</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05616/" title="佐々木世">佐々木世</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:36.3</td>
+<td class="txt_right">0.8</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-2-2-2</td>
+<td>0.0-41.9</td>
+<td class="rank_3">42.6</td>
+<td>492(+7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020104794/">アスクサステナブル</a></td>
+
+<td>19.6</td>
+</tr><tr>
 <td><a href="/race/list/20241226/">2024/12/26</a></td>
 <td><a href="/race/sum/50/20241226/">園田</a></td>
 <td>晴</td>

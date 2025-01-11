@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1><!--  ¡ûÃÏ -->¥«¥ª¥ê¥Ê¥¤¥È</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2018102262/" style="color:#FFF;">Kaolinite</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
-                        </p>
-                        
-                        <p class="txt_01">Ëõ¾Ã¡¡ÌÆ¡¡·ªÌÓ </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1><!--  ¡ûÃÏ -->¥«¥ª¥ê¥Ê¥¤¥È</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2018102262/" style="color:#FFF;">Kaolinite</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
+</p>
+<p class="txt_01">Ëõ¾Ã¡¡ÌÆ¡¡·ªÌÓ </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -772,7 +765,7 @@ get_horse_detail_note('2018102262', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202150122307/" title="C2»Í">C2»Í</a><!--¡¢<a href="/race/202350052604/" title=C3Æó"">C3Æó</a>--></td>
+<td><a href="/race/202150122307/" title="£Ã£²»Í">£Ã£²»Í</a><!--¡¢<a href="/race/202451013102/" title=£Ã£³»Í"">£Ã£³»Í</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

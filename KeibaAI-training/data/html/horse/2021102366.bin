@@ -758,14 +758,14 @@ get_horse_detail_note('2021102366', 'Horse_Note_Box');
 <th>≥Õ∆¿æﬁ∂‚</th>
 <td>
 
-50À¸±ﬂ (√œ ˝)
+53À¸±ﬂ (√œ ˝)
 
 
 </td>
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>7¿Ô1æ° [<a href="/horse/result/2021102366/" title="¡¥∂•¡ˆ¿Æ¿”">1-0-1-5</a>]</td>
+<td>8¿Ô1æ° [<a href="/horse/result/2021102366/" title="¡¥∂•¡ˆ¿Æ¿”">1-0-1-6</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/55/20250105/">∫¥≤Ï</a></td>
+<td>∆ﬁ</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202555010504/" title="UMATENAæﬁ(C2)">UMATENAæﬁ(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010504" target="_blank" title="UMATENAæﬁ(C2)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">6</td>
+<td class="txt_right">48.5</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05633/" title="≤√Ã–»ÙÊ∆">≤√Ã–»ÙÊ∆</a>
+
+</td>
+<td>54</td>
+<td>•¿1400</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.7</td>
+<td class="txt_right">1.9</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>9-9-8-4</td>
+<td>0.0-39.0</td>
+<td class="bml">39.5</td>
+<td>411(+7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103507/">•¢°º•Ø•Ï•¢•Î</a></td>
+
+<td>3.2</td>
+</tr><tr>
 <td><a href="/race/list/20241214/">2024/12/14</a></td>
 <td><a href="/race/sum/55/20241214/">∫¥≤Ï</a></td>
 <td>¿≤</td>

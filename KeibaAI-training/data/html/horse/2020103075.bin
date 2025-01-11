@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103075&no=50306&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103075&no=50160&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2020103075', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202305020611/" title="70'ＮＨＫマイルC(G1)">70'ＮＨＫマイルC(G1)</a><!--、<a href="/race/202205050808/" title=70'ベゴニア巨(５００它布)"">70'ベゴニア巨(５００它布)</a>--></td>
+<td><a href="/race/202305020611/" title="23'ＮＨＫマイルC(G1)">23'ＮＨＫマイルC(G1)</a><!--、<a href="/race/202205050808/" title=22'ベゴニア巨(５００它布)"">22'ベゴニア巨(５００它布)</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>

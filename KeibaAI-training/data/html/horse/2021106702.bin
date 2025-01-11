@@ -760,12 +760,12 @@ get_horse_detail_note('2021106702', 'Horse_Note_Box');
 
 
 
-1,356кЭ╠ъ (цФ╠Ш) /119кЭ╠ъ (цойЩ)
+1,356кЭ╠ъ (цФ╠Ш) /141кЭ╠ъ (цойЩ)
 </td>
 </tr>
 <tr>
 <th>дл╩╩ю╝юс</th>
-<td>16юО1╬║ [<a href="/horse/result/2021106702/" title="а╢╤╔аЖю╝юс">1-4-4-7</a>]</td>
+<td>17юО1╬║ [<a href="/horse/result/2021106702/" title="а╢╤╔аЖю╝юс">1-4-5-7</a>]</td>
 </tr>
 <tr>
 <th>╪Г╓й╬║╟х</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/50/20250103/">╠Юед</a></td>
+<td>ю╡</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202550010312/" title="л╕г╞╬чC1">л╕г╞╬чC1</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010312" target="_blank" title="л╕г╞╬чC1╓н╠гаЭ"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">5</td>
+<td class="txt_right">6</td>
+<td class="txt_right">20.4</td>
+<td class=" txt_right">6</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05646/" title="╨Шедцн╧╗">╨Шедцн╧╗</a>
+
+</td>
+<td>56</td>
+<td>╔ю1400</td>
+<td>ни</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.2</td>
+<td class="txt_right">0.8</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>8-8-6-3</td>
+<td>0.0-40.2</td>
+<td class="rank_3">40.0</td>
+<td>482(-5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021106175/">╔╧╔й║╪╔╞╔ю╔Й</a></td>
+
+<td>22.0</td>
+</tr><tr>
 <td><a href="/race/list/20241219/">2024/12/19</a></td>
 <td><a href="/race/sum/50/20241219/">╠Юед</a></td>
 <td>ю╡</td>

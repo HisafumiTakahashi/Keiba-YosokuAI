@@ -765,11 +765,11 @@ get_horse_detail_note('2021101177', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>9戦1勝 [<a href="/horse/result/2021101177/" title="全競走成績">1-1-1-6</a>]</td>
+<td>10戦2勝 [<a href="/horse/result/2021101177/" title="全競走成績">2-1-1-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202454102702/" title="C3ー21">C3ー21</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202454102702/" title="C3ー21">C3ー21</a><!--、<a href="/race/202554010805/" title=中尾伊吹生誕記念特別"">中尾伊吹生誕記念特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/54/20250108/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202554010805/" title="中尾伊吹生誕記念特別(C3)">中尾伊吹生誕記念特別(C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010805" target="_blank" title="中尾伊吹生誕記念特別(C3)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">3.5</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05617/" title="濱尚美">濱尚美</a>
+
+</td>
+<td>52</td>
+<td>ダ1300</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:27.2</td>
+<td class="txt_right">-0.1</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1-1</td>
+<td>0.0-41.6</td>
+<td class="bml">41.6</td>
+<td>486(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021107223/">(プリマフェーヴル)</a></td>
+
+<td>60.0</td>
+</tr><tr>
 <td><a href="/race/list/20241222/">2024/12/22</a></td>
 <td><a href="/race/sum/54/20241222/">高知</a></td>
 <td>晴</td>

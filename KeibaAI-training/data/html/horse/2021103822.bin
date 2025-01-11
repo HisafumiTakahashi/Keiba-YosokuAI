@@ -758,14 +758,14 @@ get_horse_detail_note('2021103822', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-276万円 (地方)
+287万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>17戦3勝 [<a href="/horse/result/2021103822/" title="全競走成績">3-2-3-9</a>]</td>
+<td>18戦3勝 [<a href="/horse/result/2021103822/" title="全競走成績">3-2-3-10</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/54/20250106/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202554010607/" title="ハボタン特別(C3)">ハボタン特別(C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010607" target="_blank" title="ハボタン特別(C3)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">54.3</td>
+<td class=" txt_right">8</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05617/" title="濱尚美">濱尚美</a>
+
+</td>
+<td>52</td>
+<td>ダ1600</td>
+<td>重</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:47.3</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>7-8-7-7</td>
+<td>0.0-38.6</td>
+<td class="rank_1">38.5</td>
+<td>524(+6)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019101107/">ファーストリッキー</a></td>
+
+<td>11.0</td>
+</tr><tr>
 <td><a href="/race/list/20241221/">2024/12/21</a></td>
 <td><a href="/race/sum/54/20241221/">高知</a></td>
 <td>晴</td>

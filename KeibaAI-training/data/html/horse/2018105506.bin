@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -729,7 +729,7 @@ get_horse_detail_note('2018105506', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05745/" title="渡辺博文">渡辺博文</a> (佐賀)</td>
+<td><a href="/trainer/05745/" title="渡辺博文">渡辺博文</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -761,11 +761,11 @@ get_horse_detail_note('2018105506', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>41戦4勝 [<a href="/horse/result/2018105506/" title="全競走成績">4-1-8-28</a>]</td>
+<td>42戦4勝 [<a href="/horse/result/2018105506/" title="全競走成績">4-1-8-29</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202105040208/" title="21'3歳以上2勝クラス">21'3歳以上2勝クラス</a><!--、<a href="/race/202102010207/" title=21'3歳以上1勝クラス"">21'3歳以上1勝クラス</a>--></td>
+<td><a href="/race/202105040208/" title="70'３歳上????万下">70'３歳上????万下</a><!--、<a href="/race/202204040104/" title=70'障害３歳上未勝利"">70'障害３歳上未勝利</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/55/20250105/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202555010510/" title="KYUSHUDREA(A2)">KYUSHUDREA(A2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010510" target="_blank" title="KYUSHUDREA(A2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">109.7</td>
+<td class=" txt_right">8</td>
+<td class="bml txt_right">6</td>
+<td>
+<a href="/jockey/result/recent/05491/" title="田中直人">田中直人</a>
+
+</td>
+<td>56</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:31.2</td>
+<td class="txt_right">0.7</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6-7-7</td>
+<td>0.0-39.1</td>
+<td class="rank_3">38.9</td>
+<td>512(+5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020100705/">ショーユーシ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241221/">2024/12/21</a></td>
 <td><a href="/race/sum/55/20241221/">佐賀</a></td>
 <td>曇</td>

@@ -12,6 +12,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from tqdm.notebook import tqdm
 from webdriver_manager.chrome import ChromeDriverManager
+from urllib.error import HTTPError
 
 DATA_DIR = Path("data")
 HTML_RACE_DIR = DATA_DIR / "html" / "race"
@@ -19,7 +20,7 @@ HTML_HORSE_DIR = DATA_DIR / "html" / "horse"
 HTML_PED_DIR = DATA_DIR / "html" / "ped"
 HTML_LEADING_DIR = DATA_DIR / "html" / "leading"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}
-
+MAX_RETRIES = 10
 
 def scrape_kaisai_date(from_: str, to_: str, save_dir: Path = None) -> list[str]:
     """
@@ -132,14 +133,23 @@ def scrape_html_horse(
         if skip and filepath.is_file():
             print(f"skipped: {horse_id}")
         else:
-            print(horse_id)
-            url = f"https://db.netkeiba.com/horse/{horse_id}"
-            req = Request(url, headers= HEADERS)
-            html = urlopen(req).read()  # スクレイピング
-            time.sleep(1)
-            with open(filepath, "wb") as f:
-                f.write(html)
-            updated_html_path_list.append(filepath)
+            retries = 0
+            success = 0
+            while retries < MAX_RETRIES and success < 1:
+                try:
+                    print(horse_id)
+                    url = f"https://db.netkeiba.com/horse/{horse_id}"
+                    req = Request(url, headers= HEADERS)
+                    html = urlopen(req).read()  # スクレイピング
+                    time.sleep(1)
+                    with open(filepath, "wb") as f:
+                        f.write(html)
+                    updated_html_path_list.append(filepath)
+                    success += 1
+                except HTTPError as e:
+                    retries += 1
+                    print(f"HTTP error occurred: {e},error count: {retries}")
+    
     return updated_html_path_list
 
 

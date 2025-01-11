@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">╤╔нь
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -754,14 +754,14 @@ get_horse_detail_note('2020100279', 'Horse_Note_Box');
 <th>Ёмфю╬ч╤Б</th>
 <td>
 
-408кЭ╠ъ (цойЩ)
+424кЭ╠ъ (цойЩ)
 
 
 </td>
 </tr>
 <tr>
 <th>дл╩╩ю╝юс</th>
-<td>24юО5╬║ [<a href="/horse/result/2020100279/" title="а╢╤╔аЖю╝юс">5-2-1-16</a>]</td>
+<td>25юО5╬║ [<a href="/horse/result/2020100279/" title="а╢╤╔аЖю╝юс">5-2-2-16</a>]</td>
 </tr>
 <tr>
 <th>╪Г╓й╬║╟х</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/50/20250103/">╠Юед</a></td>
+<td>ю╡</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202550010308/" title="C2фС">C2фС</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010308" target="_blank" title="C2фС╓н╠гаЭ"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">7</td>
+<td class="txt_right">10</td>
+<td class="txt_right">15.8</td>
+<td class=" txt_right">7</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05338/" title="еою╔об╧╛">еою╔об╧╛</a>
+
+</td>
+<td>54</td>
+<td>╔ю820</td>
+<td>ни</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">0:51.7</td>
+<td class="txt_right">0.3</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6</td>
+<td>0.0-37.4</td>
+<td class="rank_2">37.3</td>
+<td>466(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019100611/">╔И╔ф╔ё╔д╔ё╔╒</a></td>
+
+<td>16.0</td>
+</tr><tr>
 <td><a href="/race/list/20241211/">2024/12/11</a></td>
 <td><a href="/race/sum/50/20241211/">╠Юед</a></td>
 <td>ю╡</td>

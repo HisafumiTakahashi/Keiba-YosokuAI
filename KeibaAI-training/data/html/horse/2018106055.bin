@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018106055&no=24807&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018106055&no=87881&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2018106055', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202410020211/" title="24'ËÌ¶å½£Ã»µ÷Î¥S(OP)">24'ËÌ¶å½£Ã»µ÷Î¥S(OP)</a><!--¡¢<a href="/race/202306030510/" title=23'Á¥¶¶S(3¾¡¥¯¥é¥¹)"">23'Á¥¶¶S(3¾¡¥¯¥é¥¹)</a>--></td>
+<td><a href="/race/202410020211/" title="70'ËÌ¶å½£Ã»µ÷Î¥S(OP)">70'ËÌ¶å½£Ã»µ÷Î¥S(OP)</a><!--¡¢<a href="/race/202306030510/" title=70'Á¥¶¶S(£±£¶£°£°Ëü²¼)"">70'Á¥¶¶S(£±£¶£°£°Ëü²¼)</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

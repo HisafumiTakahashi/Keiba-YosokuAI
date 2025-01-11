@@ -760,12 +760,12 @@ get_horse_detail_note('2021104134', 'Horse_Note_Box');
 
 
 
-72万円 (中央) /161万円 (地方)
+72万円 (中央) /167万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>22戦1勝 [<a href="/horse/result/2021104134/" title="全競走成績">1-0-1-20</a>]</td>
+<td>23戦1勝 [<a href="/horse/result/2021104134/" title="全競走成績">1-0-1-21</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/54/20250106/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202554010601/" title="C3ー6">C3ー6</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010601" target="_blank" title="C3ー6の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2</td>
+<td class="txt_right">35.2</td>
+<td class=" txt_right">5</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/a02dc/" title="中島龍也">中島龍也</a>
+
+</td>
+<td>54</td>
+<td>ダ1300</td>
+<td>重</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:26.9</td>
+<td class="txt_right">1.3</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>4-2-3-4</td>
+<td>0.0-40.2</td>
+<td class="bml">41.4</td>
+<td>467(+3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103213/">メイショウエレジー</a></td>
+
+<td>6.0</td>
+</tr><tr>
 <td><a href="/race/list/20241231/">2024/12/31</a></td>
 <td><a href="/race/sum/54/20241231/">高知</a></td>
 <td>晴</td>
@@ -1004,16 +1061,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:29.3</td>
 <td class="txt_right">1.5</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>7-7-8-9</td>
 <td>0.0-41.4</td>

@@ -754,14 +754,14 @@ get_horse_detail_note('2020106233', 'Horse_Note_Box');
 <th>≥Õ∆¿æﬁ∂‚</th>
 <td>
 
-1,107À¸±ﬂ (√œ ˝)
+1,139À¸±ﬂ (√œ ˝)
 
 
 </td>
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>29¿Ô7æ° [<a href="/horse/result/2020106233/" title="¡¥∂•¡ˆ¿Æ¿”">7-9-2-11</a>]</td>
+<td>30¿Ô7æ° [<a href="/horse/result/2020106233/" title="¡¥∂•¡ˆ¿Æ¿”">7-9-3-11</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/54/20250105/">π‚√Œ</a></td>
+<td>¿≤</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202554010503/" title="AB∫ÆπÁ">AB∫ÆπÁ</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010503" target="_blank" title="AB∫ÆπÁ§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">8.0</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05610/" title="≤¨ŒÀ¬¿œ∫">≤¨ŒÀ¬¿œ∫</a>
+
+</td>
+<td>55</td>
+<td>•¿1400</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.1</td>
+<td class="txt_right">0.1</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>7-7-8-5</td>
+<td>0.0-41.4</td>
+<td class="rank_1">39.9</td>
+<td>500(+2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020106661/">•’•©°º•µ•§•…• •§•Û</a></td>
+
+<td>32.0</td>
+</tr><tr>
 <td><a href="/race/list/20241221/">2024/12/21</a></td>
 <td><a href="/race/sum/54/20241221/">π‚√Œ</a></td>
 <td>¿≤</td>

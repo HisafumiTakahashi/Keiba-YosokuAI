@@ -758,14 +758,14 @@ get_horse_detail_note('2021100952', 'Horse_Note_Box');
 <th>³ÍÆÀ¾Þ¶â</th>
 <td>
 
-75Ëü±ß (ÃÏÊý)
+79Ëü±ß (ÃÏÊý)
 
 
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>17Àï0¾¡ [<a href="/horse/result/2021100952/" title="Á´¶¥ÁöÀ®ÀÓ">0-3-4-10</a>]</td>
+<td>18Àï0¾¡ [<a href="/horse/result/2021100952/" title="Á´¶¥ÁöÀ®ÀÓ">0-3-4-11</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/55/20250106/">º´²ì</a></td>
+<td>ÆÞ</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202555010604/" title="C2¡¼14ÁÈ">C2¡¼14ÁÈ</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010604" target="_blank" title="C2¡¼14ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">6</td>
+<td class="txt_right">5.6</td>
+<td class="rank_3 txt_right">3</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05587/" title="¾®¾¾¾æÆó">¾®¾¾¾æÆó</a>
+
+</td>
+<td>56</td>
+<td>¥À1300</td>
+<td>ãÄ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:26.3</td>
+<td class="txt_right">0.4</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>10-10-9-8</td>
+<td>0.0-41.3</td>
+<td class="rank_1">39.4</td>
+<td>453(+2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103099/">¥¨¥¯¥µ¥µ¥¤¥º</a></td>
+
+<td>3.2</td>
+</tr><tr>
 <td><a href="/race/list/20241215/">2024/12/15</a></td>
 <td><a href="/race/sum/55/20241215/">º´²ì</a></td>
 <td>ÆÞ</td>

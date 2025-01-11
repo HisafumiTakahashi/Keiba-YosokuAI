@@ -729,11 +729,11 @@ get_horse_detail_note('2018103198', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05321/" title="保利良次">保利良次</a> (兵庫)</td>
+<td><a href="/trainer/05333/" title="矢野久美">矢野久美</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/142006.gif" alt="服部新平" class="OwnerColours"><a href="/owner/142006/" title="服部新平">服部新平</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="矢野龍一" class="OwnerColours"><a href="/owner/x0a2f9/" title="矢野龍一">矢野龍一</a></td>
 </tr>
 
 <tr>
@@ -756,16 +756,16 @@ get_horse_detail_note('2018103198', 'Horse_Note_Box');
 
 
 
-713万円 (中央) /97万円 (地方)
+713万円 (中央) /110万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>30戦1勝 [<a href="/horse/result/2018103198/" title="全競走成績">1-1-1-27</a>]</td>
+<td>31戦1勝 [<a href="/horse/result/2018103198/" title="全競走成績">1-2-1-27</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202107011001/" title="21'3歳未勝利">21'3歳未勝利</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202107011001/" title="21'３歳未勝利">21'３歳未勝利</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/55/20250104/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202555010401/" title="ウェルカム2025賞(C2)">ウェルカム2025賞(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010401" target="_blank" title="ウェルカム2025賞(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">7</td>
+<td class="txt_right">9</td>
+<td class="txt_right">42.4</td>
+<td class=" txt_right">5</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05654/" title="山田義貴">山田義貴</a>
+
+</td>
+<td>54</td>
+<td>ダ1300</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:27.2</td>
+<td class="txt_right">0.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6-5-5</td>
+<td>0.0-40.3</td>
+<td class="rank_2">39.1</td>
+<td>536(-11)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2017101036/">クリノホノオ</a></td>
+
+<td>12.8</td>
+</tr><tr>
 <td><a href="/race/list/20241211/">2024/12/11</a></td>
 <td><a href="/race/sum/50/20241211/">園田</a></td>
 <td>曇</td>

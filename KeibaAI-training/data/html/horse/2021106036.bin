@@ -760,12 +760,12 @@ get_horse_detail_note('2021106036', 'Horse_Note_Box');
 
 
 
-500万円 (中央) /18万円 (地方)
+500万円 (中央) /30万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>7戦0勝 [<a href="/horse/result/2021106036/" title="全競走成績">0-1-2-4</a>]</td>
+<td>8戦0勝 [<a href="/horse/result/2021106036/" title="全競走成績">0-1-2-5</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -773,7 +773,7 @@ get_horse_detail_note('2021106036', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse/2022106044/" title="シスアール">シスアール</a><a href="/horse//" title=""></a></td>
+<td><a href="/horse/2022106044/" title="シスアール">シスアール</a>、<a href="/horse/2024102918/" title="パールデルタの2024">パールデルタの2024</a></td>
 </tr>
 </table>
 
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/45/20250103/">川崎</a></td>
+<td>曇</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202545010308/" title="恵比寿天賞(C1五)">恵比寿天賞(C1五)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202545010308" target="_blank" title="恵比寿天賞(C1五)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">9.2</td>
+<td class=" txt_right">4</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05389/" title="岩橋勇二">岩橋勇二</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:34.1</td>
+<td class="txt_right">1.9</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6-6-5</td>
+<td>39.8-40.1</td>
+<td class="bml">41.2</td>
+<td>463(-1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101926/">ミスマルゴー</a></td>
+
+<td>12.0</td>
+</tr><tr>
 <td><a href="/race/list/20241209/">2024/12/09</a></td>
 <td><a href="/race/sum/45/20241209/">川崎</a></td>
 <td>晴</td>

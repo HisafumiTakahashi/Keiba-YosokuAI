@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022106815&no=16567&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022106815&no=20312&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -773,7 +773,7 @@ get_horse_detail_note('2022106815', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse/2016104380/" title="モンドヌーヴォー">モンドヌーヴォー</a>、<a href="/horse/2021106832/" title="カルテメトレス">カルテメトレス</a></td>
+<td><a href="/horse/2021106832/" title="カルテメトレス">カルテメトレス</a>、<a href="/horse/2016104380/" title="モンドヌーヴォー">モンドヌーヴォー</a></td>
 </tr>
 </table>
 

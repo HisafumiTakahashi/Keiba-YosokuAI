@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2015102390&no=24275&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2015102390&no=82978&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2015102390', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02b0/" title="打越勇児">打越勇児</a> (地方)</td>
+<td><a href="/trainer/a02b0/" title="打越勇児">打越勇児</a> (高知)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2015102390', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202107011111/" title="21'アルデバランS(OP)">21'アルデバランS(OP)</a><!--、<a href="/race/202008020311/" title=20'アルデバランS(OP)"">20'アルデバランS(OP)</a>--></td>
+<td><a href="/race/202008020311/" title="20'アルデバランS(OP)">20'アルデバランS(OP)</a><!--、<a href="/race/202107011111/" title=21'アルデバランS(OP)"">21'アルデバランS(OP)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

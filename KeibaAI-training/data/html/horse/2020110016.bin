@@ -729,7 +729,7 @@ get_horse_detail_note('2020110016', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05759/" title="井樋明正">井樋明正</a> (地方)</td>
+<td><a href="/trainer/05759/" title="井樋明正">井樋明正</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020110016', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202448053012/" title="Ｂ５組">Ｂ５組</a><!--、<a href="/race/202448052006/" title=Ｃ４組"">Ｃ４組</a>--></td>
+<td><a href="/race/202448053012/" title="B5組">B5組</a><!--、<a href="/race/202448052006/" title=C4組"">C4組</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

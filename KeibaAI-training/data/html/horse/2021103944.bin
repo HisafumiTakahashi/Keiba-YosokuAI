@@ -758,14 +758,14 @@ get_horse_detail_note('2021103944', 'Horse_Note_Box');
 <th>惩评巨垛</th>
 <td>
 
-135它边 (孟数)
+140它边 (孟数)
 
 
 </td>
 </tr>
 <tr>
 <th>奶换喇烙</th>
-<td>9里1尽 [<a href="/horse/result/2021103944/" title="链顶瘤喇烙">1-1-2-5</a>]</td>
+<td>10里1尽 [<a href="/horse/result/2021103944/" title="链顶瘤喇烙">1-1-2-6</a>]</td>
 </tr>
 <tr>
 <th>肩な尽叭</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/50/20250103/">编拍</a></td>
+<td>啦</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202550010303/" title="C3办">C3办</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010303" target="_blank" title="C3办の鼻咙"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">3.3</td>
+<td class="rank_2 txt_right">2</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05628/" title="井毛件士">井毛件士</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>紊</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:34.2</td>
+<td class="txt_right">0.4</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>4-3-4-3</td>
+<td>0.0-42.3</td>
+<td class="bml">42.4</td>
+<td>437(-7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101986/">デルマヴェ〖ダ</a></td>
+
+<td>5.6</td>
+</tr><tr>
 <td><a href="/race/list/20241219/">2024/12/19</a></td>
 <td><a href="/race/sum/50/20241219/">编拍</a></td>
 <td>啦</td>

@@ -765,11 +765,11 @@ get_horse_detail_note('2021101984', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>8戦3勝 [<a href="/horse/result/2021101984/" title="全競走成績">3-0-0-5</a>]</td>
+<td>9戦4勝 [<a href="/horse/result/2021101984/" title="全競走成績">4-0-0-5</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202442122301/" title="特選">特選</a><!--、<a href="/race/202448100103/" title=C29組"">C29組</a>--></td>
+<td><a href="/race/202442122301/" title="特選">特選</a><!--、<a href="/race/202542011007/" title=ここが好き、やっぱり好き川島町賞"">ここが好き、やっぱり好き川島町賞</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/42/20250110/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202542011007/" title="ここが好き、やっぱり(C2)">ここが好き、やっぱり(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542011007" target="_blank" title="ここが好き、やっぱり(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">1.7</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05630/" title="野畑凌">野畑凌</a>
+
+</td>
+<td>56</td>
+<td>ダ1500</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:36.9</td>
+<td class="txt_right">-0.7</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1-1</td>
+<td>31.5-38.8</td>
+<td class="rank_1">38.8</td>
+<td>480(+1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020102519/">(ランディー)</a></td>
+
+<td>100.0</td>
+</tr><tr>
 <td><a href="/race/list/20241223/">2024/12/23</a></td>
 <td><a href="/race/sum/42/20241223/">浦和</a></td>
 <td>晴</td>

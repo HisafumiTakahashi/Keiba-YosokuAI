@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021102425&no=70430&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021102425&no=69755&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,11 +765,11 @@ get_horse_detail_note('2021102425', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>奶换喇烙</th>
-<td>14里0尽 [<a href="/horse/result/2021102425/" title="链顶瘤喇烙">0-2-1-11</a>]</td>
+<td>15里1尽 [<a href="/horse/result/2021102425/" title="链顶瘤喇烙">1-2-1-11</a>]</td>
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race//" title=""></a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202547010705/" title="创客さん栏寐71件钳淡前!">创客さん栏寐71件钳淡前!</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/47/20250107/">侈揪</a></td>
+<td>啦</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202547010705/" title="创客さん栏寐71件钳(C)">创客さん栏寐71件钳(C)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547010705" target="_blank" title="创客さん栏寐71件钳(C)の鼻咙"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">57.7</td>
+<td class=" txt_right">7</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05634/" title="澎李康">澎李康</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>脚</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:34.0</td>
+<td class="txt_right">-0.1</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>7-3-2</td>
+<td>0.0-41.7</td>
+<td class="rank_2">41.2</td>
+<td>470(-3)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020104826/">(コパノイノリ)</a></td>
+
+<td>40.0</td>
+</tr><tr>
 <td><a href="/race/list/20241227/">2024/12/27</a></td>
 <td><a href="/race/sum/47/20241227/">侈揪</a></td>
 <td>妻</td>

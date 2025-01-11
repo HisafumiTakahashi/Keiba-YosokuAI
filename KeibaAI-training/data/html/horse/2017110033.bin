@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017110033&no=18377&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017110033&no=42851&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2017110033', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202009060609/" title="20'サンタクロースハンデキャップ(１６００万下)">20'サンタクロースハンデキャップ(１６００万下)</a><!--、<a href="/race/202007020812/" title=20'３歳上１０００万下"">20'３歳上１０００万下</a>--></td>
+<td><a href="/race/202009060609/" title="20'サンタクロースハンデキャップ(3勝クラス)">20'サンタクロースハンデキャップ(3勝クラス)</a><!--、<a href="/race/202007020812/" title=20'3歳以上2勝クラス"">20'3歳以上2勝クラス</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

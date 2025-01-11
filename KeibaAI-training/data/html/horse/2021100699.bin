@@ -733,7 +733,7 @@ get_horse_detail_note('2021100699', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05480/" title="田口輝彦">田口輝彦</a> (笠松)</td>
+<td><a href="/trainer/05480/" title="田口輝彦">田口輝彦</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -760,7 +760,7 @@ get_horse_detail_note('2021100699', 'Horse_Note_Box');
 
 
 
-55万円 (中央) /133万円 (地方)
+55万円 (中央) /154万円 (地方)
 </td>
 </tr>
 <tr>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021100699', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202447102305/" title="カサオク・サンクス賞">カサオク・サンクス賞</a><!--、<a href="/race/202447121204/" title=監督お疲れ様記念"">監督お疲れ様記念</a>--></td>
+<td><a href="/race/202447110612/" title="シクラメン特別">シクラメン特別</a><!--、<a href="/race/202447102305/" title=カサオク・サンクス賞"">カサオク・サンクス賞</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -1004,16 +1004,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:30.7</td>
 <td class="txt_right">0.3</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>5-3-2</td>
 <td>0.0-40.6</td>

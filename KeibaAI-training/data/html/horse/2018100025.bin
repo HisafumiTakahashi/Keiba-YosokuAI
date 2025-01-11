@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018100025&no=83455&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018100025&no=55768&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2018100025', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202309010712/" title="70'４歳上????万下">70'４歳上????万下</a><!--、<a href="/race/202210030109/" title=70'秋吉台特別(５００万下)"">70'秋吉台特別(５００万下)</a>--></td>
+<td><a href="/race/202309010712/" title="23'4歳以上2勝クラス">23'4歳以上2勝クラス</a><!--、<a href="/race/202210030109/" title=22'秋吉台特別(1勝クラス)"">22'秋吉台特別(1勝クラス)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

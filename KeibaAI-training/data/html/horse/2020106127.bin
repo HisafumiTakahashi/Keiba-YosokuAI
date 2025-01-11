@@ -729,7 +729,7 @@ get_horse_detail_note('2020106127', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>拇兜徽</th>
-<td><a href="/trainer/05767/" title="揪士宫建">揪士宫建</a> (孟数)</td>
+<td><a href="/trainer/05767/" title="揪士宫建">揪士宫建</a> (始杆)</td>
 </tr>
 <tr>
 <th>窍肩</th>
@@ -761,11 +761,11 @@ get_horse_detail_note('2020106127', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>奶换喇烙</th>
-<td>17里4尽 [<a href="/horse/result/2020106127/" title="链顶瘤喇烙">4-2-3-8</a>]</td>
+<td>18里5尽 [<a href="/horse/result/2020106127/" title="链顶瘤喇烙">5-2-3-8</a>]</td>
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202450080812/" title="Ｃ２">Ｃ２</a><!--、<a href="/race/202450060603/" title=Ｃ３办"">Ｃ３办</a>--></td>
+<td><a href="/race/202450011102/" title="C3办">C3办</a><!--、<a href="/race/202450060603/" title=C3办"">C3办</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/50/20250108/">编拍</a></td>
+<td>妻</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202550010809/" title="C2企">C2企</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010809" target="_blank" title="C2企の鼻咙"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">8</td>
+<td class="txt_right">8</td>
+<td class="txt_right">2.8</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05646/" title="蝴拍梦龚">蝴拍梦龚</a>
+
+</td>
+<td>56</td>
+<td>ダ1230</td>
+<td>隳</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:23.8</td>
+<td class="txt_right">-0.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1-1</td>
+<td>0.0-40.1</td>
+<td class="rank_1">40.1</td>
+<td>474(+5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020101321/">(ヴェニスクィ〖ン)</a></td>
+
+<td>80.0</td>
+</tr><tr>
 <td><a href="/race/list/20241226/">2024/12/26</a></td>
 <td><a href="/race/sum/50/20241226/">编拍</a></td>
 <td>啦</td>

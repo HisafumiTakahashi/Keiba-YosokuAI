@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104394&no=38816&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104394&no=24031&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -769,7 +769,7 @@ get_horse_detail_note('2021104394', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202430052904/" title="3歳条件4組40万円以下">3歳条件4組40万円以下</a><!--、<a href="/race/202430071608/" title=3歳以上C3C4ー1"">3歳以上C3C4ー1</a>--></td>
+<td><a href="/race/202430082210/" title="オケクラフト特別">オケクラフト特別</a><!--、<a href="/race/202430052904/" title=３歳条件４組４０万円以下"">３歳条件４組４０万円以下</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

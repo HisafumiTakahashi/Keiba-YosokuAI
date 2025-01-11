@@ -760,16 +760,16 @@ get_horse_detail_note('2021106669', 'Horse_Note_Box');
 
 
 
-138Ëü±ß (Ãæ±û) /26Ëü±ß (ÃÏÊý)
+138Ëü±ß (Ãæ±û) /82Ëü±ß (ÃÏÊý)
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>15Àï0¾¡ [<a href="/horse/result/2021106669/" title="Á´¶¥ÁöÀ®ÀÓ">0-0-1-14</a>]</td>
+<td>16Àï1¾¡ [<a href="/horse/result/2021106669/" title="Á´¶¥ÁöÀ®ÀÓ">1-0-1-14</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race//" title=""></a><!--¡¢<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202550010302/" title="C3">C3</a><!--¡¢<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/50/20250103/">±àÅÄ</a></td>
+<td>À²</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202550010302/" title="C3">C3</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010302" target="_blank" title="C3¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">4.3</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05639/" title="×¢À¥¹Ò">×¢À¥¹Ò</a>
+
+</td>
+<td>54</td>
+<td>¥À1230</td>
+<td>ÎÉ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:21.8</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6-7-6</td>
+<td>0.0-40.6</td>
+<td class="rank_2">39.8</td>
+<td>457(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021106469/">(¥Õ¥§¥¶¡¼¥¹¥«¥¤)</a></td>
+
+<td>56.0</td>
+</tr><tr>
 <td><a href="/race/list/20241226/">2024/12/26</a></td>
 <td><a href="/race/sum/50/20241226/">±àÅÄ</a></td>
 <td>À²</td>

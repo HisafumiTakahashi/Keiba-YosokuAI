@@ -765,7 +765,7 @@ get_horse_detail_note('2022102350', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>1戦0勝 [<a href="/horse/result/2022102350/" title="全競走成績">0-0-0-1</a>]</td>
+<td>2戦0勝 [<a href="/horse/result/2022102350/" title="全競走成績">0-0-0-2</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -773,7 +773,7 @@ get_horse_detail_note('2022102350', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse/2023100513/" title="ノアブリジットの2023">ノアブリジットの2023</a><a href="/horse//" title=""></a></td>
+<td><a href="/horse/2023100513/" title="ノアブリジットの2023">ノアブリジットの2023</a>、<a href="/horse/2024101356/" title="ノアブリジットの2024">ノアブリジットの2024</a></td>
 </tr>
 </table>
 
@@ -979,6 +979,65 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/06/20250105/">1中山1</a></td>
+<td>晴</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202506010101/" title="3歳未勝利">3歳未勝利</a></td>
+<td>
+<a href="/race/movie/202506010101" target="_blank" title="3歳未勝利の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">7</td>
+<td class="txt_right">14</td>
+<td class="txt_right">189.5</td>
+<td class=" txt_right">12</td>
+<td class="bml txt_right">14</td>
+<td>
+<a href="/jockey/result/recent/01169/" title="武藤雅">武藤雅</a>
+
+</td>
+<td>57</td>
+<td>ダ1200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:15.0</td>
+<td class="txt_right">2.8</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>16-14</td>
+<td>34.5-37.7</td>
+<td class="bml">38.0</td>
+<td>454(-10)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2022102350&rid=202506010101"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+
+</td>
+<td><a href="/horse/2022105247/">ピッツァナポリ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241020/">2024/10/20</a></td>
 <td><a href="/race/sum/08/20241020/">5京都6</a></td>
 <td>晴</td>

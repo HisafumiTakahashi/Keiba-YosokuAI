@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -765,7 +765,7 @@ get_horse_detail_note('2020103218', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202307040408/" title="23'£³ºÐ¾å£µ£°£°Ëü²¼">23'£³ºÐ¾å£µ£°£°Ëü²¼</a><!--¡¢<a href="/race/202202010505/" title=22'£²ºÐ¿·ÇÏ"">22'£²ºÐ¿·ÇÏ</a>--></td>
+<td><a href="/race/202307040408/" title="23'3ºÐ°Ê¾å1¾¡¥¯¥é¥¹">23'3ºÐ°Ê¾å1¾¡¥¯¥é¥¹</a><!--¡¢<a href="/race/202202010505/" title=22'2ºÐ¿·ÇÏ"">22'2ºÐ¿·ÇÏ</a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

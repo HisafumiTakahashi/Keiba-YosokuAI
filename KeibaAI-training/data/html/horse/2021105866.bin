@@ -733,7 +733,7 @@ get_horse_detail_note('2021105866', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05352/" title="岡田利一">岡田利一</a> (兵庫)</td>
+<td><a href="/trainer/05352/" title="岡田利一">岡田利一</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -760,12 +760,12 @@ get_horse_detail_note('2021105866', 'Horse_Note_Box');
 
 
 
-540万円 (中央) /14万円 (地方)
+540万円 (中央) /28万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>5戦0勝 [<a href="/horse/result/2021105866/" title="全競走成績">0-1-3-1</a>]</td>
+<td>6戦0勝 [<a href="/horse/result/2021105866/" title="全競走成績">0-1-4-1</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/50/20250103/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202550010306/" title="トミーズ雅☆来場記念(C2)">トミーズ雅☆来場記念(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010306" target="_blank" title="トミーズ雅☆来場記念(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">2.0</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/00815/" title="川原正一">川原正一</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.8</td>
+<td class="txt_right">0.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>7-8-7-6</td>
+<td>0.0-41.5</td>
+<td class="rank_3">40.4</td>
+<td>442(+2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021100860/">チェリータイム</a></td>
+
+<td>14.0</td>
+</tr><tr>
 <td><a href="/race/list/20241218/">2024/12/18</a></td>
 <td><a href="/race/sum/50/20241218/">園田</a></td>
 <td>晴</td>

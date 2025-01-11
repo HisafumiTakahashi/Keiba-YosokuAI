@@ -733,7 +733,7 @@ get_horse_detail_note('2021105069', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05257/" title="手島勝利">手島勝利</a> (地方)</td>
+<td><a href="/trainer/05257/" title="手島勝利">手島勝利</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021105069', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202430052803/" title="３歳条件４組４０万円以下">３歳条件４組４０万円以下</a><!--、<a href="/race/202430073110/" title=ホクレンパールライス特別"">ホクレンパールライス特別</a>--></td>
+<td><a href="/race/202430052803/" title="3歳条件4組40万円以下">3歳条件4組40万円以下</a><!--、<a href="/race/202455121602/" title=さがけいば無料ネット新聞うまかつ.net"">さがけいば無料ネット新聞うまかつ.net</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1><!--  ¢¢ÃÏ -->¥ê¥å¥ß¥Ì¡¼¥Õ¥£¡¼¥æ</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2020101352/" style="color:#FFF;">Lumineux Fille</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
-</p>
-<p class="txt_01">¡¡ÌÆ¡¡·ªÌÓ </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1><!--  ¢¢ÃÏ -->¥ê¥å¥ß¥Ì¡¼¥Õ¥£¡¼¥æ</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2020101352/" style="color:#FFF;">Lumineux Fille</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ¡Ê<span></span>É¼¡Ë--></strong>
+                        </p>
+                        
+                        <p class="txt_01">¡¡ÌÆ¡¡·ªÌÓ </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -764,7 +771,7 @@ get_horse_detail_note('2020101352', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>15Àï5¾¡ [<a href="/horse/result/2020101352/" title="Á´¶¥ÁöÀ®ÀÓ">5-2-0-8</a>]</td>
+<td>16Àï6¾¡ [<a href="/horse/result/2020101352/" title="Á´¶¥ÁöÀ®ÀÓ">6-2-0-8</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -978,6 +985,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/42/20250110/">±ºÏÂ</a></td>
+<td>À²</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202542011003/" title="±ºÏÂ800¥é¥¦¥ó¥É(C2)">±ºÏÂ800¥é¥¦¥ó¥É(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542011003" target="_blank" title="±ºÏÂ800¥é¥¦¥ó¥É(C2)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">2.9</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05595/" title="Ê¡¸¶°É">Ê¡¸¶°É</a>
+
+</td>
+<td>54</td>
+<td>¥À800</td>
+<td>ãÄ</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">0:48.2</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1</td>
+<td>35.4-36.1</td>
+<td class="rank_3">36.1</td>
+<td>522(-2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103526/">(¥Õ¥¡¥»¥ê¥¢)</a></td>
+
+<td>100.0</td>
+</tr><tr>
 <td><a href="/race/list/20240920/">2024/09/20</a></td>
 <td><a href="/race/sum/42/20240920/">±ºÏÂ</a></td>
 <td>À²</td>

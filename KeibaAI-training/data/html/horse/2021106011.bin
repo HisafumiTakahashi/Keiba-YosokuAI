@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -765,7 +765,7 @@ get_horse_detail_note('2021106011', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>7Àï0¾¡ [<a href="/horse/result/2021106011/" title="Á´¶¥ÁöÀ®ÀÓ">0-3-0-4</a>]</td>
+<td>8Àï0¾¡ [<a href="/horse/result/2021106011/" title="Á´¶¥ÁöÀ®ÀÓ">0-3-1-4</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/50/20250109/">±àÅÄ</a></td>
+<td>À²</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202550010907/" title="C2Æó">C2Æó</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010907" target="_blank" title="C2Æó¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">7</td>
+<td class="txt_right">8</td>
+<td class="txt_right">6.5</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05646/" title="ºûÅÄÃÎ¹¨">ºûÅÄÃÎ¹¨</a>
+
+</td>
+<td>56</td>
+<td>¥À1400</td>
+<td>ãÄ</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:36.1</td>
+<td class="txt_right">0.8</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-2-2-2</td>
+<td>0.0-41.3</td>
+<td class="bml">41.9</td>
+<td>524(+7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021110139/">¥¬¡¼¥Ç¥ó¥«¥á¥ê¥¢</a></td>
+
+<td>14.0</td>
+</tr><tr>
 <td><a href="/race/list/20241128/">2024/11/28</a></td>
 <td><a href="/race/sum/50/20241128/">±àÅÄ</a></td>
 <td>À²</td>

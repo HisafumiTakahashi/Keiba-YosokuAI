@@ -765,11 +765,11 @@ get_horse_detail_note('2021105179', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>9戦0勝 [<a href="/horse/result/2021105179/" title="全競走成績">0-2-1-6</a>]</td>
+<td>10戦1勝 [<a href="/horse/result/2021105179/" title="全競走成績">1-2-1-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race//" title=""></a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202550010801/" title="C3二">C3二</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/50/20250108/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202550010801/" title="C3二">C3二</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010801" target="_blank" title="C3二の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">5</td>
+<td class="txt_right">6</td>
+<td class="txt_right">1.0</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/00894/" title="小牧太">小牧太</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:36.7</td>
+<td class="txt_right">-0.6</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>3-4-2-2</td>
+<td>0.0-41.3</td>
+<td class="rank_1">40.9</td>
+<td>428(+5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021106928/">(バイアスペクター)</a></td>
+
+<td>56.0</td>
+</tr><tr>
 <td><a href="/race/list/20241004/">2024/10/04</a></td>
 <td><a href="/race/sum/50/20241004/">園田</a></td>
 <td>曇</td>

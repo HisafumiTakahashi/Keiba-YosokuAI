@@ -760,12 +760,12 @@ get_horse_detail_note('2021105137', 'Horse_Note_Box');
 
 
 
-55它边 (面丙) /6它边 (孟数)
+55它边 (面丙) /15它边 (孟数)
 </td>
 </tr>
 <tr>
 <th>奶换喇烙</th>
-<td>10里0尽 [<a href="/horse/result/2021105137/" title="链顶瘤喇烙">0-0-0-10</a>]</td>
+<td>11里0尽 [<a href="/horse/result/2021105137/" title="链顶瘤喇烙">0-0-0-11</a>]</td>
 </tr>
 <tr>
 <th>肩な尽叭</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/54/20250108/">光梦</a></td>
+<td>啦</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202554010802/" title="C3〖11">C3〖11</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010802" target="_blank" title="C3〖11の鼻咙"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">4</td>
+<td class="txt_right">4</td>
+<td class="txt_right">32.8</td>
+<td class=" txt_right">6</td>
+<td class="bml txt_right">8</td>
+<td>
+<a href="/jockey/result/recent/a0258/" title="怀宏岔统">怀宏岔统</a>
+
+</td>
+<td>56</td>
+<td>ダ1300</td>
+<td>隳</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:30.8</td>
+<td class="txt_right">1.5</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>9-10-11-11</td>
+<td>0.0-40.9</td>
+<td class="rank_3">41.1</td>
+<td>499(+4)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021110043/">カポデテュティカピ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241231/">2024/12/31</a></td>
 <td><a href="/race/sum/54/20241231/">光梦</a></td>
 <td>啦</td>
@@ -1004,16 +1057,20 @@ $('#horse_award_box').html(data.data);
 <td>紊</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:30.6</td>
 <td class="txt_right">1.5</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>5-5-6-6</td>
 <td>0.0-40.7</td>

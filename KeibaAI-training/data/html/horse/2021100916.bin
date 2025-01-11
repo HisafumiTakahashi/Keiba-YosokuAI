@@ -595,11 +595,11 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100916&no=37222&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100916&no=74382&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100916&no=37222&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 37222 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100916&no=74382&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 74382 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100916&no=37222&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 37222 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 
@@ -733,7 +733,7 @@ get_horse_detail_note('2021100916', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a05f9/" title="堀場裕充">堀場裕充</a> (地方)</td>
+<td><a href="/trainer/05476/" title="鹿沼良和">鹿沼良和</a> (浦和)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,11 +765,11 @@ get_horse_detail_note('2021100916', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>9戦2勝 [<a href="/horse/result/2021100916/" title="全競走成績">2-1-0-6</a>]</td>
+<td>10戦3勝 [<a href="/horse/result/2021100916/" title="全競走成績">3-1-0-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446112602/" title="Ｃ２８">Ｃ２８</a><!--、<a href="/race/202446101304/" title=今日もウララかケセラセラ記念"">今日もウララかケセラセラ記念</a>--></td>
+<td><a href="/race/202542010706/" title="特選">特選</a><!--、<a href="/race/202446101304/" title=今日もウララかケセラセラ記念"">今日もウララかケセラセラ記念</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/42/20250107/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202542010706/" title="特選(C3)">特選(C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010706" target="_blank" title="特選(C3)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">2.8</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05347/" title="秋元耕成">秋元耕成</a>
+
+</td>
+<td>54</td>
+<td>ダ1500</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:38.6</td>
+<td class="txt_right">-1.1</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1-1</td>
+<td>32.3-39.2</td>
+<td class="rank_1">39.2</td>
+<td>439(-9)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021100837/">(ユメデアエタラ)</a></td>
+
+<td>90.0</td>
+</tr><tr>
 <td><a href="/race/list/20241210/">2024/12/10</a></td>
 <td><a href="/race/sum/46/20241210/">金沢</a></td>
 <td>晴</td>

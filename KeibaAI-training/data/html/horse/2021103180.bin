@@ -770,17 +770,17 @@ get_horse_detail_note('2021103180', 'Horse_Note_Box');
 <td>
 
 
-220万円 (中央)
 
+220万円 (中央) /80万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>3戦0勝 [<a href="/horse/result/2021103180/" title="全競走成績">0-1-0-2</a>]</td>
+<td>4戦1勝 [<a href="/horse/result/2021103180/" title="全競走成績">1-1-0-2</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race//" title=""></a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202550010309/" title="楽天競馬で初夢賞C2一">楽天競馬で初夢賞C2一</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -990,6 +990,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/50/20250103/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202550010309/" title="楽天競馬で初夢賞C2">楽天競馬で初夢賞C2</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010309" target="_blank" title="楽天競馬で初夢賞C2の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">8</td>
+<td class="txt_right">11</td>
+<td class="txt_right">2.5</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05328/" title="下原理">下原理</a>
+
+</td>
+<td>54</td>
+<td>ダ820</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">0:50.7</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>1-1</td>
+<td>0.0-36.9</td>
+<td class="bml">36.9</td>
+<td>490(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020104150/">(ベイブ)</a></td>
+
+<td>80.0</td>
+</tr><tr>
 <td><a href="/race/list/20241219/">2024/12/19</a></td>
 <td><a href="/race/sum/50/20241219/">園田</a></td>
 <td>晴</td>

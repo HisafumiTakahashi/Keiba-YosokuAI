@@ -733,7 +733,7 @@ get_horse_detail_note('2022104509', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05108/" title="桧森邦夫">桧森邦夫</a> (地方)</td>
+<td><a href="/trainer/05108/" title="桧森邦夫">桧森邦夫</a> (北海道)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2022104509', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202430051404/" title="24'ＪＲＡ認定競走フレッシュチャレンジ(新馬)">24'ＪＲＡ認定競走フレッシュチャレンジ(新馬)</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202430051404/" title="24'JRA認定競走フレッシュチャレンジ(新馬)">24'JRA認定競走フレッシュチャレンジ(新馬)</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

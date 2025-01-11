@@ -758,14 +758,14 @@ get_horse_detail_note('2022102145', 'Horse_Note_Box');
 <th>≥Õ∆¿æﬁ∂‚</th>
 <td>
 
-82À¸±ﬂ (√œ ˝)
+90À¸±ﬂ (√œ ˝)
 
 
 </td>
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>9¿Ô0æ° [<a href="/horse/result/2022102145/" title="¡¥∂•¡ˆ¿Æ¿”">0-2-1-6</a>]</td>
+<td>10¿Ô0æ° [<a href="/horse/result/2022102145/" title="¡¥∂•¡ˆ¿Æ¿”">0-2-1-7</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/47/20250109/">≥ﬁææ</a></td>
+<td>¿≤</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202547010908/" title="ΩŸ«œ∆√ Ã(3∫–)">ΩŸ«œ∆√ Ã(3∫–)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547010908" target="_blank" title="ΩŸ«œ∆√ Ã(3∫–)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">33.8</td>
+<td class=" txt_right">7</td>
+<td class="bml txt_right">6</td>
+<td>
+<a href="/jockey/result/recent/05171/" title="≤¨…Ù¿ø">≤¨…Ù¿ø</a>
+
+</td>
+<td>54</td>
+<td>•¿1600</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:49.0</td>
+<td class="txt_right">2.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>7-5-5</td>
+<td>0.0-41.9</td>
+<td class="bml">43.1</td>
+<td>395(-7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022100207/">•ø•§•ª•§•’•È•Û•Ø</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241230/">2024/12/30</a></td>
 <td><a href="/race/sum/47/20241230/">≥ﬁææ</a></td>
 <td>∆ﬁ</td>
@@ -1004,16 +1057,20 @@ $('#horse_award_box').html(data.data);
 <td>Œ…</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:32.8</td>
 <td class="txt_right">0.7</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>4-5-5</td>
 <td>0.0-42.6</td>

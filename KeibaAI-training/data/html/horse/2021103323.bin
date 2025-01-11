@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">¶¥ÎØ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103323&no=67842&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103323&no=54083&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2021103323', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>13Àï3¾¡ [<a href="/horse/result/2021103323/" title="Á´¶¥ÁöÀ®ÀÓ">3-2-2-6</a>]</td>
+<td>14Àï3¾¡ [<a href="/horse/result/2021103323/" title="Á´¶¥ÁöÀ®ÀÓ">3-2-2-7</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/07/20250105/">1Ãæµþ1</a></td>
+<td>À²</td>
+<td class="txt_right">11</td>
+<td class="rank_3"><a href="/race/202507010111/" title="¥¹¥Ý¥Ë¥Á¾ÞµþÅÔ¶âÇÕ(GIII)">¥¹¥Ý¥Ë¥Á¾ÞµþÅÔ¶âÇÕ(GIII)</a></td>
+<td>
+<a href="/race/movie/202507010111" target="_blank" title="¥¹¥Ý¥Ë¥Á¾ÞµþÅÔ¶âÇÕ(GIII)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">4</td>
+<td class="txt_right">8</td>
+<td class="txt_right">79.4</td>
+<td class=" txt_right">13</td>
+<td class="bml txt_right">12</td>
+<td>
+<a href="/jockey/result/recent/01117/" title="´ÝÅÄ¶³²ð">´ÝÅÄ¶³²ð</a>
+
+</td>
+<td>57</td>
+<td>¼Ç1600</td>
+<td>ÎÉ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:35.1</td>
+<td class="txt_right">1.6</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>3-3-4</td>
+<td>34.7-35.4</td>
+<td class="bml">36.5</td>
+<td>490(0)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2021103323&rid=202507010111"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2017103751/">¥µ¥¯¥é¥È¥¥¥¸¥å¡¼¥ë</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241110/">2024/11/10</a></td>
 <td><a href="/race/sum/05/20241110/">5Åìµþ4</a></td>
 <td>ÆÞ</td>

@@ -758,14 +758,14 @@ get_horse_detail_note('2021100108', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-183万円 (地方)
+193万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>13戦3勝 [<a href="/horse/result/2021100108/" title="全競走成績">3-1-0-9</a>]</td>
+<td>14戦3勝 [<a href="/horse/result/2021100108/" title="全競走成績">3-1-1-9</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/48/20250103/">名古屋</a></td>
+<td>晴</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202548010306/" title="C3組">C3組</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010306" target="_blank" title="C3組の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">8.8</td>
+<td class=" txt_right">4</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05638/" title="塚本征吾">塚本征吾</a>
+
+</td>
+<td>56</td>
+<td>ダ1500</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:38.1</td>
+<td class="txt_right">0.4</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>6-6-4</td>
+<td>0.0-40.4</td>
+<td class="rank_3">40.3</td>
+<td>496(+4)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020102858/">サウンドジャッカル</a></td>
+
+<td>10.0</td>
+</tr><tr>
 <td><a href="/race/list/20241125/">2024/11/25</a></td>
 <td><a href="/race/sum/48/20241125/">名古屋</a></td>
 <td>晴</td>

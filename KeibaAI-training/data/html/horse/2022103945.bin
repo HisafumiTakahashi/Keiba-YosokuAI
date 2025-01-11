@@ -733,7 +733,7 @@ get_horse_detail_note('2022103945', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02f1/" title="有馬澄男">有馬澄男</a> (地方)</td>
+<td><a href="/trainer/a02f1/" title="有馬澄男">有馬澄男</a> (兵庫)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2022103945', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>8戦0勝 [<a href="/horse/result/2022103945/" title="全競走成績">0-2-2-4</a>]</td>
+<td>9戦0勝 [<a href="/horse/result/2022103945/" title="全競走成績">0-2-3-4</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/50/20250108/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202550010803/" title="3歳未勝利一">3歳未勝利一</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010803" target="_blank" title="3歳未勝利一の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">8</td>
+<td class="txt_right">8</td>
+<td class="txt_right">4.8</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/05328/" title="下原理">下原理</a>
+
+</td>
+<td>55</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:36.1</td>
+<td class="txt_right">0.8</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1-1</td>
+<td>0.0-41.7</td>
+<td class="bml">42.5</td>
+<td>506(+7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022106957/">トールハンマー</a></td>
+
+<td>20.0</td>
+</tr><tr>
 <td><a href="/race/list/20241217/">2024/12/17</a></td>
 <td><a href="/race/sum/50/20241217/">園田</a></td>
 <td>晴</td>

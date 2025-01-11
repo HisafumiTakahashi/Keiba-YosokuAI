@@ -729,7 +729,7 @@ get_horse_detail_note('2020104642', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05604/" title="川西毅">川西毅</a> (愛知)</td>
+<td><a href="/trainer/05604/" title="川西毅">川西毅</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020104642', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202348092501/" title="名古屋モーニングフィーバー41">名古屋モーニングフィーバー41</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202348092501/" title="名古屋モーニングフィーバー４１">名古屋モーニングフィーバー４１</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

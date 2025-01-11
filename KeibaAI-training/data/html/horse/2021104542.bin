@@ -759,13 +759,13 @@ get_horse_detail_note('2021104542', 'Horse_Note_Box');
 <td>
 
 
-718Ëü±ß (Ãæ±û)
 
+718Ëü±ß (Ãæ±û) /11Ëü±ß (ÃÏÊý)
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>12Àï0¾¡ [<a href="/horse/result/2021104542/" title="Á´¶¥ÁöÀ®ÀÓ">0-2-1-9</a>]</td>
+<td>13Àï0¾¡ [<a href="/horse/result/2021104542/" title="Á´¶¥ÁöÀ®ÀÓ">0-2-2-9</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/50/20250104/">±àÅÄ</a></td>
+<td>À²</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202550010403/" title="C3Æó">C3Æó</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010403" target="_blank" title="C3Æó¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2</td>
+<td class="txt_right">23.1</td>
+<td class=" txt_right">4</td>
+<td class="rank_3 txt_right">3</td>
+<td>
+<a href="/jockey/result/recent/a0395/" title="±Ê°æ¹§Åµ">±Ê°æ¹§Åµ</a>
+
+</td>
+<td>54</td>
+<td>¥À1400</td>
+<td>ÎÉ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:34.8</td>
+<td class="txt_right">0.3</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>4-4-4-3</td>
+<td>0.0-40.4</td>
+<td class="bml">40.5</td>
+<td>444(+4)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020107213/">¥°¥ê¥å¡¼¥ó¥ô¥¡¥ë¥È</a></td>
+
+<td>11.2</td>
+</tr><tr>
 <td><a href="/race/list/20241212/">2024/12/12</a></td>
 <td><a href="/race/sum/50/20241212/">±àÅÄ</a></td>
 <td>À²</td>

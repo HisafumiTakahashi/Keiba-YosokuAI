@@ -733,7 +733,7 @@ get_horse_detail_note('2021102732', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05630/" title="田中淳司">田中淳司</a> (北海道)</td>
+<td><a href="/trainer/05066/" title="川嶋弘吉">川嶋弘吉</a> (笠松)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2021102732', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>11戦0勝 [<a href="/horse/result/2021102732/" title="全競走成績">0-2-2-7</a>]</td>
+<td>12戦0勝 [<a href="/horse/result/2021102732/" title="全競走成績">0-3-2-7</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/47/20250110/">笠松</a></td>
+<td>曇</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202547011004/" title="ほっちゃんゆきなちゃ(C)">ほっちゃんゆきなちゃ(C)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547011004" target="_blank" title="ほっちゃんゆきなちゃ(C)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1.7</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/a0571/" title="明星晴大">明星晴大</a>
+
+</td>
+<td>52</td>
+<td>ダ1400</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:33.7</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>3-5-4</td>
+<td>0.0-40.5</td>
+<td class="rank_1">40.2</td>
+<td>421(+1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102133/">ダブルブラック</a></td>
+
+<td>14.0</td>
+</tr><tr>
 <td><a href="/race/list/20241029/">2024/10/29</a></td>
 <td><a href="/race/sum/30/20241029/">門別</a></td>
 <td>晴</td>

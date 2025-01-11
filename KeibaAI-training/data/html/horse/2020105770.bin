@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105770&no=2402&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105770&no=33111&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -756,16 +756,16 @@ get_horse_detail_note('2020105770', 'Horse_Note_Box');
 
 
 
-78万円 (中央) /275万円 (地方)
+78万円 (中央) /347万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>16戦1勝 [<a href="/horse/result/2020105770/" title="全競走成績">1-0-2-13</a>]</td>
+<td>17戦2勝 [<a href="/horse/result/2020105770/" title="全競走成績">2-0-2-13</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202343020807/" title="ベストビット特別">ベストビット特別</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202554010602/" title="C3ー5">C3ー5</a><!--、<a href="/race/202343020807/" title=ベストビット特別"">ベストビット特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/54/20250106/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202554010602/" title="C3ー5">C3ー5</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010602" target="_blank" title="C3ー5の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">4</td>
+<td class="txt_right">4</td>
+<td class="txt_right">7.7</td>
+<td class=" txt_right">4</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/a0270/" title="岡村卓弥">岡村卓弥</a>
+
+</td>
+<td>56</td>
+<td>ダ1300</td>
+<td>重</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:24.0</td>
+<td class="txt_right">-0.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>5-4-3-2</td>
+<td>0.0-38.8</td>
+<td class="rank_1">38.5</td>
+<td>496(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102440/">(カレンメラメーラ)</a></td>
+
+<td>60.0</td>
+</tr><tr>
 <td><a href="/race/list/20250101/">2025/01/01</a></td>
 <td><a href="/race/sum/54/20250101/">高知</a></td>
 <td>晴</td>
@@ -1000,16 +1057,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:26.2</td>
 <td class="txt_right">0.7</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>2-2-2-2</td>
 <td>0.0-39.9</td>

@@ -9,7 +9,7 @@
 <link href="https://cdn.netkeiba.com/img.db/common/css/reset.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/common.css?20210819" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_detail.css?20180621" rel="stylesheet" type="text/css" media="all" />
-<link href="https://cdn.netkeiba.com/img.db/common/css/horse_detail.css?202411201830" rel="stylesheet" type="text/css" media="all" />
+<link href="https://cdn.netkeiba.com/img.db/common/css/horse_detail.css?20241217" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/win.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/db_top.css?20160421" rel="stylesheet" type="text/css" media="all" />
 <link href="https://cdn.netkeiba.com/img.db/common/css/prettyPhoto.css?20160421" rel="stylesheet" type="text/css" />
@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -267,7 +267,7 @@ min-width: unset;
 <a href="https://db.netkeiba.com/?rf=navi" title="データベース" id="navi_link_db">データベース</a>
 </li>
 <li class="Shop New">
-<a href="https://shop.netkeiba.com/?utm_source=netkeiba&utm_medium=+referral&utm_campaign=pcgnavi_20240425" title="ショップ" id="navi_link_shop">ショップ</a>
+<a href="https://shop.netkeiba.com/?utm_source=netkeiba&utm_medium=+referral&utm_campaign=pcgnavi_20240425" title="ショップ" id="navi_link_shop" target="_blank">ショップ</a>
 </li>
 <li class="Paper">
 <a href="https://yoso.netkeiba.com/senmonshi/?rf=navi" title="競馬新聞" id="navi_link_senmonshi">競馬新聞</a>
@@ -416,7 +416,7 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">現役　牝2歳　鹿毛 </p>
+<p class="txt_01">抹消　牝　鹿毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -591,21 +591,18 @@ event.preventDefault();
 <script language="javascript">
 function changeHorseMainPhoto( Id )
 {
-document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=&tn=yes&tmp=no&no=" + Id );
+document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022101030&tn=yes&tmp=no&no=" + Id );
 }
 </script>
 <div class="db_photo_box fc">
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022101030&no=27091&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
-<img src="https://db.netkeiba.com/common/image/dummy.jpg" alt="画像がありません" width="230" height="164" class="db_photo_main" />
 <div class="Slid_List Photo_Slid">
-<ul>
-<li><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
-<li><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
-<li style="margin:0"><img src="https://db.netkeiba.com/common/image/dummy.jpg" width="64" /></li>
+<ul id="Horse_Photo_Slide">
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022101030&no=27091&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 27091 );"/></a></li>
 </ul>
-<p class="prev"><span class="noimage_btn"><span>&laquo;</span></span></p>
-<p class="next"><span class="noimage_btn"><span>&raquo;</span></span></p>
 </div><!-- /.Slid_List Photo_Slid -->
+
 <p class="detail_link"><a href="https://db.netkeiba.com/v1.1//?pid=horse_photo&id=2022101030" title="写真一覧">写真一覧</a> / <a href="https://uploaddb.netkeiba.com/v1.1//?pid=horse_upload_photo&id=2022101030" title="写真投稿" id="photo_post">写真投稿</a></p>
 </div>
 <script>
@@ -1007,16 +1004,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:40.4</td>
 <td class="txt_right">3.8</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>13-13-14</td>
 <td>36.2-35.6</td>

@@ -729,7 +729,7 @@ get_horse_detail_note('2020105222', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02e1/" title="栗本陽一">栗本陽一</a> (地方)</td>
+<td><a href="/trainer/a02e1/" title="栗本陽一">栗本陽一</a> (笠松)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020105222', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202447071812/" title="Ｃ級サバイバル">Ｃ級サバイバル</a><!--、<a href="/race/202447030602/" title=稀羽すうＣＤ＆ワンマン記念"">稀羽すうＣＤ＆ワンマン記念</a>--></td>
+<td><a href="/race/202447071812/" title="C級サバイバル">C級サバイバル</a><!--、<a href="/race/202447030602/" title=稀羽すうCD&amp;ワンマン記念"">稀羽すうCD&amp;ワンマン記念</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

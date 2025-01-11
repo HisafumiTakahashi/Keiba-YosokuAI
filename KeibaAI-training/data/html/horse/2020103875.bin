@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -591,11 +591,11 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=28892&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=18255&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
-<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=85967&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 85967 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=85965&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 85965 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=51079&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 51079 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=50954&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50954 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=45376&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 45376 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=32877&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 32877 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=32597&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 32597 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=30025&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 30025 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=28892&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 28892 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=28882&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 28882 );"/></a></li>
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=99491&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 99491 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=85967&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 85967 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=85965&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 85965 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=51079&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 51079 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=50954&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50954 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=45376&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 45376 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=32877&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 32877 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=32597&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 32597 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=30025&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 30025 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020103875&no=28892&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 28892 );"/></a></li>
 </ul>
 </div><!-- /.Slid_List Photo_Slid -->
 
@@ -755,17 +755,17 @@ get_horse_detail_note('2020103875', 'Horse_Note_Box');
 <td>
 
 
-1,721万円 (中央)
+3,501万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>18戦1勝 [<a href="/horse/result/2020103875/" title="全競走成績">1-1-0-16</a>]</td>
+<td>19戦2勝 [<a href="/horse/result/2020103875/" title="全競走成績">2-1-0-16</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202406040801/" title="24'障害3歳以上未勝利">24'障害3歳以上未勝利</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202506010208/" title="25'中山新春ジャンプS(OP)">25'中山新春ジャンプS(OP)</a><!--、<a href="/race/202406040801/" title=24'障害3歳以上未勝利"">24'障害3歳以上未勝利</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/06/20250106/">1中山2</a></td>
+<td>小雨</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202506010208/" title="中山新春ジャンプS(OP)">中山新春ジャンプS(OP)</a></td>
+<td>
+<a href="/race/movie/202506010208" target="_blank" title="中山新春ジャンプS(OP)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">14</td>
+<td class="txt_right">4</td>
+<td class="txt_right">6</td>
+<td class="txt_right">11.6</td>
+<td class=" txt_right">5</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/01087/" title="上野翔">上野翔</a>
+
+</td>
+<td>60</td>
+<td>障3200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">3:36.5</td>
+<td class="txt_right">-0.1</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-2-2-2</td>
+<td>106.0-38.1</td>
+<td class="rank_1">13.5</td>
+<td>494(+14)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2020103875&rid=202506010208"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019100675/">(オオキニ)</a></td>
+
+<td>1,780.8</td>
+</tr><tr>
 <td><a href="/race/list/20241116/">2024/11/16</a></td>
 <td><a href="/race/sum/03/20241116/">3福島5</a></td>
 <td>晴</td>
@@ -2169,50 +2222,45 @@ target_type: 'mix'
 <!--
 function tab_select( active_tab, passive_tab )
 {
-    document.getElementById( passive_tab ).className = "";
-    document.getElementById( active_tab ).className = "active";
-    document.getElementById( passive_tab + "_box" ).style.display = "none";
-    document.getElementById( active_tab + "_box" ).style.display = "block";
+document.getElementById( passive_tab ).className = "";
+document.getElementById( active_tab ).className = "active";
+document.getElementById( passive_tab + "_box" ).style.display = "none";
+document.getElementById( active_tab + "_box" ).style.display = "block";
 }
 //-->
 </script>
-
 <div class="cate_bar_s">
-  <h2>フェーレンベルク関連ニュース</h2>
+<h2>フェーレンベルク関連ニュース</h2>
 </div>
-
 <ul id="horse_news" class="relation_menu fc">
-  <li>
-    <a id="NetkeibaNews" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaNews','SocialNews' );" class="active">netkeibaニュース</a>
-  </li>
-  <li>
-    <a id="SocialNews" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialNews','NetkeibaNews' );">タレコミニュース</a>
-  </li>
+<li>
+<a id="NetkeibaNews" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaNews','SocialNews' );" class="active">netkeibaニュース</a>
+</li>
+<li>
+<a id="SocialNews" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialNews','NetkeibaNews' );">タレコミニュース</a>
+</li>
 </ul>
-
 <!-- NetkeibaNews -->
 <div id="NetkeibaNews_box">
-  <div id="HorseNews" class="Loader"></div>
-  <script type="text/javascript">
-  $( document ).ready( function() {
-       showNetkeibaNewsSearch( "HorseNews", "フェーレンベルク", 5, 1, "", "", "", "", "m" );
-  });
-  </script>
+<div id="HorseNews" class="Loader"></div>
+<script type="text/javascript">
+$( document ).ready( function() {
+showNetkeibaNewsSearch( "HorseNews", "フェーレンベルク", 5, 1, "", "", "", "", "m" );
+});
+</script>
 </div>
-
 <!-- SocialNews -->
 <div id="SocialNews_box" style="display:none;">
-  <div id="HorseSocialNews" class="Loader"></div>
-  <script type="text/javascript">
-  <!--
-  $( document ).ready( function() {
-      //setTimeout( "showNetkeibaUserNewsSearch( 'HorseSocialNews', 'フェーレンベルク', 5, 1, '', '', 'm' )" , 1100);
-      showNetkeibaUserNewsSearch( "HorseSocialNews", "フェーレンベルク", 5, 1, "", "", "m" );
-  } );
-  // -->
-  </script>
+<div id="HorseSocialNews" class="Loader"></div>
+<script type="text/javascript">
+<!--
+$( document ).ready( function() {
+//setTimeout( "showNetkeibaUserNewsSearch( 'HorseSocialNews', 'フェーレンベルク', 5, 1, '', '', 'm' )" , 1100);
+showNetkeibaUserNewsSearch( "HorseSocialNews", "フェーレンベルク", 5, 1, "", "", "m" );
+} );
+// -->
+</script>
 </div>
-
 </div><!-- /.db_h_news_box -->
 </div><!-- /.relation_box -->
 <div class="relation_box fc">
@@ -2222,53 +2270,48 @@ function tab_select( active_tab, passive_tab )
 <!--
 function tab_select( active_tab, passive_tab )
 {
-    document.getElementById( passive_tab ).className = "";
-    document.getElementById( active_tab ).className = "active";
-    document.getElementById( passive_tab + "_box" ).style.display = "none";
-    document.getElementById( active_tab + "_box" ).style.display = "block";
+document.getElementById( passive_tab ).className = "";
+document.getElementById( active_tab ).className = "active";
+document.getElementById( passive_tab + "_box" ).style.display = "none";
+document.getElementById( active_tab + "_box" ).style.display = "block";
 }
 //-->
 </script>
-
 <div class="cate_bar_s">
-  <h2>フェーレンベルク関連コラム</h2>
+<h2>フェーレンベルク関連コラム</h2>
 </div>
-
 <ul id="horse_news" class="relation_menu fc">
-  <li>
-    <a id="NetkeibaColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaColumn','SocialColumn' );" class="active">netkeibaコラム</a>
-  </li>
-  <li>
-    <a id="SocialColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialColumn','NetkeibaColumn' );">タレコミコラム</a>
-  </li>
+<li>
+<a id="NetkeibaColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaColumn','SocialColumn' );" class="active">netkeibaコラム</a>
+</li>
+<li>
+<a id="SocialColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialColumn','NetkeibaColumn' );">タレコミコラム</a>
+</li>
 </ul>
-
 <!-- NetkeibaColumn -->
 <div id="NetkeibaColumn_box">
-  <div id="HorseColumn" class="Loader"></div>
-  <script type="text/javascript">
-  <!--
-  $( document ).ready( function() {
-      //setTimeout( "showNetkeibaColumnSearch( 'HorseColumn', 'フェーレンベルク', 5, 1, '', '', '', 'm' )" , 1200);
-      showNetkeibaColumnSearch( "HorseColumn", "フェーレンベルク", 5, 1, "", "", "", "m" );
-  } );
-  // -->
-  </script>
+<div id="HorseColumn" class="Loader"></div>
+<script type="text/javascript">
+<!--
+$( document ).ready( function() {
+//setTimeout( "showNetkeibaColumnSearch( 'HorseColumn', 'フェーレンベルク', 5, 1, '', '', '', 'm' )" , 1200);
+showNetkeibaColumnSearch( "HorseColumn", "フェーレンベルク", 5, 1, "", "", "", "m" );
+} );
+// -->
+</script>
 </div>
-
 <!-- SocialColumn -->
 <div id="SocialColumn_box" style="display:none;">
-  <div id="HorseSocialColumn" class="Loader"></div>
-  <script type="text/javascript">
-  <!--
-  $( document ).ready( function() {
-      //setTimeout( "showNetkeibaUserColumnSearch( 'HorseSocialColumn', 'フェーレンベルク', 5, 1, '', '', 'm' )" , 1300);
-      showNetkeibaUserColumnSearch( "HorseSocialColumn", "フェーレンベルク", 5, 1, "", "", "m" );
-  } );
-  // -->
-  </script>
+<div id="HorseSocialColumn" class="Loader"></div>
+<script type="text/javascript">
+<!--
+$( document ).ready( function() {
+//setTimeout( "showNetkeibaUserColumnSearch( 'HorseSocialColumn', 'フェーレンベルク', 5, 1, '', '', 'm' )" , 1300);
+showNetkeibaUserColumnSearch( "HorseSocialColumn", "フェーレンベルク", 5, 1, "", "", "m" );
+} );
+// -->
+</script>
 </div>
-
 </div><!-- /.db_h_column_box -->
 </div><!-- /.relation_box -->
 

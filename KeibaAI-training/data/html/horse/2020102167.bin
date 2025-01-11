@@ -761,11 +761,11 @@ get_horse_detail_note('2020102167', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>34¿Ô3æ° [<a href="/horse/result/2020102167/" title="¡¥∂•¡ˆ¿Æ¿”">3-4-7-20</a>]</td>
+<td>35¿Ô4æ° [<a href="/horse/result/2020102167/" title="¡¥∂•¡ˆ¿Æ¿”">4-4-7-20</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
-<td><a href="/race/202442092008/" title="•≥•¶•Œ•»•Í§ŒΩª§·§Î§ﬁ§¡π„¡„æﬁ">•≥•¶•Œ•»•Í§ŒΩª§·§Î§ﬁ§¡π„¡„æﬁ</a><!--°¢<a href="/race/202354022801/" title=3∫–°º5"">3∫–°º5</a>--></td>
+<td><a href="/race/202442092008/" title="•≥•¶•Œ•»•Í§ŒΩª§·§Î§ﬁ§¡π„¡„æﬁ">•≥•¶•Œ•»•Í§ŒΩª§·§Î§ﬁ§¡π„¡„æﬁ</a><!--°¢<a href="/race/202542010907/" title=C2œª º∑"">C2œª º∑</a>--></td>
 </tr>
 <tr>
 <th>∂·ø∆«œ</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/42/20250109/">±∫œ¬</a></td>
+<td>¿≤</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202542010907/" title="C2œª°°º∑">C2œª°°º∑</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010907" target="_blank" title="C2œª°°º∑§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">4</td>
+<td class="txt_right">4</td>
+<td class="txt_right">5.7</td>
+<td class=" txt_right">4</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05540/" title="√£æÎŒ∂º°">√£æÎŒ∂º°</a>
+
+</td>
+<td>54</td>
+<td>•¿1400</td>
+<td>„ƒ</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:31.2</td>
+<td class="txt_right">-0.9</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>2-2-1-1</td>
+<td>37.2-40.3</td>
+<td class="rank_1">40.3</td>
+<td>468(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2020105237/">(•·•Ì•—°º•Î)</a></td>
+
+<td>100.0</td>
+</tr><tr>
 <td><a href="/race/list/20241223/">2024/12/23</a></td>
 <td><a href="/race/sum/42/20241223/">±∫œ¬</a></td>
 <td>¿≤</td>

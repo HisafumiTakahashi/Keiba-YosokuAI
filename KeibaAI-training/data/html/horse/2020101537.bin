@@ -755,13 +755,13 @@ get_horse_detail_note('2020101537', 'Horse_Note_Box');
 <td>
 
 
-3,026万円 (中央)
+3,181万円 (中央)
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>15戦2勝 [<a href="/horse/result/2020101537/" title="全競走成績">2-2-0-11</a>]</td>
+<td>16戦2勝 [<a href="/horse/result/2020101537/" title="全競走成績">2-2-0-12</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,65 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/07/20250105/">1中京1</a></td>
+<td>晴</td>
+<td class="txt_right">9</td>
+<td class=""><a href="/race/202507010109/" title="鶴舞特別(2勝クラス)">鶴舞特別(2勝クラス)</a></td>
+<td>
+<a href="/race/movie/202507010109" target="_blank" title="鶴舞特別(2勝クラス)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">40.4</td>
+<td class=" txt_right">7</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05659/" title="ルメート">ルメート</a>
+
+</td>
+<td>58</td>
+<td>芝2200</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">2:13.2</td>
+<td class="txt_right">1.1</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>10-10-10-10</td>
+<td>35.2-35.5</td>
+<td class="rank_3">35.4</td>
+<td>524(-2)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2020101537&rid=202507010109"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+
+</td>
+<td><a href="/horse/2021109070/">ハヤテノフクノスケ</a></td>
+
+<td>155.0</td>
+</tr><tr>
 <td><a href="/race/list/20241222/">2024/12/22</a></td>
 <td><a href="/race/sum/08/20241222/">7京都8</a></td>
 <td>晴</td>

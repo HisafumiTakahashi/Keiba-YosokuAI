@@ -733,7 +733,7 @@ get_horse_detail_note('2021104071', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05715/" title="北野真弘">北野真弘</a> (兵庫)</td>
+<td><a href="/trainer/05715/" title="北野真弘">北野真弘</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021104071', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202450112004/" title="財部7ハロンC3三">財部7ハロンC3三</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202450112004/" title="財部７ハロンＣ３三">財部７ハロンＣ３三</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

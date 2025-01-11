@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -729,7 +729,7 @@ get_horse_detail_note('2020102454', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05131/" title="井上哲">井上哲</a> (愛知)</td>
+<td><a href="/trainer/05131/" title="井上哲">井上哲</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020102454', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202347101003/" title="C25組">C25組</a><!--、<a href="/race/202347120704/" title=大神ミオさん活動5周年記念"">大神ミオさん活動5周年記念</a>--></td>
+<td><a href="/race/202347120704/" title="大神ミオさん活動５周年記念">大神ミオさん活動５周年記念</a><!--、<a href="/race/202347101003/" title=Ｃ２５組"">Ｃ２５組</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

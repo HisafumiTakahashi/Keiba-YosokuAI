@@ -729,7 +729,7 @@ get_horse_detail_note('2020105221', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05774/" title="保利良平">保利良平</a> (地方)</td>
+<td><a href="/trainer/05774/" title="保利良平">保利良平</a> (兵庫)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020105221', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202450111211/" title="兵庫馬事畜産特別Ｂ１Ｂ２">兵庫馬事畜産特別Ｂ１Ｂ２</a><!--、<a href="/race/202450050112/" title=Ｂ２"">Ｂ２</a>--></td>
+<td><a href="/race/202450111211/" title="兵庫馬事畜産特別B1B2">兵庫馬事畜産特別B1B2</a><!--、<a href="/race/202450050112/" title=B2"">B2</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

@@ -756,7 +756,7 @@ get_horse_detail_note('2020101632', 'Horse_Note_Box');
 
 
 
-3,370它边 (面丙) /18它边 (孟数)
+3,370它边 (面丙) /30它边 (孟数)
 </td>
 </tr>
 <tr>
@@ -1000,16 +1000,20 @@ $('#horse_award_box').html(data.data);
 <td>紊</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:34.8</td>
 <td class="txt_right">3.4</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>3-2-3-3</td>
 <td>0.0-38.9</td>

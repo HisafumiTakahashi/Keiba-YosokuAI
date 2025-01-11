@@ -765,7 +765,7 @@ get_horse_detail_note('2021103804', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>7戦0勝 [<a href="/horse/result/2021103804/" title="全競走成績">0-0-1-6</a>]</td>
+<td>8戦0勝 [<a href="/horse/result/2021103804/" title="全競走成績">0-0-1-7</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/50/20250109/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202550010904/" title="柏梨田スプリントC3">柏梨田スプリントC3</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010904" target="_blank" title="柏梨田スプリントC3の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">4</td>
+<td class="txt_right">4</td>
+<td class="txt_right">9.7</td>
+<td class="rank_3 txt_right">3</td>
+<td class="bml txt_right">9</td>
+<td>
+<a href="/jockey/result/recent/05545/" title="山本咲希">山本咲希</a>
+
+</td>
+<td>56</td>
+<td>ダ1230</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:26.1</td>
+<td class="txt_right">3.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>5-5-5-7</td>
+<td>0.0-41.1</td>
+<td class="bml">43.7</td>
+<td>464(-1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021103945/">ルクスアルム</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241119/">2024/11/19</a></td>
 <td><a href="/race/sum/50/20241119/">園田</a></td>
 <td>曇</td>

@@ -727,97 +727,113 @@ get_horse_detail_note('2021105593', 'Horse_Note_Box');
 <div class="db_prof_area_02">
 
 <table summary="¤Î¥×¥í¥Õ¥£¡¼¥ë" class="db_prof_table no_OwnerUnit">
-<tr>
-<th>À¸Ç¯·îÆü</th>
-<td>2021Ç¯3·î16Æü</td>
-</tr>
-<tr>
-<th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/05661/" title="ÀÐÀî¹ÀÊ¸">ÀÐÀî¹ÀÊ¸</a> (º´²ì)</td>
-</tr>
-<tr>
-<th>ÇÏ¼ç</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="¡ÊÆ±¡Ë£Ê£Ð£Îµ»¸¦" class="OwnerColours"><a href="/owner/x07294/" title="¡ÊÆ±¡Ë£Ê£Ð£Îµ»¸¦">¡ÊÆ±¡Ë£Ê£Ð£Îµ»¸¦</a></td>
-</tr>
+	<tr>
+		<th>À¸Ç¯·îÆü</th>
+		<td>2021Ç¯3·î16Æü</td>
+	</tr>
+	<tr>
+		<th>Ä´¶µ»Õ</th>
+		<td><a href="/trainer/05661/" title="ÀÐÀî¹ÀÊ¸">ÀÐÀî¹ÀÊ¸</a> (º´²ì)</td>
+	</tr>
+	<tr>
+		<th>ÇÏ¼ç</th>
+		<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="¡ÊÆ±¡Ë£Ê£Ð£Îµ»¸¦" class="OwnerColours"><a href="/owner/x07294/" title="¡ÊÆ±¡Ë£Ê£Ð£Îµ»¸¦">¡ÊÆ±¡Ë£Ê£Ð£Îµ»¸¦</a></td>
+	</tr>
+  
+	<tr>
+		<th>À¸»º¼Ô</th>
+		<td><a href="/breeder/373126/" title="¥Î¡¼¥¶¥ó¥Õ¥¡¡¼¥à">¥Î¡¼¥¶¥ó¥Õ¥¡¡¼¥à</a></td>
+	</tr>
+	<tr>
+		<th>»ºÃÏ</th>
+		<td>°ÂÊ¿Ä®</td>
+	</tr>
+	<tr>
+		<th>¥»¥ê¼è°ú²Á³Ê</th>
+		<td>
+        -
+    </td>
+	</tr>
+	<tr>
+		<th>³ÍÆÀ¾Þ¶â</th>
+		<td>
 
-<tr>
-<th>À¸»º¼Ô</th>
-<td><a href="/breeder/373126/" title="¥Î¡¼¥¶¥ó¥Õ¥¡¡¼¥à">¥Î¡¼¥¶¥ó¥Õ¥¡¡¼¥à</a></td>
-</tr>
-<tr>
-<th>»ºÃÏ</th>
-<td>°ÂÊ¿Ä®</td>
-</tr>
-<tr>
-<th>¥»¥ê¼è°ú²Á³Ê</th>
-<td>
--
-</td>
-</tr>
-<tr>
-<th>³ÍÆÀ¾Þ¶â</th>
-<td>
 
 140Ëü±ß (ÃÏÊý)
 
 
+
 </td>
-</tr>
-<tr>
-<th>ÄÌ»»À®ÀÓ</th>
-<td>12Àï3¾¡ [<a href="/horse/result/2021105593/" title="Á´¶¥ÁöÀ®ÀÓ">3-1-1-7</a>]</td>
-</tr>
-<tr>
-<th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202455102606/" title="C2¡¼24ÁÈ">C2¡¼24ÁÈ</a><!--¡¢<a href="/race/202455120201/" title=C2¡¼14ÁÈ"">C2¡¼14ÁÈ</a>--></td>
-</tr>
-<tr>
-<th>¶á¿ÆÇÏ</th>
-<td><a href="/horse/2019105254/" title="¥°¥ê¡¼¥ó¥À¥¤¥ä¥ë">¥°¥ê¡¼¥ó¥À¥¤¥ä¥ë</a>¡¢<a href="/horse/2022104840/" title="¥«¡¼¥Õ¥­¥Ã¥¯">¥«¡¼¥Õ¥­¥Ã¥¯</a></td>
-</tr>
+	</tr>
+	<tr>
+		<th>ÄÌ»»À®ÀÓ</th>
+		<td>12Àï3¾¡ [<a href="/horse/result/2021105593/" title="Á´¶¥ÁöÀ®ÀÓ">3-1-1-7</a>]</td>
+	</tr>
+	<tr>
+		<th>¼ç¤Ê¾¡°È</th>
+		<td><a href="/race/202455102606/" title="C2¡¼24ÁÈ">C2¡¼24ÁÈ</a><!--¡¢<a href="/race/202455120201/" title=C2¡¼14ÁÈ"">C2¡¼14ÁÈ</a>--></td>
+	</tr>
+	<tr>
+		<th>¶á¿ÆÇÏ</th>
+		<td><a href="/horse/2019105254/" title="¥°¥ê¡¼¥ó¥À¥¤¥ä¥ë">¥°¥ê¡¼¥ó¥À¥¤¥ä¥ë</a>¡¢<a href="/horse/2022104840/" title="¥«¡¼¥Õ¥­¥Ã¥¯">¥«¡¼¥Õ¥­¥Ã¥¯</a></td>
+	</tr>
 </table>
 
+
 <div class="db_prof_box">
-<dl class="fc">
-<dt class="DB_ProfHead_dt_01">
-<div class="fc">
-<p class="db_prof_top_padigree_title png_bg">·ìÅý</p>
-<p class="detail_link"><a href="/horse/ped/2021105593/" title="¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î·ìÅý¾ÜºÙ">·ìÅý¾ÜºÙ¡¦·»ÄïÇÏ</a></p>
+	<dl class="fc">
+		<dt class="DB_ProfHead_dt_01">
+			<div class="fc">
+			<p class="db_prof_top_padigree_title png_bg">·ìÅý</p>
+			<p class="detail_link"><a href="/horse/ped/2021105593/" title="¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î·ìÅý¾ÜºÙ">·ìÅý¾ÜºÙ¡¦·»ÄïÇÏ</a></p>
+			</div>
+		</dt>
+		<dd class="DB_ProfHead_dd_01">
+			<table cellpadding="0" cellspacing="0" summary="¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î·ìÅýÉ½" class="blood_table">
+				<tr>
+					<td rowspan="2" class="b_ml">
+						
+						  	<a href="/horse/ped/000a014377/" title="¥Ö¥ê¥Ã¥¯¥¹¥¢¥ó¥É¥â¥ë¥¿¥ë">¥Ö¥ê¥Ã¥¯¥¹¥¢¥ó¥É¥â¥ë¥¿¥ë</a>
+						  	
+					</td>
+					<td class="b_ml">
+						
+						<a href="/horse/ped/000a0022e1/">Giant's Causeway</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="b_fml">
+						
+						<a href="/horse/ped/000a014376/">Beyond the Waves</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td rowspan="2" class="b_fml">
+						
+						<a href="/horse/ped/2012104643/">¥¸¥ç¥ó¥Ö¥É¡¼¥ë</a>
+						
+					</td>
+					<td class="b_ml">
+						
+						<a href="/horse/ped/1994108729/">¥¹¥Æ¥¤¥´¡¼¥ë¥É</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td class="b_fml">
+						
+						<a href="/horse/ped/1996107399/">¥·¥ã¡¼¥×¥­¥Ã¥¯</a>
+						
+					</td>
+				</tr>
+			</table>
+		</dd>
+	</dl>
+	<!--<p class="detail_link"><a href="/horse/ped/2021105593/" title="¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î·ìÅý¾ÜºÙ">·ìÅý¾ÜºÙ¡¦·»ÄïÇÏ</a></p>-->
 </div>
-</dt>
-<dd class="DB_ProfHead_dd_01">
-<table cellpadding="0" cellspacing="0" summary="¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î·ìÅýÉ½" class="blood_table">
-<tr>
-<td rowspan="2" class="b_ml">
-<a href="/horse/ped/000a014377/" title="¥Ö¥ê¥Ã¥¯¥¹¥¢¥ó¥É¥â¥ë¥¿¥ë">¥Ö¥ê¥Ã¥¯¥¹¥¢¥ó¥É¥â¥ë¥¿¥ë</a>
-</td>
-<td class="b_ml">
-<a href="/horse/ped/000a0022e1/">Giant's Causeway</a>
-</td>
-</tr>
-<tr>
-<td class="b_fml">
-<a href="/horse/ped/000a014376/">Beyond the Waves</a>
-</td>
-</tr>
-<tr>
-<td rowspan="2" class="b_fml">
-<a href="/horse/ped/2012104643/">¥¸¥ç¥ó¥Ö¥É¡¼¥ë</a>
-</td>
-<td class="b_ml">
-<a href="/horse/ped/1994108729/">¥¹¥Æ¥¤¥´¡¼¥ë¥É</a>
-</td>
-</tr>
-<tr>
-<td class="b_fml">
-<a href="/horse/ped/1996107399/">¥·¥ã¡¼¥×¥­¥Ã¥¯</a>
-</td>
-</tr>
-</table>
-</dd>
-</dl>
-<!--<p class="detail_link"><a href="/horse/ped/2021105593/" title="¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î·ìÅý¾ÜºÙ">·ìÅý¾ÜºÙ¡¦·»ÄïÇÏ</a></p>-->
-</div>
+
 </div><!-- /.db_prof_area_02" -->
 <div class="db_prof_box db_prof_area_03 fc">
 
@@ -936,795 +952,1242 @@ $('#horse_award_box').html(data.data);
 <div class="db_main_race fc">
 <div class="db_main_deta">
 
-<div class="cate_bar">
-<h2>¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î¶¥ÁöÀ®ÀÓ</h2>
-<div class="sp_info_box_01 fc">
-<p class="fc">¥¹¥Þ¥Û¤Ç¤â¤³¤ÎÇÏ¤Î¥Ç¡¼¥¿¤ò¥Á¥§¥Ã¥¯¡ª</p>
-<a href="https://www.netkeiba.com/?pid=sogoch_introduction&id=2021105593" target="_blank" title="¾Ü¤·¤¯¸«¤ë" class="popup_link_01"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/btn_sp_info_link_02.png" alt="¾Ü¤·¤¯¸«¤ë" class="imgover" /></a>
-</div><!-- /.sp_info_box_01 -->
-</div>
+  <div class="cate_bar">
+    <h2>¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î¶¥ÁöÀ®ÀÓ</h2>
+    <div class="sp_info_box_01 fc">
+      <p class="fc">¥¹¥Þ¥Û¤Ç¤â¤³¤ÎÇÏ¤Î¥Ç¡¼¥¿¤ò¥Á¥§¥Ã¥¯¡ª</p>
+      <a href="https://www.netkeiba.com/?pid=sogoch_introduction&id=2021105593" target="_blank" title="¾Ü¤·¤¯¸«¤ë" class="popup_link_01"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/btn_sp_info_link_02.png" alt="¾Ü¤·¤¯¸«¤ë" class="imgover" /></a>
+    </div><!-- /.sp_info_box_01 -->
+  </div>
+
+
 <table cellpadding="0" cellspacing="1" summary="¥´¥ë¥È¥Ä¥£¡¼¥²¥ë¤Î¶¥ÁöÀïÀÓ" class="db_h_race_results nk_tb_common">
-<thead>
-<tr align="center">
-<th>ÆüÉÕ</th>
-<th>³«ºÅ</th>
-<th>Å·<br />µ¤</th>
-<th>R</th>
-<th>¥ì¡¼¥¹Ì¾</th>
-<th>±Ç<br />Áü<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
-<th>Æ¬<br />¿ô</th>
-<th>ÏÈ<br />ÈÖ</th>
-<th>ÇÏ<br />ÈÖ</th>
-<th>¥ª<br />¥Ã<br />¥º</th>
-<th>¿Í<br />µ¤</th>
-<th>Ãå<br />½ç</th>
-<th>µ³¼ê</th>
-<th>¶Ô<br />ÎÌ</th>
-<th>µ÷Î¥</th>
-<th>ÇÏ<br />¾ì</th>
-<th>ÇÏ¾ì<br />»Ø¿ô<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
-<th>¥¿¥¤¥à</th>
-<th>Ãåº¹</th>
-<th>ŽÀŽ²ŽÑ<br />»Ø¿ô<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
-<th>ÄÌ²á</th>
-<th>¥Ú¡¼¥¹</th>
-<th>¾å¤ê</th>
-<th>ÇÏÂÎ½Å</th>
-<th>±¹¼Ë<br />ŽºŽÒŽÝŽÄ<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
-<th>È÷¹Í<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
-<th>¾¡¤ÁÇÏ<br />(2ÃåÇÏ)</th>
-<th>¾Þ¶â</th>
-</tr>
-
-</thead>
-<tbody>
-<tr>
-<td><a href="/race/list/20241221/">2024/12/21</a></td>
-<td><a href="/race/sum/55/20241221/">º´²ì</a></td>
-<td>ÆÞ</td>
-<td class="txt_right">2</td>
-<td class=""><a href="/race/202455122102/" title="¤¦¤Þ¤«¤Ä¥¢¥×¥ê¤Ç¤µ¤¬(C2)">¤¦¤Þ¤«¤Ä¥¢¥×¥ê¤Ç¤µ¤¬(C2)</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202455122102" target="_blank" title="¤¦¤Þ¤«¤Ä¥¢¥×¥ê¤Ç¤µ¤¬(C2)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">9</td>
-<td class="txt_right">5</td>
-<td class="txt_right">5</td>
-<td class="txt_right">6.5</td>
-<td class="rank_2 txt_right">2</td>
-<td class="rank_1 txt_right">1</td>
-<td>
-<a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
-
-</td>
-<td>56</td>
-<td>¥À1400</td>
-<td>ãÄ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:32.1</td>
-<td class="txt_right">-0.1</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>3-3-2-2</td>
-<td>0.0-41.7</td>
-<td class="rank_3">40.4</td>
-<td>475(+4)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021101308/">(¥é¥¤¥ó¥Ý¡¼¥Á¥å¥é¥«)</a></td>
-
-<td>40.0</td>
-</tr><tr>
-<td><a href="/race/list/20241202/">2024/12/02</a></td>
-<td><a href="/race/sum/55/20241202/">º´²ì</a></td>
-<td>À²</td>
-<td class="txt_right">1</td>
-<td class=""><a href="/race/202455120201/" title="C2¡¼14ÁÈ">C2¡¼14ÁÈ</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202455120201" target="_blank" title="C2¡¼14ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">10</td>
-<td class="txt_right">5</td>
-<td class="txt_right">5</td>
-<td class="txt_right">4.7</td>
-<td class="rank_2 txt_right">2</td>
-<td class="rank_1 txt_right">1</td>
-<td>
-<a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
-
-</td>
-<td>56</td>
-<td>¥À1300</td>
-<td>ãÄ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:24.5</td>
-<td class="txt_right">0.0</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>6-6-2-1</td>
-<td>0.0-39.4</td>
-<td class="rank_1">38.8</td>
-<td>471(0)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021100842/">(¥¨¥¹¥·¡¼¥¢¥ë¥Ù¥ë)</a></td>
-
-<td>40.0</td>
-</tr><tr>
-<td><a href="/race/list/20241118/">2024/11/18</a></td>
-<td><a href="/race/sum/55/20241118/">º´²ì</a></td>
-<td>ÆÞ</td>
-<td class="txt_right">2</td>
-<td class=""><a href="/race/202455111802/" title="C2¡¼15ÁÈ">C2¡¼15ÁÈ</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202455111802" target="_blank" title="C2¡¼15ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">9</td>
-<td class="txt_right">4</td>
-<td class="txt_right">4</td>
-<td class="txt_right">27.7</td>
-<td class="rank_3 txt_right">3</td>
-<td class="rank_3 txt_right">3</td>
-<td>
-<a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
-
-</td>
-<td>56</td>
-<td>¥À1400</td>
-<td>ÎÉ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:33.6</td>
-<td class="txt_right">0.7</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>8-8-8-6</td>
-<td>0.0-38.9</td>
-<td class="rank_1">37.8</td>
-<td>471(-1)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021100516/">¥«¥·¥Î¥«¥ó¥Ô¥ª¡¼¥Í</a></td>
-
-<td>7.2</td>
-</tr><tr>
-<td><a href="/race/list/20241026/">2024/10/26</a></td>
-<td><a href="/race/sum/55/20241026/">º´²ì</a></td>
-<td>ÆÞ</td>
-<td class="txt_right">6</td>
-<td class=""><a href="/race/202455102606/" title="C2¡¼24ÁÈ">C2¡¼24ÁÈ</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202455102606" target="_blank" title="C2¡¼24ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">11</td>
-<td class="txt_right">2</td>
-<td class="txt_right">2</td>
-<td class="txt_right">43.6</td>
-<td class=" txt_right">6</td>
-<td class="rank_1 txt_right">1</td>
-<td>
-<a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
-
-</td>
-<td>56</td>
-<td>¥À1400</td>
-<td>ãÄ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:33.3</td>
-<td class="txt_right">-0.1</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>9-7-2-2</td>
-<td>0.0-40.3</td>
-<td class="rank_1">39.6</td>
-<td>472(-1)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021105672/">(¥¢¥°¥ê¥¢¥¹)</a></td>
-
-<td>40.0</td>
-</tr><tr>
-<td><a href="/race/list/20241012/">2024/10/12</a></td>
-<td><a href="/race/sum/55/20241012/">º´²ì</a></td>
-<td>À²</td>
-<td class="txt_right">11</td>
-<td class=""><a href="/race/202455101211/" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(C2)">SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(C2)</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202455101211" target="_blank" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(C2)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">12</td>
-<td class="txt_right">5</td>
-<td class="txt_right">5</td>
-<td class="txt_right">14.5</td>
-<td class=" txt_right">6</td>
-<td class="rank_2 txt_right">2</td>
-<td>
-<a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
-
-</td>
-<td>56</td>
-<td>¥À900</td>
-<td>ÎÉ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">0:57.5</td>
-<td class="txt_right">0.8</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>7-5</td>
-<td>0.0-38.1</td>
-<td class="rank_2">37.9</td>
-<td>473(+1)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021103962/">¥¨¥¤¥·¥ó¥Ý¥Ã¥×</a></td>
-
-<td>12.8</td>
-</tr><tr>
-<td><a href="/race/list/20240922/">2024/09/22</a></td>
-<td><a href="/race/sum/55/20240922/">º´²ì</a></td>
-<td>ÆÞ</td>
-<td class="txt_right">10</td>
-<td class=""><a href="/race/202455092210/" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(3ºÐ)">SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(3ºÐ)</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202455092210" target="_blank" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">12</td>
-<td class="txt_right">5</td>
-<td class="txt_right">6</td>
-<td class="txt_right">192.3</td>
-<td class=" txt_right">12</td>
-<td class="bml txt_right">6</td>
-<td>
-<a href="/jockey/result/recent/05658/" title="ÀÄ³¤Âç¼ù">ÀÄ³¤Âç¼ù</a>
-
-</td>
-<td>54</td>
-<td>¥À1300</td>
-<td>ÉÔ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:25.4</td>
-<td class="txt_right">2.6</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>11-10-11-10</td>
-<td>0.0-38.5</td>
-<td class="rank_3">38.7</td>
-<td>472(-4)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021100125/">¥Ê¥Ä¥ê¥å¥¦¥ª¡¼</a></td>
-
-<td>&nbsp;</td>
-</tr><tr>
-<td><a href="/race/list/20240907/">2024/09/07</a></td>
-<td><a href="/race/sum/55/20240907/">º´²ì</a></td>
-<td>À²</td>
-<td class="txt_right">10</td>
-<td class=""><a href="/race/202455090710/" title="KYUSHUDREA(3ºÐ)">KYUSHUDREA(3ºÐ)</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202455090710" target="_blank" title="KYUSHUDREA(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">11</td>
-<td class="txt_right">1</td>
-<td class="txt_right">1</td>
-<td class="txt_right">105.3</td>
-<td class=" txt_right">10</td>
-<td class="bml txt_right">9</td>
-<td>
-<a href="/jockey/result/recent/05657/" title="¹çÎÓ³¤ÅÍ">¹çÎÓ³¤ÅÍ</a>
-
-</td>
-<td>53</td>
-<td>¥À1400</td>
-<td>ÎÉ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:33.9</td>
-<td class="txt_right">2.4</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>11-11-11-11</td>
-<td>0.0-40.2</td>
-<td class="rank_3">39.8</td>
-<td>476(0)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021102695/">¥µ¥ó¥Þ¥ë¥Õ¥¡¥ó¥­¡¼</a></td>
-
-<td>&nbsp;</td>
-</tr><tr>
-<td><a href="/race/list/20240816/">2024/08/16</a></td>
-<td><a href="/race/sum/47/20240816/">³Þ¾¾</a></td>
-<td>À²</td>
-<td class="txt_right">1</td>
-<td class=""><a href="/race/202447081601/" title="½Ë!ÎÍ²æ&amp;°¦²ì·ëº§µ­(3ºÐ)">½Ë!ÎÍ²æ&amp;°¦²ì·ëº§µ­(3ºÐ)</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202447081601" target="_blank" title="½Ë!ÎÍ²æ&amp;°¦²ì·ëº§µ­(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">8</td>
-<td class="txt_right">2</td>
-<td class="txt_right">2</td>
-<td class="txt_right">74.5</td>
-<td class=" txt_right">7</td>
-<td class="bml txt_right">7</td>
-<td>
-<a href="/jockey/result/recent/a0162/" title="¾¾ËÜ¹ä»Ö">¾¾ËÜ¹ä»Ö</a>
-
-</td>
-<td>56</td>
-<td>¥À1400</td>
-<td>ãÄ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:36.2</td>
-<td class="txt_right">3.4</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>8-8-8</td>
-<td>0.0-41.8</td>
-<td class="rank_1">40.9</td>
-<td>476(-4)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021106526/">¥µ¥é¥ë¡¼¥Ê</a></td>
-
-<td>&nbsp;</td>
-</tr><tr>
-<td><a href="/race/list/20240801/">2024/08/01</a></td>
-<td><a href="/race/sum/47/20240801/">³Þ¾¾</a></td>
-<td>À²</td>
-<td class="txt_right">1</td>
-<td class=""><a href="/race/202447080101/" title="3ºÐ9ÁÈ">3ºÐ9ÁÈ</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202447080101" target="_blank" title="3ºÐ9ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">8</td>
-<td class="txt_right">6</td>
-<td class="txt_right">6</td>
-<td class="txt_right">76.1</td>
-<td class=" txt_right">7</td>
-<td class="bml txt_right">8</td>
-<td>
-<a href="/jockey/result/recent/a0162/" title="¾¾ËÜ¹ä»Ö">¾¾ËÜ¹ä»Ö</a>
-
-</td>
-<td>56</td>
-<td>¥À800</td>
-<td>ÎÉ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">0:54.1</td>
-<td class="txt_right">4.4</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>8</td>
-<td>0.0-36.5</td>
-<td class="bml">38.4</td>
-<td>480(-4)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021101172/">¥µ¥ó¥Î¥¼¥·¥º¥ë</a></td>
-
-<td>&nbsp;</td>
-</tr><tr>
-<td><a href="/race/list/20240717/">2024/07/17</a></td>
-<td><a href="/race/sum/47/20240717/">³Þ¾¾</a></td>
-<td>ÆÞ</td>
-<td class="txt_right">4</td>
-<td class=""><a href="/race/202447071704/" title="¹¥¤­¤Ç¤¹³Þ¾¾¶¥ÇÏ(3ºÐ)">¹¥¤­¤Ç¤¹³Þ¾¾¶¥ÇÏ(3ºÐ)</a></td>
-<td>
-
-
-<a href="https://nar.netkeiba.com/race/movie.html?race_id=202447071704" target="_blank" title="¹¥¤­¤Ç¤¹³Þ¾¾¶¥ÇÏ(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-</td>
-<td class="txt_right">9</td>
-<td class="txt_right">6</td>
-<td class="txt_right">6</td>
-<td class="txt_right">12.7</td>
-<td class=" txt_right">4</td>
-<td class="bml txt_right">8</td>
-<td>
-<a href="/jockey/result/recent/a0162/" title="¾¾ËÜ¹ä»Ö">¾¾ËÜ¹ä»Ö</a>
-
-</td>
-<td>56</td>
-<td>¥À1400</td>
-<td>½Å</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:35.7</td>
-<td class="txt_right">6.1</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>9-9-9</td>
-<td>0.0-39.3</td>
-<td class="bml">40.8</td>
-<td>484(0)</td>
-<td class="bml" align="center" nowrap>
-
-&nbsp;
-</td>
-<td class="bml" nowrap>
-
-
-&nbsp;
-</td>
-<td><a href="/horse/2021102810/">¥¨¥¤¥ë¥É¥¥¥Î¥ó</a></td>
-
-<td>&nbsp;</td>
-</tr><tr>
-<td><a href="/race/list/20240615/">2024/06/15</a></td>
-<td><a href="/race/sum/08/20240615/">4µþÅÔ5</a></td>
-<td>À²</td>
-<td class="txt_right">6</td>
-<td class=""><a href="/race/202408040506/" title="3ºÐÌ¤¾¡Íø">3ºÐÌ¤¾¡Íø</a></td>
-<td>
-<a href="/race/movie/202408040506" target="_blank" title="3ºÐÌ¤¾¡Íø¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-
-
-</td>
-<td class="txt_right">15</td>
-<td class="txt_right">5</td>
-<td class="txt_right">10</td>
-<td class="txt_right">317.9</td>
-<td class=" txt_right">15</td>
-<td class="bml txt_right">13</td>
-<td>
-<a href="/jockey/result/recent/01185/" title="¾®ÂôÂç¿Î">¾®ÂôÂç¿Î</a>
-
-</td>
-<td>56</td>
-<td>¥À1900</td>
-<td>ÎÉ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">2:05.6</td>
-<td class="txt_right">5.4</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>8-10-13-13</td>
-<td>30.0-38.6</td>
-<td class="bml">41.4</td>
-<td>484(0)</td>
-<td class="bml" align="center" nowrap>
-<a href="/?pid=horse_comment&id=2021105593&rid=202408040506"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
-
-</td>
-<td class="bml" nowrap>
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
-</div>
-
-
-</td>
-<td><a href="/horse/2021101259/">¥«¥º¥¿¥ó¥¸¥ã¡¼</a></td>
-
-<td>&nbsp;</td>
-</tr><tr>
-<td><a href="/race/list/20240414/">2024/04/14</a></td>
-<td><a href="/race/sum/09/20240414/">2ºå¿À8</a></td>
-<td>À²</td>
-<td class="txt_right">2</td>
-<td class=""><a href="/race/202409020802/" title="3ºÐÌ¤¾¡Íø">3ºÐÌ¤¾¡Íø</a></td>
-<td>
-<a href="/race/movie/202409020802" target="_blank" title="3ºÐÌ¤¾¡Íø¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
-
-
-</td>
-<td class="txt_right">15</td>
-<td class="txt_right">2</td>
-<td class="txt_right">3</td>
-<td class="txt_right">163.7</td>
-<td class=" txt_right">10</td>
-<td class="bml txt_right">14</td>
-<td>
-<a href="/jockey/result/recent/01193/" title="º£Â¼À»Æà">º£Â¼À»Æà</a>
-
-</td>
-<td>54</td>
-<td>¥À1400</td>
-<td>ÎÉ</td>
-
-<td class="bml txt_right">
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
-</div>
-
-
-</td>
-<td class="txt_right">1:29.1</td>
-<td class="txt_right">3.7</td>
-<td class="bml txt_right">
-<div style="text-align:center;">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
-</div>
-
-
-</td>
-<td>15-15</td>
-<td>35.0-38.1</td>
-<td class="bml">38.7</td>
-<td>484(0)</td>
-<td class="bml" align="center" nowrap>
-<a href="/?pid=horse_comment&id=2021105593&rid=202409020802"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
-
-</td>
-<td class="bml" nowrap>
-<div align="center">
-<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
-</div>
-
-
-</td>
-<td><a href="/horse/2021105610/">¥°¥ê¡¼¥º¥Þ¥ó</a></td>
-
-<td>&nbsp;</td>
-</tr>
-</tbody>
+        <thead>
+            
+            <tr align="center">
+                    <th>ÆüÉÕ</th>
+                    <th>³«ºÅ</th>
+                    <th>Å·<br />µ¤</th>
+                    <th>R</th>
+                    <th>¥ì¡¼¥¹Ì¾</th>
+                    <th>±Ç<br />Áü<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
+                    <th>Æ¬<br />¿ô</th>
+                    <th>ÏÈ<br />ÈÖ</th>
+                    <th>ÇÏ<br />ÈÖ</th>
+                    <th>¥ª<br />¥Ã<br />¥º</th>
+                    <th>¿Í<br />µ¤</th>
+                    <th>Ãå<br />½ç</th>
+                    <th>µ³¼ê</th>
+                    <th>¶Ô<br />ÎÌ</th>
+                    <th>µ÷Î¥</th>
+                    <th>ÇÏ<br />¾ì</th>
+                    <th>ÇÏ¾ì<br />»Ø¿ô<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
+                    <th>¥¿¥¤¥à</th>
+                    <th>Ãåº¹</th>
+                    <th>ŽÀŽ²ŽÑ<br />»Ø¿ô<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
+                    <th>ÄÌ²á</th>
+                    <th>¥Ú¡¼¥¹</th>
+                    <th>¾å¤ê</th>
+                    <th>ÇÏÂÎ½Å</th>
+                    <th>±¹¼Ë<br />ŽºŽÒŽÝŽÄ<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
+                    <th>È÷¹Í<br /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" /></th>
+                    <th>¾¡¤ÁÇÏ<br />(2ÃåÇÏ)</th>
+                    <th>¾Þ¶â</th>
+            </tr>
+            
+            
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td><a href="/race/list/20241221/">2024/12/21</a></td>
+                <td><a href="/race/sum/55/20241221/">º´²ì</a></td>
+                
+                <td>ÆÞ</td>
+                
+                
+                <td class="txt_right">2</td>
+                
+                <td class=""><a href="/race/202455122102/" title="¤¦¤Þ¤«¤Ä¥¢¥×¥ê¤Ç¤µ¤¬(C2)">¤¦¤Þ¤«¤Ä¥¢¥×¥ê¤Ç¤µ¤¬(C2)</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202455122102" target="_blank" title="¤¦¤Þ¤«¤Ä¥¢¥×¥ê¤Ç¤µ¤¬(C2)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">9</td>
+                
+                <td class="txt_right">5</td>
+                
+                <td class="txt_right">5</td>
+                <td class="txt_right">6.5</td>
+                <td class="rank_2 txt_right">2</td>
+                <td class="rank_1 txt_right">1</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À1400</td>
+                <td>ãÄ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:32.1</td>
+                    <td class="txt_right">-0.1</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>3-3-2-2</td>
+                    
+                    <td>0.0-41.7</td>
+                    
+                    <td class="rank_3">40.4</td>
+                    <td>475(+4)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021101308/">(¥é¥¤¥ó¥Ý¡¼¥Á¥å¥é¥«)</a></td>
+                
+                
+                <td>40.0</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20241202/">2024/12/02</a></td>
+                <td><a href="/race/sum/55/20241202/">º´²ì</a></td>
+                
+                <td>À²</td>
+                
+                
+                <td class="txt_right">1</td>
+                
+                <td class=""><a href="/race/202455120201/" title="C2¡¼14ÁÈ">C2¡¼14ÁÈ</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202455120201" target="_blank" title="C2¡¼14ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">10</td>
+                
+                <td class="txt_right">5</td>
+                
+                <td class="txt_right">5</td>
+                <td class="txt_right">4.7</td>
+                <td class="rank_2 txt_right">2</td>
+                <td class="rank_1 txt_right">1</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À1300</td>
+                <td>ãÄ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:24.5</td>
+                    <td class="txt_right">0.0</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>6-6-2-1</td>
+                    
+                    <td>0.0-39.4</td>
+                    
+                    <td class="rank_1">38.8</td>
+                    <td>471(0)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021100842/">(¥¨¥¹¥·¡¼¥¢¥ë¥Ù¥ë)</a></td>
+                
+                
+                <td>40.0</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20241118/">2024/11/18</a></td>
+                <td><a href="/race/sum/55/20241118/">º´²ì</a></td>
+                
+                <td>ÆÞ</td>
+                
+                
+                <td class="txt_right">2</td>
+                
+                <td class=""><a href="/race/202455111802/" title="C2¡¼15ÁÈ">C2¡¼15ÁÈ</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202455111802" target="_blank" title="C2¡¼15ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">9</td>
+                
+                <td class="txt_right">4</td>
+                
+                <td class="txt_right">4</td>
+                <td class="txt_right">27.7</td>
+                <td class="rank_3 txt_right">3</td>
+                <td class="rank_3 txt_right">3</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À1400</td>
+                <td>ÎÉ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:33.6</td>
+                    <td class="txt_right">0.7</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>8-8-8-6</td>
+                    
+                    <td>0.0-38.9</td>
+                    
+                    <td class="rank_1">37.8</td>
+                    <td>471(-1)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021100516/">¥«¥·¥Î¥«¥ó¥Ô¥ª¡¼¥Í</a></td>
+                
+                
+                <td>7.2</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20241026/">2024/10/26</a></td>
+                <td><a href="/race/sum/55/20241026/">º´²ì</a></td>
+                
+                <td>ÆÞ</td>
+                
+                
+                <td class="txt_right">6</td>
+                
+                <td class=""><a href="/race/202455102606/" title="C2¡¼24ÁÈ">C2¡¼24ÁÈ</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202455102606" target="_blank" title="C2¡¼24ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">11</td>
+                
+                <td class="txt_right">2</td>
+                
+                <td class="txt_right">2</td>
+                <td class="txt_right">43.6</td>
+                <td class=" txt_right">6</td>
+                <td class="rank_1 txt_right">1</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À1400</td>
+                <td>ãÄ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:33.3</td>
+                    <td class="txt_right">-0.1</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>9-7-2-2</td>
+                    
+                    <td>0.0-40.3</td>
+                    
+                    <td class="rank_1">39.6</td>
+                    <td>472(-1)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021105672/">(¥¢¥°¥ê¥¢¥¹)</a></td>
+                
+                
+                <td>40.0</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20241012/">2024/10/12</a></td>
+                <td><a href="/race/sum/55/20241012/">º´²ì</a></td>
+                
+                <td>À²</td>
+                
+                
+                <td class="txt_right">11</td>
+                
+                <td class=""><a href="/race/202455101211/" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(C2)">SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(C2)</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202455101211" target="_blank" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(C2)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">12</td>
+                
+                <td class="txt_right">5</td>
+                
+                <td class="txt_right">5</td>
+                <td class="txt_right">14.5</td>
+                <td class=" txt_right">6</td>
+                <td class="rank_2 txt_right">2</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/05478/" title="ÀÐÀî¿µ¾­">ÀÐÀî¿µ¾­</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À900</td>
+                <td>ÎÉ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">0:57.5</td>
+                    <td class="txt_right">0.8</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>7-5</td>
+                    
+                    <td>0.0-38.1</td>
+                    
+                    <td class="rank_2">37.9</td>
+                    <td>473(+1)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021103962/">¥¨¥¤¥·¥ó¥Ý¥Ã¥×</a></td>
+                
+                
+                <td>12.8</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20240922/">2024/09/22</a></td>
+                <td><a href="/race/sum/55/20240922/">º´²ì</a></td>
+                
+                <td>ÆÞ</td>
+                
+                
+                <td class="txt_right">10</td>
+                
+                <td class=""><a href="/race/202455092210/" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(3ºÐ)">SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(3ºÐ)</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202455092210" target="_blank" title="SAGA¥ê¥Ù¥ó¥¸¥ã¡¼(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">12</td>
+                
+                <td class="txt_right">5</td>
+                
+                <td class="txt_right">6</td>
+                <td class="txt_right">192.3</td>
+                <td class=" txt_right">12</td>
+                <td class="bml txt_right">6</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/05658/" title="ÀÄ³¤Âç¼ù">ÀÄ³¤Âç¼ù</a>
+                    
+                    
+                </td>
+                <td>54</td>
+                <td>¥À1300</td>
+                <td>ÉÔ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:25.4</td>
+                    <td class="txt_right">2.6</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>11-10-11-10</td>
+                    
+                    <td>0.0-38.5</td>
+                    
+                    <td class="rank_3">38.7</td>
+                    <td>472(-4)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021100125/">¥Ê¥Ä¥ê¥å¥¦¥ª¡¼</a></td>
+                
+                
+                <td>&nbsp;</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20240907/">2024/09/07</a></td>
+                <td><a href="/race/sum/55/20240907/">º´²ì</a></td>
+                
+                <td>À²</td>
+                
+                
+                <td class="txt_right">10</td>
+                
+                <td class=""><a href="/race/202455090710/" title="KYUSHUDREA(3ºÐ)">KYUSHUDREA(3ºÐ)</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202455090710" target="_blank" title="KYUSHUDREA(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">11</td>
+                
+                <td class="txt_right">1</td>
+                
+                <td class="txt_right">1</td>
+                <td class="txt_right">105.3</td>
+                <td class=" txt_right">10</td>
+                <td class="bml txt_right">9</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/05657/" title="¹çÎÓ³¤ÅÍ">¹çÎÓ³¤ÅÍ</a>
+                    
+                    
+                </td>
+                <td>53</td>
+                <td>¥À1400</td>
+                <td>ÎÉ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:33.9</td>
+                    <td class="txt_right">2.4</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>11-11-11-11</td>
+                    
+                    <td>0.0-40.2</td>
+                    
+                    <td class="rank_3">39.8</td>
+                    <td>476(0)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021102695/">¥µ¥ó¥Þ¥ë¥Õ¥¡¥ó¥­¡¼</a></td>
+                
+                
+                <td>&nbsp;</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20240816/">2024/08/16</a></td>
+                <td><a href="/race/sum/47/20240816/">³Þ¾¾</a></td>
+                
+                <td>À²</td>
+                
+                
+                <td class="txt_right">1</td>
+                
+                <td class=""><a href="/race/202447081601/" title="½Ë!ÎÍ²æ&amp;°¦²ì·ëº§µ­(3ºÐ)">½Ë!ÎÍ²æ&amp;°¦²ì·ëº§µ­(3ºÐ)</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202447081601" target="_blank" title="½Ë!ÎÍ²æ&amp;°¦²ì·ëº§µ­(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">8</td>
+                
+                <td class="txt_right">2</td>
+                
+                <td class="txt_right">2</td>
+                <td class="txt_right">74.5</td>
+                <td class=" txt_right">7</td>
+                <td class="bml txt_right">7</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/a0162/" title="¾¾ËÜ¹ä»Ö">¾¾ËÜ¹ä»Ö</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À1400</td>
+                <td>ãÄ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:36.2</td>
+                    <td class="txt_right">3.4</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>8-8-8</td>
+                    
+                    <td>0.0-41.8</td>
+                    
+                    <td class="rank_1">40.9</td>
+                    <td>476(-4)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021106526/">¥µ¥é¥ë¡¼¥Ê</a></td>
+                
+                
+                <td>&nbsp;</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20240801/">2024/08/01</a></td>
+                <td><a href="/race/sum/47/20240801/">³Þ¾¾</a></td>
+                
+                <td>À²</td>
+                
+                
+                <td class="txt_right">1</td>
+                
+                <td class=""><a href="/race/202447080101/" title="3ºÐ9ÁÈ">3ºÐ9ÁÈ</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202447080101" target="_blank" title="3ºÐ9ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">8</td>
+                
+                <td class="txt_right">6</td>
+                
+                <td class="txt_right">6</td>
+                <td class="txt_right">76.1</td>
+                <td class=" txt_right">7</td>
+                <td class="bml txt_right">8</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/a0162/" title="¾¾ËÜ¹ä»Ö">¾¾ËÜ¹ä»Ö</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À800</td>
+                <td>ÎÉ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">0:54.1</td>
+                    <td class="txt_right">4.4</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>8</td>
+                    
+                    <td>0.0-36.5</td>
+                    
+                    <td class="bml">38.4</td>
+                    <td>480(-4)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021101172/">¥µ¥ó¥Î¥¼¥·¥º¥ë</a></td>
+                
+                
+                <td>&nbsp;</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20240717/">2024/07/17</a></td>
+                <td><a href="/race/sum/47/20240717/">³Þ¾¾</a></td>
+                
+                <td>ÆÞ</td>
+                
+                
+                <td class="txt_right">4</td>
+                
+                <td class=""><a href="/race/202447071704/" title="¹¥¤­¤Ç¤¹³Þ¾¾¶¥ÇÏ(3ºÐ)">¹¥¤­¤Ç¤¹³Þ¾¾¶¥ÇÏ(3ºÐ)</a></td>
+                <td>
+                    
+                    
+
+                    
+                    <a href="https://nar.netkeiba.com/race/movie.html?race_id=202447071704" target="_blank" title="¹¥¤­¤Ç¤¹³Þ¾¾¶¥ÇÏ(3ºÐ)¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                </td>
+                <td class="txt_right">9</td>
+                
+                <td class="txt_right">6</td>
+                
+                <td class="txt_right">6</td>
+                <td class="txt_right">12.7</td>
+                <td class=" txt_right">4</td>
+                <td class="bml txt_right">8</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/a0162/" title="¾¾ËÜ¹ä»Ö">¾¾ËÜ¹ä»Ö</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À1400</td>
+                <td>½Å</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:35.7</td>
+                    <td class="txt_right">6.1</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>9-9-9</td>
+                    
+                    <td>0.0-39.3</td>
+                    
+                    <td class="bml">40.8</td>
+                    <td>484(0)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        
+                        
+                        &nbsp;
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021102810/">¥¨¥¤¥ë¥É¥¥¥Î¥ó</a></td>
+                
+                
+                <td>&nbsp;</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20240615/">2024/06/15</a></td>
+                <td><a href="/race/sum/08/20240615/">4µþÅÔ5</a></td>
+                
+                <td>À²</td>
+                
+                
+                <td class="txt_right">6</td>
+                
+                <td class=""><a href="/race/202408040506/" title="3ºÐÌ¤¾¡Íø">3ºÐÌ¤¾¡Íø</a></td>
+                <td>
+                    
+                    <a href="/race/movie/202408040506" target="_blank" title="3ºÐÌ¤¾¡Íø¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                    
+
+                    
+                </td>
+                <td class="txt_right">15</td>
+                
+                <td class="txt_right">5</td>
+                
+                <td class="txt_right">10</td>
+                <td class="txt_right">317.9</td>
+                <td class=" txt_right">15</td>
+                <td class="bml txt_right">13</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/01185/" title="¾®ÂôÂç¿Î">¾®ÂôÂç¿Î</a>
+                    
+                    
+                </td>
+                <td>56</td>
+                <td>¥À1900</td>
+                <td>ÎÉ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">2:05.6</td>
+                    <td class="txt_right">5.4</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>8-10-13-13</td>
+                    
+                    <td>30.0-38.6</td>
+                    
+                    <td class="bml">41.4</td>
+                    <td>484(0)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        <a href="/?pid=horse_comment&id=2021105593&rid=202408040506"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+                        
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        <div align="center">
+                          <a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021101259/">¥«¥º¥¿¥ó¥¸¥ã¡¼</a></td>
+                
+                
+                <td>&nbsp;</td>
+            </tr>
+            
+            <tr>
+                <td><a href="/race/list/20240414/">2024/04/14</a></td>
+                <td><a href="/race/sum/09/20240414/">2ºå¿À8</a></td>
+                
+                <td>À²</td>
+                
+                
+                <td class="txt_right">2</td>
+                
+                <td class=""><a href="/race/202409020802/" title="3ºÐÌ¤¾¡Íø">3ºÐÌ¤¾¡Íø</a></td>
+                <td>
+                    
+                    <a href="/race/movie/202409020802" target="_blank" title="3ºÐÌ¤¾¡Íø¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+                    
+                    
+
+                    
+                </td>
+                <td class="txt_right">15</td>
+                
+                <td class="txt_right">2</td>
+                
+                <td class="txt_right">3</td>
+                <td class="txt_right">163.7</td>
+                <td class=" txt_right">10</td>
+                <td class="bml txt_right">14</td>
+                <td>
+                    
+                    <a href="/jockey/result/recent/01193/" title="º£Â¼À»Æà">º£Â¼À»Æà</a>
+                    
+                    
+                </td>
+                <td>54</td>
+                <td>¥À1400</td>
+                <td>ÎÉ</td>
+
+                
+
+                
+                    
+                    <td class="bml txt_right">
+                        
+                        <div align="center">
+                        
+                        <a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+                        
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td class="txt_right">1:29.1</td>
+                    <td class="txt_right">3.7</td>
+                    
+                    <td class="bml txt_right">
+                        
+                        <div style="text-align:center;">
+                            <a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                    
+                    <td>15-15</td>
+                    
+                    <td>35.0-38.1</td>
+                    
+                    <td class="bml">38.7</td>
+                    <td>484(0)</td>
+                    <td class="bml" align="center" nowrap>
+                        
+                        <a href="/?pid=horse_comment&id=2021105593&rid=202409020802"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+                        
+                        
+                    </td>
+                    <td class="bml" nowrap>
+                        
+                        <div align="center">
+                          <a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+                        </div>
+                        
+                        
+                        
+                    </td>
+                
+
+                
+                <td><a href="/horse/2021105610/">¥°¥ê¡¼¥º¥Þ¥ó</a></td>
+                
+                
+                <td>&nbsp;</td>
+            </tr>
+            
+        </tbody>
 </table>
+
+
+
+
+
 
 
 <script type="text/javascript">
 $(document).on( 'click', '#action_regist', function(){
-event.preventDefault();
-var regist_url = 'https://regist.sp.netkeiba.com/?pid=regist_form&action=nk_input';
-var callback_url = $('#r_callback').val();
-action_regist('action_nk_regist', regist_url, callback_url);
+    event.preventDefault();
+    var regist_url = 'https://regist.sp.netkeiba.com/?pid=regist_form&action=nk_input';
+    var callback_url = $('#r_callback').val();
+    action_regist('action_nk_regist', regist_url, callback_url);
 });
-function action_regist( modal_id, modal_url, callback_url ) {
-console.log('action_regist(%s,%s,%s)', modal_id, modal_url, callback_url);
-$.colorbox({
-href: modal_url,
-iframe: true,
-opacity: '0.5',
-open: true,
-scrolling: true,
-height: '60%',
-maxWidth: '90%',
-width: $(window).width() - 60 + 'px',
-maxWidth: '420px',
-overlayClose: true,
-escKey: false,
-closeButton: true,
-onComplete : function(){
-//setHeight();
-},
-onClosed : function(){
-$('#cboxWrapper').removeClass('SetModal');
-}
-});
-function setHeight() {
-var ifrObj = document.getElementById('cboxLoadedContent').querySelectorAll('iframe')[0];
-$(ifrObj).on('load', function() {
-var $cBox = $('#colorbox');
-var boxPositionTop = $cBox.offset().top;
-var boxHeight = $cBox.height();
-var ifrBody = ifrObj.contentWindow.document.body;
-var ifrHeight = ifrBody.scrollHeight;
-var movePosition = boxPositionTop + (boxHeight - ifrHeight) / 2;
-$('#colorbox').css('top', movePosition +'px');
-$('#cboxLoadedContent').add('#cboxContent').add('#cboxMiddleLeft').add('#cboxWrapper').add('#colorbox').css('height', ifrHeight+'px');
-setTimeout(function () {
-$('#cboxWrapper').addClass('SetModal');
-}, 100);
-});
-}
+
+function action_regist( modal_id, modal_url, callback_url ) { 
+  console.log('action_regist(%s,%s,%s)', modal_id, modal_url, callback_url);
+
+  $.colorbox({
+    href: modal_url,
+    iframe: true,
+    opacity: '0.5',
+    open: true,
+    scrolling: true,
+    height: '60%',
+    maxWidth: '90%',
+    width: $(window).width() - 60 + 'px',
+    maxWidth: '420px',
+    overlayClose: true,
+    escKey: false,
+    closeButton: true,
+    onComplete : function(){
+      //setHeight();
+    },  
+    onClosed : function(){
+      $('#cboxWrapper').removeClass('SetModal');
+    }   
+  }); 
+
+  function setHeight() {
+    var ifrObj = document.getElementById('cboxLoadedContent').querySelectorAll('iframe')[0];
+    $(ifrObj).on('load', function() {
+      var $cBox = $('#colorbox');
+      var boxPositionTop = $cBox.offset().top;
+      var boxHeight = $cBox.height();
+      var ifrBody = ifrObj.contentWindow.document.body;
+      var ifrHeight = ifrBody.scrollHeight;
+      var movePosition = boxPositionTop + (boxHeight - ifrHeight) / 2;
+      $('#colorbox').css('top', movePosition +'px');
+      $('#cboxLoadedContent').add('#cboxContent').add('#cboxMiddleLeft').add('#cboxWrapper').add('#colorbox').css('height', ifrHeight+'px');
+      setTimeout(function () {
+        $('#cboxWrapper').addClass('SetModal');
+      }, 100);
+    });
+  }
 };
+
 $(window).on('message', function(event){
-if (event.originalEvent.origin !== 'https://regist.sp.netkeiba.com' ) return;
-if (event.originalEvent.data === 'register_done' ) {
-$.colorbox.close();
-location.reload();
-}
+  if (event.originalEvent.origin !== 'https://regist.sp.netkeiba.com' ) return;
+  if (event.originalEvent.data === 'register_done' ) {
+      $.colorbox.close();
+      location.reload();
+  }
 });
+
 </script>
+
 </div><!-- /.db_main_deta -->
 </div><!-- / .db_main_race -->
 <div id="main">
@@ -1857,45 +2320,50 @@ target_type: 'mix'
 <!--
 function tab_select( active_tab, passive_tab )
 {
-document.getElementById( passive_tab ).className = "";
-document.getElementById( active_tab ).className = "active";
-document.getElementById( passive_tab + "_box" ).style.display = "none";
-document.getElementById( active_tab + "_box" ).style.display = "block";
+    document.getElementById( passive_tab ).className = "";
+    document.getElementById( active_tab ).className = "active";
+    document.getElementById( passive_tab + "_box" ).style.display = "none";
+    document.getElementById( active_tab + "_box" ).style.display = "block";
 }
 //-->
 </script>
+
 <div class="cate_bar_s">
-<h2>¥´¥ë¥È¥Ä¥£¡¼¥²¥ë´ØÏ¢¥Ë¥å¡¼¥¹</h2>
+  <h2>¥´¥ë¥È¥Ä¥£¡¼¥²¥ë´ØÏ¢¥Ë¥å¡¼¥¹</h2>
 </div>
+
 <ul id="horse_news" class="relation_menu fc">
-<li>
-<a id="NetkeibaNews" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaNews','SocialNews' );" class="active">netkeiba¥Ë¥å¡¼¥¹</a>
-</li>
-<li>
-<a id="SocialNews" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialNews','NetkeibaNews' );">¥¿¥ì¥³¥ß¥Ë¥å¡¼¥¹</a>
-</li>
+  <li>
+    <a id="NetkeibaNews" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaNews','SocialNews' );" class="active">netkeiba¥Ë¥å¡¼¥¹</a>
+  </li>
+  <li>
+    <a id="SocialNews" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialNews','NetkeibaNews' );">¥¿¥ì¥³¥ß¥Ë¥å¡¼¥¹</a>
+  </li>
 </ul>
+
 <!-- NetkeibaNews -->
 <div id="NetkeibaNews_box">
-<div id="HorseNews" class="Loader"></div>
-<script type="text/javascript">
-$( document ).ready( function() {
-showNetkeibaNewsSearch( "HorseNews", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "", "", "m" );
-});
-</script>
+  <div id="HorseNews" class="Loader"></div>
+  <script type="text/javascript">
+  $( document ).ready( function() {
+       showNetkeibaNewsSearch( "HorseNews", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "", "", "m" );
+  });
+  </script>
 </div>
+
 <!-- SocialNews -->
 <div id="SocialNews_box" style="display:none;">
-<div id="HorseSocialNews" class="Loader"></div>
-<script type="text/javascript">
-<!--
-$( document ).ready( function() {
-//setTimeout( "showNetkeibaUserNewsSearch( 'HorseSocialNews', '¥´¥ë¥È¥Ä¥£¡¼¥²¥ë', 5, 1, '', '', 'm' )" , 1100);
-showNetkeibaUserNewsSearch( "HorseSocialNews", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "m" );
-} );
-// -->
-</script>
+  <div id="HorseSocialNews" class="Loader"></div>
+  <script type="text/javascript">
+  <!--
+  $( document ).ready( function() {
+      //setTimeout( "showNetkeibaUserNewsSearch( 'HorseSocialNews', '¥´¥ë¥È¥Ä¥£¡¼¥²¥ë', 5, 1, '', '', 'm' )" , 1100);
+      showNetkeibaUserNewsSearch( "HorseSocialNews", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "m" );
+  } );
+  // -->
+  </script>
 </div>
+
 </div><!-- /.db_h_news_box -->
 </div><!-- /.relation_box -->
 <div class="relation_box fc">
@@ -1905,48 +2373,53 @@ showNetkeibaUserNewsSearch( "HorseSocialNews", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "",
 <!--
 function tab_select( active_tab, passive_tab )
 {
-document.getElementById( passive_tab ).className = "";
-document.getElementById( active_tab ).className = "active";
-document.getElementById( passive_tab + "_box" ).style.display = "none";
-document.getElementById( active_tab + "_box" ).style.display = "block";
+    document.getElementById( passive_tab ).className = "";
+    document.getElementById( active_tab ).className = "active";
+    document.getElementById( passive_tab + "_box" ).style.display = "none";
+    document.getElementById( active_tab + "_box" ).style.display = "block";
 }
 //-->
 </script>
+
 <div class="cate_bar_s">
-<h2>¥´¥ë¥È¥Ä¥£¡¼¥²¥ë´ØÏ¢¥³¥é¥à</h2>
+  <h2>¥´¥ë¥È¥Ä¥£¡¼¥²¥ë´ØÏ¢¥³¥é¥à</h2>
 </div>
+
 <ul id="horse_news" class="relation_menu fc">
-<li>
-<a id="NetkeibaColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaColumn','SocialColumn' );" class="active">netkeiba¥³¥é¥à</a>
-</li>
-<li>
-<a id="SocialColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialColumn','NetkeibaColumn' );">¥¿¥ì¥³¥ß¥³¥é¥à</a>
-</li>
+  <li>
+    <a id="NetkeibaColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'NetkeibaColumn','SocialColumn' );" class="active">netkeiba¥³¥é¥à</a>
+  </li>
+  <li>
+    <a id="SocialColumn" href="javascript:void(0);" onClick="javascript:tab_select( 'SocialColumn','NetkeibaColumn' );">¥¿¥ì¥³¥ß¥³¥é¥à</a>
+  </li>
 </ul>
+
 <!-- NetkeibaColumn -->
 <div id="NetkeibaColumn_box">
-<div id="HorseColumn" class="Loader"></div>
-<script type="text/javascript">
-<!--
-$( document ).ready( function() {
-//setTimeout( "showNetkeibaColumnSearch( 'HorseColumn', '¥´¥ë¥È¥Ä¥£¡¼¥²¥ë', 5, 1, '', '', '', 'm' )" , 1200);
-showNetkeibaColumnSearch( "HorseColumn", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "", "m" );
-} );
-// -->
-</script>
+  <div id="HorseColumn" class="Loader"></div>
+  <script type="text/javascript">
+  <!--
+  $( document ).ready( function() {
+      //setTimeout( "showNetkeibaColumnSearch( 'HorseColumn', '¥´¥ë¥È¥Ä¥£¡¼¥²¥ë', 5, 1, '', '', '', 'm' )" , 1200);
+      showNetkeibaColumnSearch( "HorseColumn", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "", "m" );
+  } );
+  // -->
+  </script>
 </div>
+
 <!-- SocialColumn -->
 <div id="SocialColumn_box" style="display:none;">
-<div id="HorseSocialColumn" class="Loader"></div>
-<script type="text/javascript">
-<!--
-$( document ).ready( function() {
-//setTimeout( "showNetkeibaUserColumnSearch( 'HorseSocialColumn', '¥´¥ë¥È¥Ä¥£¡¼¥²¥ë', 5, 1, '', '', 'm' )" , 1300);
-showNetkeibaUserColumnSearch( "HorseSocialColumn", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "m" );
-} );
-// -->
-</script>
+  <div id="HorseSocialColumn" class="Loader"></div>
+  <script type="text/javascript">
+  <!--
+  $( document ).ready( function() {
+      //setTimeout( "showNetkeibaUserColumnSearch( 'HorseSocialColumn', '¥´¥ë¥È¥Ä¥£¡¼¥²¥ë', 5, 1, '', '', 'm' )" , 1300);
+      showNetkeibaUserColumnSearch( "HorseSocialColumn", "¥´¥ë¥È¥Ä¥£¡¼¥²¥ë", 5, 1, "", "", "m" );
+  } );
+  // -->
+  </script>
 </div>
+
 </div><!-- /.db_h_column_box -->
 </div><!-- /.relation_box -->
 

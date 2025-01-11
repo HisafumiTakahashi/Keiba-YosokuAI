@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -409,14 +409,14 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head_name fc">
 
 <div class="horse_title">
-<h1>カンフーダンス</h1>
+<h1><!--  □地 -->カンフーダンス</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2020102639/" style="color:#FFF;">Kung Fu Dance</a>
 </p>
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">抹消　牝　青鹿毛 </p>
+<p class="txt_01">　牝　青鹿毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -552,7 +552,7 @@ event.preventDefault();
 <a href="https://db.netkeiba.com/v1.1/?pid=horse_photo&id=2020102639" title="カンフーダンスの写真" >写真</a>
 </li>
 <li>
-<a href="https://db.netkeiba.com/horse/notes.html?id=2020102639" title="カンフーダンスのメモ" ><span class="new_icon"></span>メモ</a>
+<a href="https://db.netkeiba.com/horse/notes.html?id=2020102639" title="のメモ" ><span class="new_icon"></span>メモ</a>
 </li>
 <li>
 <a href="https://db.netkeiba.com/?pid=horse_training&id=2020102639" title="カンフーダンスの調教" ><img src="https://cdn.netkeiba.com/img.db/style/netkeiba.ja/image/icon_premium_01.png" alt="" class="png_img" />調教</a>
@@ -576,9 +576,7 @@ event.preventDefault();
 <a href="https://db.netkeiba.com/social/horse_info_next.html?id=2020102639" title="カンフーダンスの次走・近況情報" >近況</a>
 </li>
 
-<li>
-<a href="https://owner.netkeiba.com/?pid=horse_profile&id=2020102639" title="カンフーダンスの一口プロフィール">一口情報</a>
-</li>
+
 </ul>
 </div><!-- /.db_head_regist -->
 </div><!-- /.db_head -->
@@ -593,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020102639&no=16262&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020102639&no=26467&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -724,26 +722,20 @@ get_horse_detail_note('2020102639', 'Horse_Note_Box');
 </div><!-- /.db_prof_area_01" -->
 <div class="db_prof_area_02">
 
-<table summary="のプロフィール" class="db_prof_table ">
+<table summary="のプロフィール" class="db_prof_table no_OwnerUnit">
 <tr>
 <th>生年月日</th>
 <td>2020年4月21日</td>
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/01082/" title="平田修">平田修</a> (栗東)</td>
+<td><a href="/trainer/a01de/" title="川野勇馬">川野勇馬</a> (高知)</td>
 </tr>
 <tr>
 <th>馬主</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/506800.gif" alt="シルクレーシング" class="OwnerColours"><a href="/owner/506800/" title="シルクレーシング">シルクレーシング</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="小橋亮太" class="OwnerColours"><a href="/owner/673031/" title="小橋亮太">小橋亮太</a></td>
 </tr>
-<tr id="owner_info_tr">
-<th>募集情報</th>
-<td id="owner_info_td">
 
-<a href="https://owner.netkeiba.com/?pid=horse_profile&id=2020102639" class="OwnerUnitPrice">1口:3.2万円/<span>500口</span></a>
-</td>
-</tr>
 <tr>
 <th>生産者</th>
 <td><a href="/breeder/341126/" title="社台コーポレーション白老ファーム">社台コーポレーション白老ファーム</a></td>
@@ -763,13 +755,13 @@ get_horse_detail_note('2020102639', 'Horse_Note_Box');
 <td>
 
 
-1,080万円 (中央)
 
+1,080万円 (中央) /7万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>11戦1勝 [<a href="/horse/result/2020102639/" title="全競走成績">1-2-0-8</a>]</td>
+<td>12戦1勝 [<a href="/horse/result/2020102639/" title="全競走成績">1-2-0-9</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -983,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/54/20250105/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202554010506/" title="C2ー3">C2ー3</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010506" target="_blank" title="C2ー3の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5.2</td>
+<td class="rank_3 txt_right">3</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/a02da/" title="妹尾浩一">妹尾浩一</a>
+
+</td>
+<td>54</td>
+<td>ダ1300</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:28.7</td>
+<td class="txt_right">1.9</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>1-1-1-1</td>
+<td>0.0-41.5</td>
+<td class="bml">43.4</td>
+<td>501(+7)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018103529/">ハイレリーフ</a></td>
+
+<td>7.0</td>
+</tr><tr>
 <td><a href="/race/list/20241208/">2024/12/08</a></td>
 <td><a href="/race/sum/07/20241208/">4中京4</a></td>
 <td>晴</td>

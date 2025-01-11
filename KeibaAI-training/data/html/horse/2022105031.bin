@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022105031&no=11473&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2022105031&no=24284&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -1301,6 +1301,52 @@ $('#paddock_movie_box').html(data.data);
 <div class="paddock_list mode_simple ResultsList">
 <ul>
 <li>
+<div class="PhotoPaddockBox">
+<div class="PaddockImgWrap">
+<a href="javascript:void(0);" data-photoindex="3640">
+<p class="ReferencePaddockImage">
+<img src="https://cdn.netkeiba.com/img.racev4.sp/batai_img.php?id=3640" alt="加藤剛史の馬体診断" class="ReferencePaddockMovieImg01">
+<span class="Icon_Zoom"></span>
+</p>
+</a>
+<div class="ReferencePaddock_Txt">
+<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202506010411">フェアリーＳ</a> <span class="Icon_GradeType Icon_GradeType3">GIII</span> <span class=""></span></p>
+<p class="ReferencePaddockDate">2025/01/12 中山11R 芝1600m</p>
+</div>
+</div>
+<div class="PhotoOverlay" data-photoindex="3640" style="display:none">
+<div class="PhotoContainer">
+<div class="PhotoInner">
+<section class="PhotoPaddockModal modal">
+<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202506010411">フェアリーＳ<span class="Icon_GradeType Icon_GradeType3">GIII</span></a> <span class=""></span></p>
+<div class="VideoBox">
+<img src="https://cdn.netkeiba.com/img.racev4.sp/batai_img.php?id=3640">
+<p>▲1月3日撮影(c)netkeiba</p>
+</div><!-- /.VideoBox -->
+<span class="Title">加藤剛史の馬体診断</span>
+<div class="CommentTxt">
+
+<div class="MaskWrap">
+<div class="SampleTxtMask02">
+<div class="Premium_Regist_Box02 Paddock">
+<div class="Premium_Regist_MsgArea01">
+<p class="Premium_Regist_Msg01">プレミアムサービスなら</p>
+<p class="Premium_Regist_Msg02">馬体診断も見放題</p>
+</div>
+<p class="Premium_Regist_Msg_Campaign01">今なら<em>14日間無料</em>でお試し</p>
+<a class="Premium_Regist_Btn" id="a_monthly_goods_link_202506010411" data-theme="07079" href="https://regist.netkeiba.com/?pid=premium">馬体診断を見る</a>
+<p class="Premium_Regist_Txt02"><a href="https://regist.netkeiba.com/account/?pid=login">登録済みの方はこちらからログイン</a></p>
+</div>
+</div><!-- /.SampleTxtMask02-->
+</div><!-- /.MaskWrap-->
+</div>
+<button class="closebutton" type="button">閉じる</button>
+</section>
+</div><!-- /.PhotoInner -->
+</div><!-- /.PhotoContainer -->
+</div><!-- /.PhotoOverlay -->
+</div><!-- /.PhotoPaddockBox -->
+</li><li>
 <div class="PhotoPaddockBox">
 <div class="PaddockImgWrap">
 <a href="javascript:void(0);" data-photoindex="3582">

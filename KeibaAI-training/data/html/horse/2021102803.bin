@@ -758,14 +758,14 @@ get_horse_detail_note('2021102803', 'Horse_Note_Box');
 <th>³ÍÆÀ¾Þ¶â</th>
 <td>
 
-121Ëü±ß (ÃÏÊý)
+126Ëü±ß (ÃÏÊý)
 
 
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>6Àï2¾¡ [<a href="/horse/result/2021102803/" title="Á´¶¥ÁöÀ®ÀÓ">2-2-1-1</a>]</td>
+<td>7Àï2¾¡ [<a href="/horse/result/2021102803/" title="Á´¶¥ÁöÀ®ÀÓ">2-2-1-2</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/55/20250106/">º´²ì</a></td>
+<td>ÆÞ</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202555010603/" title="C2¡¼15ÁÈ">C2¡¼15ÁÈ</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010603" target="_blank" title="C2¡¼15ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">6</td>
+<td class="txt_right">7</td>
+<td class="txt_right">5.1</td>
+<td class="rank_2 txt_right">2</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/05548/" title="ÃÝµÈÅ°">ÃÝµÈÅ°</a>
+
+</td>
+<td>56</td>
+<td>¥À1400</td>
+<td>ãÄ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:33.1</td>
+<td class="txt_right">1.7</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>3-4-4-4</td>
+<td>0.0-38.6</td>
+<td class="bml">40.0</td>
+<td>517(-12)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018101365/">¥Ê¥Ã¥·¥ó¥°¥ª¥ó¥æ¡¼</a></td>
+
+<td>4.8</td>
+</tr><tr>
 <td><a href="/race/list/20240623/">2024/06/23</a></td>
 <td><a href="/race/sum/55/20240623/">º´²ì</a></td>
 <td>±«</td>

@@ -733,7 +733,7 @@ get_horse_detail_note('2021105131', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05368/" title="櫻井今朝">櫻井今朝</a> (愛知)</td>
+<td><a href="/trainer/05368/" title="櫻井今朝">櫻井今朝</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021105131', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202448072502/" title="名古屋モーニングフィーバー14">名古屋モーニングフィーバー14</a><!--、<a href="/race/202448080704/" title=3歳6組"">3歳6組</a>--></td>
+<td><a href="/race/202448080704/" title="３歳６組">３歳６組</a><!--、<a href="/race/202448072502/" title=名古屋モーニングフィーバー１４"">名古屋モーニングフィーバー１４</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

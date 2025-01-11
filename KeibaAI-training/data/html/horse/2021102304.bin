@@ -733,7 +733,7 @@ get_horse_detail_note('2021102304', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05728/" title="藤田輝信">藤田輝信</a> (地方)</td>
+<td><a href="/trainer/05728/" title="藤田輝信">藤田輝信</a> (大井)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -758,7 +758,7 @@ get_horse_detail_note('2021102304', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-425万円 (地方)
+525万円 (地方)
 
 
 </td>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021102304', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202444123106/" title="Ｃ２三　四五">Ｃ２三　四五</a><!--、<a href="/race/202444120407/" title=Ｃ２九　十"">Ｃ２九　十</a>--></td>
+<td><a href="/race/202444120407/" title="C2九 十">C2九 十</a><!--、<a href="/race/202444123106/" title=C2三 四五"">C2三 四五</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -1004,16 +1004,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:13.4</td>
 <td class="txt_right">-0.6</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>5-3</td>
 <td>36.0-37.4</td>

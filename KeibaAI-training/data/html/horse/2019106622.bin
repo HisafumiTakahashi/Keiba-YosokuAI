@@ -761,7 +761,7 @@ get_horse_detail_note('2019106622', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>32戦2勝 [<a href="/horse/result/2019106622/" title="全競走成績">2-4-3-23</a>]</td>
+<td>33戦3勝 [<a href="/horse/result/2019106622/" title="全競走成績">3-4-3-23</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/54/20250108/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202554010810/" title="ファイナルレース(C1)">ファイナルレース(C1)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010810" target="_blank" title="ファイナルレース(C1)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">7</td>
+<td class="txt_right">8</td>
+<td class="txt_right">5.4</td>
+<td class="rank_3 txt_right">3</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/a03e2/" title="多田羅誠">多田羅誠</a>
+
+</td>
+<td>56</td>
+<td>ダ1600</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:49.9</td>
+<td class="txt_right">0.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>3-3-4-4</td>
+<td>0.0-40.5</td>
+<td class="rank_2">40.2</td>
+<td>473(+6)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019103776/">(モズタンジロウ)</a></td>
+
+<td>90.0</td>
+</tr><tr>
 <td><a href="/race/list/20241215/">2024/12/15</a></td>
 <td><a href="/race/sum/54/20241215/">高知</a></td>
 <td>晴</td>

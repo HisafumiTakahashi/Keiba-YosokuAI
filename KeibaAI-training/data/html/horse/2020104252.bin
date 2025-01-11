@@ -754,14 +754,14 @@ get_horse_detail_note('2020104252', 'Horse_Note_Box');
 <th>≥Õ∆¿æﬁ∂‚</th>
 <td>
 
-415À¸±ﬂ (√œ ˝)
+430À¸±ﬂ (√œ ˝)
 
 
 </td>
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>33¿Ô2æ° [<a href="/horse/result/2020104252/" title="¡¥∂•¡ˆ¿Æ¿”">2-3-7-21</a>]</td>
+<td>34¿Ô2æ° [<a href="/horse/result/2020104252/" title="¡¥∂•¡ˆ¿Æ¿”">2-3-7-22</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250103/">2025/01/03</a></td>
+<td><a href="/race/sum/45/20250103/">¿Ó∫Í</a></td>
+<td>∆ﬁ</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202545010307/" title="¬Áπı≈∑æﬁ(C2º∑)">¬Áπı≈∑æﬁ(C2º∑)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202545010307" target="_blank" title="¬Áπı≈∑æﬁ(C2º∑)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">14</td>
+<td class="txt_right">7</td>
+<td class="txt_right">12</td>
+<td class="txt_right">39.0</td>
+<td class=" txt_right">6</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/05452/" title="ﬂ∑≈ƒŒ∂∫»">ﬂ∑≈ƒŒ∂∫»</a>
+
+</td>
+<td>56</td>
+<td>•¿1500</td>
+<td>Œ…</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:40.5</td>
+<td class="txt_right">0.7</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>11-10-7-4</td>
+<td>31.9-41.2</td>
+<td class="rank_3">41.3</td>
+<td>441(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021107147/">•’•Ø•Œ•π• •Œ•–•È</a></td>
+
+<td>15.0</td>
+</tr><tr>
 <td><a href="/race/list/20241211/">2024/12/11</a></td>
 <td><a href="/race/sum/45/20241211/">¿Ó∫Í</a></td>
 <td>¿≤</td>

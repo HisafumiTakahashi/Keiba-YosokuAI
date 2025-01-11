@@ -760,15 +760,15 @@ get_horse_detail_note('2022105615', 'Horse_Note_Box');
 <tr>
 <th>³ÍÆÀ¾Þ¶â</th>
 <td>
-0Ëü±ß
 
+8Ëü±ß (ÃÏÊý)
 
 
 </td>
 </tr>
 <tr>
 <th>ÄÌ»»À®ÀÓ</th>
-<td>3Àï0¾¡ [<a href="/horse/result/2022105615/" title="Á´¶¥ÁöÀ®ÀÓ">0-0-0-3</a>]</td>
+<td>4Àï0¾¡ [<a href="/horse/result/2022105615/" title="Á´¶¥ÁöÀ®ÀÓ">0-0-0-4</a>]</td>
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
@@ -982,6 +982,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/48/20250104/">Ì¾¸Å²°</a></td>
+<td>À²</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202548010401/" title="3ºÐ5ÁÈ">3ºÐ5ÁÈ</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010401" target="_blank" title="3ºÐ5ÁÈ¤Î±ÇÁü"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">8</td>
+<td class="txt_right">11</td>
+<td class="txt_right">9.3</td>
+<td class=" txt_right">6</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/a02e0/" title="Â¼¾å¹°¼ù">Â¼¾å¹°¼ù</a>
+
+</td>
+<td>56</td>
+<td>¥À1500</td>
+<td>ÎÉ</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:39.2</td>
+<td class="txt_right">0.9</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>9-9-4</td>
+<td>0.0-39.4</td>
+<td class="rank_2">39.5</td>
+<td>442(-5)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2022105606/">¥Û¡¼¥¹¥¹¥Ô¥ê¥Ã¥È</a></td>
+
+<td>8.1</td>
+</tr><tr>
 <td><a href="/race/list/20241223/">2024/12/23</a></td>
 <td><a href="/race/sum/48/20241223/">Ì¾¸Å²°</a></td>
 <td>À²</td>

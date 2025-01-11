@@ -729,7 +729,7 @@ get_horse_detail_note('2020101555', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>Ä´¶µ»Õ</th>
-<td><a href="/trainer/05675/" title="ºûÌîÇî»Ê">ºûÌîÇî»Ê</a> (ÃÏÊý)</td>
+<td><a href="/trainer/05675/" title="ºûÌîÇî»Ê">ºûÌîÇî»Ê</a> (³Þ¾¾)</td>
 </tr>
 <tr>
 <th>ÇÏ¼ç</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020101555', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>¼ç¤Ê¾¡°È</th>
-<td><a href="/race/202447022105/" title="£Â£·ÁÈ">£Â£·ÁÈ</a><!--¡¢<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202447022105/" title="B7ÁÈ">B7ÁÈ</a><!--¡¢<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>¶á¿ÆÇÏ</th>

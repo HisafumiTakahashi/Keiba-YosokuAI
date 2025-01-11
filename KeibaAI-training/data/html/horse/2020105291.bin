@@ -729,7 +729,7 @@ get_horse_detail_note('2020105291', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05668/" title="坂口義幸">坂口義幸</a> (地方)</td>
+<td><a href="/trainer/05668/" title="坂口義幸">坂口義幸</a> (愛知)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020105291', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202448040902/" title="Ｃ２２組">Ｃ２２組</a><!--、<a href="/race/202348103101/" title=Ｃ３１組"">Ｃ３１組</a>--></td>
+<td><a href="/race/202448040902/" title="C22組">C22組</a><!--、<a href="/race/202348103101/" title=C31組"">C31組</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

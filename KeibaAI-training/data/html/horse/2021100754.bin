@@ -409,14 +409,14 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head_name fc">
 
 <div class="horse_title">
-<h1>ワンダーアレグリア</h1>
+<h1><!--  □地 -->ワンダーアレグリア</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2021100754/" style="color:#FFF;">Wonder Alegria</a>
 </p>
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">抹消　牝　鹿毛 </p>
+<p class="txt_01">　牝　鹿毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -733,7 +733,7 @@ get_horse_detail_note('2021100754', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/01142/" title="森田直行">森田直行</a> (栗東)</td>
+<td><a href="/trainer/05005/" title="九日俊光">九日俊光</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -757,15 +757,15 @@ get_horse_detail_note('2021100754', 'Horse_Note_Box');
 <tr>
 <th>獲得賞金</th>
 <td>
-0万円
 
+3万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>3戦0勝 [<a href="/horse/result/2021100754/" title="全競走成績">0-0-0-3</a>]</td>
+<td>4戦0勝 [<a href="/horse/result/2021100754/" title="全競走成績">0-0-0-4</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250104/">2025/01/04</a></td>
+<td><a href="/race/sum/55/20250104/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">1</td>
+<td class=""><a href="/race/202555010401/" title="ウェルカム2025賞(C2)">ウェルカム2025賞(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010401" target="_blank" title="ウェルカム2025賞(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">8</td>
+<td class="txt_right">11</td>
+<td class="txt_right">10.2</td>
+<td class="rank_2 txt_right">2</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05587/" title="小松丈二">小松丈二</a>
+
+</td>
+<td>54</td>
+<td>ダ1300</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:28.0</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>9-7-7-7</td>
+<td>0.0-40.3</td>
+<td class="bml">39.6</td>
+<td>469(+43)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2017101036/">クリノホノオ</a></td>
+
+<td>3.2</td>
+</tr><tr>
 <td><a href="/race/list/20240616/">2024/06/16</a></td>
 <td><a href="/race/sum/02/20240616/">1函館4</a></td>
 <td>曇</td>

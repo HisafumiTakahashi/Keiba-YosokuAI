@@ -733,7 +733,7 @@ get_horse_detail_note('2022103355', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05766/" title="藤原智行">藤原智行</a> (浦和)</td>
+<td><a href="/trainer/05766/" title="藤原智行">藤原智行</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2022103355', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202435110312/" title="プリンセスC">プリンセスC</a><!--、<a href="/race/202430052201/" title=24'JRA認定競走アタックチャレンジ(未勝利)"">24'JRA認定競走アタックチャレンジ(未勝利)</a>--></td>
+<td><a href="/race/202435110312/" title="プリンセスC">プリンセスC</a><!--、<a href="/race/202430052201/" title=24'ＪＲＡ認定競走アタックチャレンジ(未勝利)"">24'ＪＲＡ認定競走アタックチャレンジ(未勝利)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -1004,16 +1004,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:43.5</td>
 <td class="txt_right">1.0</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>12-12-12-10</td>
 <td>37.0-40.3</td>

@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">∂•Œÿ
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -408,23 +408,16 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-                <div class="horse_title">
-                        <h1><!--  ¢¢√œ -->•Ì•π•ﬁ•Í•Û•÷•Î°º</h1>
-
-			
-                        <p class="eng_name">
-			    <a href="https://en.netkeiba.com/db/horse/2020110086/" style="color:#FFF;">Rosmarin Blue</a>
-			</p>
-			
-
-                        
-                        <p class="rate" style="display:none">
-                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ° <span></span>…º°À--></strong>
-                        </p>
-                        
-                        <p class="txt_01">°°Ã∆°°ºØÃ” </p>
-                </div><!-- /.horse_title" -->
-
+<div class="horse_title">
+<h1><!--  ¢¢√œ -->•Ì•π•ﬁ•Í•Û•÷•Î°º</h1>
+<p class="eng_name">
+<a href="https://en.netkeiba.com/db/horse/2020110086/" style="color:#FFF;">Rosmarin Blue</a>
+</p>
+<p class="rate" style="display:none">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- ° <span></span>…º°À--></strong>
+</p>
+<p class="txt_01">°°Ã∆°°ºØÃ” </p>
+</div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -736,7 +729,7 @@ get_horse_detail_note('2020110086', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒ¥∂µª’</th>
-<td><a href="/trainer/a02f3/" title="µ‹¿Óπ¿∞Ï">µ‹¿Óπ¿∞Ï</a> (√œ ˝)</td>
+<td><a href="/trainer/a02f3/" title="µ‹¿Óπ¿∞Ï">µ‹¿Óπ¿∞Ï</a> (π‚√Œ)</td>
 </tr>
 <tr>
 <th>«œºÁ</th>
@@ -772,7 +765,7 @@ get_horse_detail_note('2020110086', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
-<td><a href="/race/202354100804/" title="£√£≥°º£≤£∞">£√£≥°º£≤£∞</a><!--°¢<a href="/race/202354091701/" title=£≥∫–°º£π"">£≥∫–°º£π</a>--></td>
+<td><a href="/race/202354091701/" title="3∫–°º9">3∫–°º9</a><!--°¢<a href="/race/202354100804/" title=C3°º20"">C3°º20</a>--></td>
 </tr>
 <tr>
 <th>∂·ø∆«œ</th>

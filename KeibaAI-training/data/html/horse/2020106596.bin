@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1><!--  □地 -->アルティメットサガ</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2020106596/" style="color:#FFF;">Ultimate Saga</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-</p>
-<p class="txt_01">　牡　栗毛 </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1><!--  □地 -->アルティメットサガ</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2020106596/" style="color:#FFF;">Ultimate Saga</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+                        </p>
+                        
+                        <p class="txt_01">　牡　栗毛 </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -757,14 +764,14 @@ get_horse_detail_note('2020106596', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-766万円 (地方)
+886万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>23戦9勝 [<a href="/horse/result/2020106596/" title="全競走成績">9-2-3-9</a>]</td>
+<td>24戦10勝 [<a href="/horse/result/2020106596/" title="全競走成績">10-2-3-9</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -978,6 +985,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250106/">2025/01/06</a></td>
+<td><a href="/race/sum/48/20250106/">名古屋</a></td>
+<td>曇</td>
+<td class="txt_right">11</td>
+<td class=""><a href="/race/202548010611/" title="門松特別(A)">門松特別(A)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202548010611" target="_blank" title="門松特別(A)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">8</td>
+<td class="txt_right">9</td>
+<td class="txt_right">2.2</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/a02bb/" title="木之前葵">木之前葵</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>重</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:29.1</td>
+<td class="txt_right">-0.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>8-8-3</td>
+<td>0.0-38.5</td>
+<td class="rank_1">37.9</td>
+<td>463(-1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2016104963/">(フィードバック)</a></td>
+
+<td>120.0</td>
+</tr><tr>
 <td><a href="/race/list/20241223/">2024/12/23</a></td>
 <td><a href="/race/sum/48/20241223/">名古屋</a></td>
 <td>晴</td>

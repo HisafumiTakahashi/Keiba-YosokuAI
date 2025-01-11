@@ -760,16 +760,16 @@ get_horse_detail_note('2021102386', 'Horse_Note_Box');
 
 
 
-110万円 (中央) /161万円 (地方)
+110万円 (中央) /177万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>15戦3勝 [<a href="/horse/result/2021102386/" title="全競走成績">3-3-0-9</a>]</td>
+<td>16戦4勝 [<a href="/horse/result/2021102386/" title="全競走成績">4-3-0-9</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202447091205/" title="笠松けいば秋まつりまであと30日">笠松けいば秋まつりまであと30日</a><!--、<a href="/race/202447101002/" title=守らせろ最期まで!杯"">守らせろ最期まで!杯</a>--></td>
+<td><a href="/race/202447091205/" title="笠松けいば秋まつりまであと30日">笠松けいば秋まつりまであと30日</a><!--、<a href="/race/202547010805/" title=B8・C3組"">B8・C3組</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/47/20250108/">笠松</a></td>
+<td>晴</td>
+<td class="txt_right">5</td>
+<td class=""><a href="/race/202547010805/" title="B8・C3組(BC)">B8・C3組(BC)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547010805" target="_blank" title="B8・C3組(BC)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">1.4</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05171/" title="岡部誠">岡部誠</a>
+
+</td>
+<td>55</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:31.7</td>
+<td class="txt_right">-0.2</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>1-1-1</td>
+<td>0.0-39.0</td>
+<td class="rank_1">39.0</td>
+<td>422(-6)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019106494/">(メガフラッシュ)</a></td>
+
+<td>45.0</td>
+</tr><tr>
 <td><a href="/race/list/20241230/">2024/12/30</a></td>
 <td><a href="/race/sum/47/20241230/">笠松</a></td>
 <td>曇</td>
@@ -1004,16 +1057,20 @@ $('#horse_award_box').html(data.data);
 <td>良</td>
 
 <td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td class="txt_right">1:46.7</td>
 <td class="txt_right">0.7</td>
 <td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
 
 
-&nbsp;
 </td>
 <td>2-2-1</td>
 <td>0.0-38.9</td>

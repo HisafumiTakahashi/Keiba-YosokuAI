@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100371&no=11614&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100371&no=71829&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -733,7 +733,7 @@ get_horse_detail_note('2021100371', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a01c8/" title="国沢輝幸">国沢輝幸</a> (高知)</td>
+<td><a href="/trainer/05651/" title="川村守男">川村守男</a> (浦和)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2021100371', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>24戦2勝 [<a href="/horse/result/2021100371/" title="全競走成績">2-4-2-16</a>]</td>
+<td>25戦2勝 [<a href="/horse/result/2021100371/" title="全競走成績">2-4-2-17</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250110/">2025/01/10</a></td>
+<td><a href="/race/sum/42/20250110/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202542011007/" title="ここが好き、やっぱり(C2)">ここが好き、やっぱり(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542011007" target="_blank" title="ここが好き、やっぱり(C2)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">7</td>
+<td class="txt_right">9</td>
+<td class="txt_right">125.8</td>
+<td class=" txt_right">10</td>
+<td class="bml txt_right">9</td>
+<td>
+<a href="/jockey/result/recent/a056c/" title="千野稜真">千野稜真</a>
+
+</td>
+<td>53</td>
+<td>ダ1500</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:39.9</td>
+<td class="txt_right">3.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>11-11-11-10</td>
+<td>31.5-38.8</td>
+<td class="bml">40.1</td>
+<td>490(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101984/">デルマプルシャ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241207/">2024/12/07</a></td>
 <td><a href="/race/sum/54/20241207/">高知</a></td>
 <td>晴</td>

@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105585&no=93892&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2020105585&no=92683&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2020105585', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202407030511/" title="24'ＪＲＡ７０件钳淡前アニバ〖サリ〖S(１６００它布)">24'ＪＲＡ７０件钳淡前アニバ〖サリ〖S(１６００它布)</a><!--、<a href="/race/202407020609/" title=24'络绍泼侍(１０００它布)"">24'络绍泼侍(１０００它布)</a>--></td>
+<td><a href="/race/202407030511/" title="24'JRA70件钳淡前アニバ〖サリ〖S(3尽クラス)">24'JRA70件钳淡前アニバ〖サリ〖S(3尽クラス)</a><!--、<a href="/race/202407020609/" title=24'络绍泼侍(2尽クラス)"">24'络绍泼侍(2尽クラス)</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>

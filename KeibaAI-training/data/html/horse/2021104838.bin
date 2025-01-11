@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104838&no=14679&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104838&no=567&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,11 +765,11 @@ get_horse_detail_note('2021104838', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>10戦1勝 [<a href="/horse/result/2021104838/" title="全競走成績">1-1-0-8</a>]</td>
+<td>11戦2勝 [<a href="/horse/result/2021104838/" title="全競走成績">2-1-0-8</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202442111905/" title="特選">特選</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202442111905/" title="特選">特選</a><!--、<a href="/race/202542010802/" title=ランチタイムチャレンジ"">ランチタイムチャレンジ</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/42/20250108/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202542010802/" title="ランチタイムチャレン(C2四)">ランチタイムチャレン(C2四)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010802" target="_blank" title="ランチタイムチャレン(C2四)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">7.3</td>
+<td class=" txt_right">4</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/05595/" title="福原杏">福原杏</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:30.4</td>
+<td class="txt_right">-1.7</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>4-5-1-1</td>
+<td>37.8-39.6</td>
+<td class="rank_1">39.2</td>
+<td>424(+1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018100870/">(アサンテギア)</a></td>
+
+<td>100.0</td>
+</tr><tr>
 <td><a href="/race/list/20241224/">2024/12/24</a></td>
 <td><a href="/race/sum/42/20241224/">浦和</a></td>
 <td>晴</td>

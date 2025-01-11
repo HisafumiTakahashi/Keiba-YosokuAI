@@ -733,7 +733,7 @@ get_horse_detail_note('2021102647', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05390/" title="高橋俊之">高橋俊之</a> (金沢)</td>
+<td><a href="/trainer/05390/" title="高橋俊之">高橋俊之</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021102647', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446072312/" title="金沢競馬でチャンスをつかめ!3歳の戦">金沢競馬でチャンスをつかめ!3歳の戦</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202446072312/" title="金沢競馬でチャンスをつかめ！３歳の戦">金沢競馬でチャンスをつかめ！３歳の戦</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

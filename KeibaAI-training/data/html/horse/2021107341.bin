@@ -733,7 +733,7 @@ get_horse_detail_note('2021107341', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a0276/" title="後藤正義">後藤正義</a> (地方)</td>
+<td><a href="/trainer/a0276/" title="後藤正義">後藤正義</a> (笠松)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2021107341', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>20戦1勝 [<a href="/horse/result/2021107341/" title="全競走成績">1-2-0-17</a>]</td>
+<td>21戦1勝 [<a href="/horse/result/2021107341/" title="全競走成績">1-2-0-18</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/47/20250108/">笠松</a></td>
+<td>曇</td>
+<td class="txt_right">8</td>
+<td class=""><a href="/race/202547010808/" title="書初め特別(C)">書初め特別(C)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202547010808" target="_blank" title="書初め特別(C)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">105.2</td>
+<td class=" txt_right">8</td>
+<td class="bml txt_right">9</td>
+<td>
+<a href="/jockey/result/recent/05521/" title="藤原幹生">藤原幹生</a>
+
+</td>
+<td>54</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:35.0</td>
+<td class="txt_right">3.7</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>9-10-10</td>
+<td>0.0-40.8</td>
+<td class="bml">42.7</td>
+<td>417(-2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021106224/">ウインアリス</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241227/">2024/12/27</a></td>
 <td><a href="/race/sum/47/20241227/">笠松</a></td>
 <td>雨</td>

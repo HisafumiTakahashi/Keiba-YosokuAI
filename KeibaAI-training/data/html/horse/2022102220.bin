@@ -769,7 +769,7 @@ get_horse_detail_note('2022102220', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202402010405/" title="70'２歳新馬">70'２歳新馬</a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202402010405/" title="24'2歳新馬">24'2歳新馬</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -1178,7 +1178,158 @@ $('#paddock_movie_box').html(data.data);
 </div><!-- /.relation_box -->
 <div class="relation_box no_boder fc">
 
+<div class="fc">
+<div class="cate_bar_s">
+<h2>フォトパドック</h2>
+</div>
+<div class="paddock_list mode_simple ResultsList">
+<ul>
+<li>
+<div class="PhotoPaddockBox">
+<div class="PaddockImgWrap">
+<a href="javascript:void(0);" data-photoindex="3636">
+<p class="ReferencePaddockImage">
+<img src="https://cdn.netkeiba.com/img.racev4.sp/batai_img.php?id=3636" alt="加藤剛史の馬体診断" class="ReferencePaddockMovieImg01">
+<span class="Icon_Zoom"></span>
+</p>
+</a>
+<div class="ReferencePaddock_Txt">
+<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202506010411">フェアリーＳ</a> <span class="Icon_GradeType Icon_GradeType3">GIII</span> <span class=""></span></p>
+<p class="ReferencePaddockDate">2025/01/12 中山11R 芝1600m</p>
+</div>
+</div>
+<div class="PhotoOverlay" data-photoindex="3636" style="display:none">
+<div class="PhotoContainer">
+<div class="PhotoInner">
+<section class="PhotoPaddockModal modal">
+<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202506010411">フェアリーＳ<span class="Icon_GradeType Icon_GradeType3">GIII</span></a> <span class=""></span></p>
+<div class="VideoBox">
+<img src="https://cdn.netkeiba.com/img.racev4.sp/batai_img.php?id=3636">
+<p>▲1月3日撮影(c)netkeiba</p>
+</div><!-- /.VideoBox -->
+<span class="Title">加藤剛史の馬体診断</span>
+<div class="CommentTxt">
 
+<div class="MaskWrap">
+<div class="SampleTxtMask02">
+<div class="Premium_Regist_Box02 Paddock">
+<div class="Premium_Regist_MsgArea01">
+<p class="Premium_Regist_Msg01">プレミアムサービスなら</p>
+<p class="Premium_Regist_Msg02">馬体診断も見放題</p>
+</div>
+<p class="Premium_Regist_Msg_Campaign01">今なら<em>14日間無料</em>でお試し</p>
+<a class="Premium_Regist_Btn" id="a_monthly_goods_link_202506010411" data-theme="07079" href="https://regist.netkeiba.com/?pid=premium">馬体診断を見る</a>
+<p class="Premium_Regist_Txt02"><a href="https://regist.netkeiba.com/account/?pid=login">登録済みの方はこちらからログイン</a></p>
+</div>
+</div><!-- /.SampleTxtMask02-->
+</div><!-- /.MaskWrap-->
+</div>
+<button class="closebutton" type="button">閉じる</button>
+</section>
+</div><!-- /.PhotoInner -->
+</div><!-- /.PhotoContainer -->
+</div><!-- /.PhotoOverlay -->
+</div><!-- /.PhotoPaddockBox -->
+</li>
+<ul>
+</div><!-- /.paddock_list.ResultsList -->
+<p class="detail_link"><a href="/?pid=horse_photo_paddock&id=2022102220">もっと見る</a></p>
+</div><!-- /. -->
+<div class="Description_Box02 Flow mt18">
+<dl>
+<dt id="DescriptionPP">フォトパドックの提供について<span class="Icon_ArrowB"></span></dt>
+<dd style="display: none;">
+<div class="Baken_Flow">
+<div class="Baken_Flow_Title"><strong>フォトパドック</strong>
+<br>競走馬の馬体診断を解説付きで確認できます。</div>
+<div class="Inner">
+<div class="Step">
+<p class="Step_Title fwB">1.公開時間について</p>
+<ul class="YosoMovieInfoTime">
+<li>厩舎コメント
+<br>※レース開催週、前日16時公開予定。
+</li>
+<li>馬体診断
+<br>※レース開催週、火曜18時頃公開予定。
+</li>
+</ul>
+</div><!-- /.Step -->
+<div class="Step">
+<p class="Step_Title fwB">2.フォトパドックが無い出走馬について</p>
+<div class="YosoMovieInfoTxt">情報提供元の都合により、掲載を見送らせていただく場合がございます。</div>
+</div><!-- /.Step -->
+<div class="Step">
+<p class="Step_Title fwB">3.対象レースについて</p>
+<div class="YosoMovieInfoTxt">GI・GII・GIIIレース。</div>
+</div><!-- /.Step -->
+</div><!-- /.Inner -->
+</div><!-- /.Baken_Flow -->
+</dd>
+</dl>
+</div><!-- /.Description_Box02 -->
+<script>
+$(document).ready(function() {
+$('#DescriptionPP').click(function() {
+$(this).find("span").toggleClass('Icon_ArrowT').toggleClass('Icon_ArrowB');
+$(this).next("dd").slideToggle('fast');
+});
+});
+</script>
+<script type="text/javascript">
+$(function(){
+// フォトパドックmodal
+var $window = $(window),
+$overlay = $('.PhotoOverlay'),
+scrollbar_width = window.innerWidth - document.body.scrollWidth,
+touch_start_y;
+$window.on('touchstart', function(event) {
+touch_start_y = event.originalEvent.changedTouches[0].screenY;
+});
+$('.PhotoPaddockBox > .PaddockImgWrap a').on('click', function() {
+var _modalIndex = $(this).attr('data-photoIndex') || null;
+if (_modalIndex) {
+$window.on('touchmove.noscroll', function(event) {
+var overlay = $overlay[0],
+current_y = event.originalEvent.changedTouches[0].screenY,
+height = $overlay.outerHeight(),
+is_top = touch_start_y <= current_y && overlay.scrollTop === 0,
+is_bottom = touch_start_y >= current_y && overlay.scrollHeight - overlay.scrollTop === height;
+if (is_top || is_bottom) {
+event.preventDefault();
+}
+});
+$('html, body').css('overflow', 'hidden');
+if (scrollbar_width) {
+$('html').css('padding-right', scrollbar_width);
+}
+$overlay.filter('[data-PhotoIndex="' + _modalIndex + '"]').fadeIn(300);
+}
+});
+// モーダル閉じる処理
+var closeModal = function() {
+$('body').removeAttr('style');
+$window.off('touchmove.noscroll');
+$overlay.animate({
+opacity: 0
+}, 300, function() {
+$overlay.scrollTop(0).hide().removeAttr('style');
+$('html').removeAttr('style');
+});
+};
+$overlay.on('click', function(event) {
+if (!$(event.target).closest('.PhotoPaddockModal').length) {
+closeModal();
+}
+});
+$('.closebutton,.Modal_Close').on('click', function() {
+closeModal();
+});
+$(".PhotoOverlay a:not('.Link_Name_Horse')").click(function(){
+closeModal();
+parent.location.href=$(this).attr('href');
+});
+});
+</script>
 </div><!-- /.relation_box -->
 <div id="o-horse_breeding_box" class="Loader"></div>
 <script>

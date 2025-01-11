@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100938&no=16601&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021100938&no=16097&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -765,7 +765,7 @@ get_horse_detail_note('2021100938', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ƒÃªª¿Æ¿”</th>
-<td>13¿Ô1æ° [<a href="/horse/result/2021100938/" title="¡¥∂•¡ˆ¿Æ¿”">1-1-2-9</a>]</td>
+<td>14¿Ô1æ° [<a href="/horse/result/2021100938/" title="¡¥∂•¡ˆ¿Æ¿”">1-1-2-10</a>]</td>
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250107/">2025/01/07</a></td>
+<td><a href="/race/sum/42/20250107/">±∫œ¬</a></td>
+<td>¿≤</td>
+<td class="txt_right">12</td>
+<td class=""><a href="/race/202542010712/" title="ΩÈÃ¥∆√ Ã(C2)">ΩÈÃ¥∆√ Ã(C2)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010712" target="_blank" title="ΩÈÃ¥∆√ Ã(C2)§Œ±«¡¸"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">7</td>
+<td class="txt_right">9</td>
+<td class="txt_right">5.0</td>
+<td class="rank_2 txt_right">2</td>
+<td class="bml txt_right">12</td>
+<td>
+<a href="/jockey/result/recent/05347/" title="Ω©∏µπÃ¿Æ">Ω©∏µπÃ¿Æ</a>
+
+</td>
+<td>56</td>
+<td>•¿2000</td>
+<td>Ω≈</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">2:19.3</td>
+<td class="txt_right">4.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>5-7-10-12</td>
+<td>39.7-41.5</td>
+<td class="bml">44.1</td>
+<td>518(+2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021106435/">•´•ﬁ•Ø•È•–•Ø•’</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241225/">2024/12/25</a></td>
 <td><a href="/race/sum/42/20241225/">±∫œ¬</a></td>
 <td>¿≤</td>

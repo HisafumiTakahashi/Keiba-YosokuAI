@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018110043&no=40665&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2018110043&no=40664&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -761,7 +761,7 @@ get_horse_detail_note('2018110043', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>17戦5勝 [<a href="/horse/result/2018110043/" title="全競走成績">5-1-0-11</a>]</td>
+<td>18戦5勝 [<a href="/horse/result/2018110043/" title="全競走成績">5-1-0-12</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,65 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/07/20250105/">1中京1</a></td>
+<td>晴</td>
+<td class="txt_right">11</td>
+<td class="rank_3"><a href="/race/202507010111/" title="スポニチ賞京都金杯(GIII)">スポニチ賞京都金杯(GIII)</a></td>
+<td>
+<a href="/race/movie/202507010111" target="_blank" title="スポニチ賞京都金杯(GIII)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+
+
+</td>
+<td class="txt_right">16</td>
+<td class="txt_right">2</td>
+<td class="txt_right">4</td>
+<td class="txt_right">63.3</td>
+<td class=" txt_right">12</td>
+<td class="bml txt_right">15</td>
+<td>
+<a href="/jockey/result/recent/01184/" title="原優介">原優介</a>
+
+</td>
+<td>55</td>
+<td>芝1600</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:35.7</td>
+<td class="txt_right">2.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>15-15-15</td>
+<td>34.7-35.4</td>
+<td class="bml">35.9</td>
+<td>544(+4)</td>
+<td class="bml" align="center" nowrap>
+<a href="/?pid=horse_comment&id=2018110043&rid=202507010111"><img src="/style/netkeiba.ja/image/ico_comment.gif" width="13" height="13" border="0" /></a>
+
+</td>
+<td class="bml" nowrap>
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p31" id="a_monthly_goods_link_03" data-theme="07004"><img src="/style/netkeiba.ja/image/ico_remarks.gif" width="13" height="13" border="0" /></a>
+</div>
+
+
+</td>
+<td><a href="/horse/2017103751/">サクラトゥジュール</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241110/">2024/11/10</a></td>
 <td><a href="/race/sum/05/20241110/">5東京4</a></td>
 <td>曇</td>
@@ -2063,7 +2122,7 @@ $('#paddock_movie_box').html(data.data);
 </p>
 </a>
 <div class="ReferencePaddock_Txt">
-<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202507010111">京都金杯</a> <span class="Icon_GradeType Icon_GradeType3">GIII</span> <span class=""></span></p>
+<p class="ReferencePaddockName"><a href="https://db.netkeiba.com/race/202507010111/">京都金杯</a> <span class="Icon_GradeType Icon_GradeType3">GIII</span> <span class="RaceResultNum ResultRank15">15着</span></p>
 <p class="ReferencePaddockDate">2025/01/05 中京11R 芝1600m</p>
 </div>
 </div>
@@ -2071,7 +2130,7 @@ $('#paddock_movie_box').html(data.data);
 <div class="PhotoContainer">
 <div class="PhotoInner">
 <section class="PhotoPaddockModal modal">
-<p class="ReferencePaddockName"><a href="https://race.netkeiba.com/race/shutuba.html?race_id=202507010111">京都金杯<span class="Icon_GradeType Icon_GradeType3">GIII</span></a> <span class=""></span></p>
+<p class="ReferencePaddockName"><a href="https://db.netkeiba.com/race/202507010111/">京都金杯<span class="Icon_GradeType Icon_GradeType3">GIII</span></a> <span class="RaceResultNum ResultRank15">15着</span></p>
 <div class="VideoBox">
 <img src="https://cdn.netkeiba.com/img.racev4.sp/batai_img.php?id=3628">
 <p>▲12月25日撮影(c)netkeiba</p>

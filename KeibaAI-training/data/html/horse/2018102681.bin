@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -761,7 +761,7 @@ get_horse_detail_note('2018102681', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>32戦4勝 [<a href="/horse/result/2018102681/" title="全競走成績">4-5-4-19</a>]</td>
+<td>33戦4勝 [<a href="/horse/result/2018102681/" title="全競走成績">4-5-4-20</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/54/20250108/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202554010810/" title="ファイナルレース(C1)">ファイナルレース(C1)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010810" target="_blank" title="ファイナルレース(C1)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">5</td>
+<td class="txt_right">5</td>
+<td class="txt_right">4.0</td>
+<td class="rank_1 txt_right">1</td>
+<td class="bml txt_right">5</td>
+<td>
+<a href="/jockey/result/recent/05502/" title="松井伸也">松井伸也</a>
+
+</td>
+<td>56</td>
+<td>ダ1600</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:50.4</td>
+<td class="txt_right">0.5</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>9-9-8-7</td>
+<td>0.0-40.5</td>
+<td class="rank_3">40.4</td>
+<td>516(+1)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019106622/">サバンナモンキー</a></td>
+
+<td>9.0</td>
+</tr><tr>
 <td><a href="/race/list/20241228/">2024/12/28</a></td>
 <td><a href="/race/sum/54/20241228/">高知</a></td>
 <td>晴</td>

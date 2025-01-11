@@ -408,16 +408,23 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head fc">
 <div class="db_head_name fc">
 
-<div class="horse_title">
-<h1><!--  □地 -->チャーチルテソーロ</h1>
-<p class="eng_name">
-<a href="https://en.netkeiba.com/db/horse/2021102286/" style="color:#FFF;">Churchill Tesoro</a>
-</p>
-<p class="rate" style="display:none">
-<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
-</p>
-<p class="txt_01">　牡　鹿毛 </p>
-</div><!-- /.horse_title" -->
+                <div class="horse_title">
+                        <h1><!--  □地 -->チャーチルテソーロ</h1>
+
+			
+                        <p class="eng_name">
+			    <a href="https://en.netkeiba.com/db/horse/2021102286/" style="color:#FFF;">Churchill Tesoro</a>
+			</p>
+			
+
+                        
+                        <p class="rate" style="display:none">
+                                <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
+                        </p>
+                        
+                        <p class="txt_01">　牡　鹿毛 </p>
+                </div><!-- /.horse_title" -->
+
 
 <div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
@@ -758,14 +765,14 @@ get_horse_detail_note('2021102286', 'Horse_Note_Box');
 <th>獲得賞金</th>
 <td>
 
-46万円 (地方)
+51万円 (地方)
 
 
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>8戦0勝 [<a href="/horse/result/2021102286/" title="全競走成績">0-3-0-5</a>]</td>
+<td>9戦0勝 [<a href="/horse/result/2021102286/" title="全競走成績">0-3-0-6</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +986,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/55/20250105/">佐賀</a></td>
+<td>曇</td>
+<td class="txt_right">3</td>
+<td class=""><a href="/race/202555010503/" title="C2ー19組">C2ー19組</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202555010503" target="_blank" title="C2ー19組の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">9</td>
+<td class="txt_right">8</td>
+<td class="txt_right">9</td>
+<td class="txt_right">1.7</td>
+<td class="rank_1 txt_right">1</td>
+<td class="bml txt_right">4</td>
+<td>
+<a href="/jockey/result/recent/05229/" title="山口勲">山口勲</a>
+
+</td>
+<td>56</td>
+<td>ダ1400</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:34.1</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>4-3-2-4</td>
+<td>0.0-40.5</td>
+<td class="bml">41.2</td>
+<td>471(-6)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021104909/">フラワーカンパニー</a></td>
+
+<td>4.8</td>
+</tr><tr>
 <td><a href="/race/list/20241214/">2024/12/14</a></td>
 <td><a href="/race/sum/55/20241214/">佐賀</a></td>
 <td>晴</td>

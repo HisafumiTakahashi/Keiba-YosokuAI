@@ -593,7 +593,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017100993&no=49125&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017100993&no=13964&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -731,7 +731,7 @@ get_horse_detail_note('2017100993', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02b0/" title="打越勇児">打越勇児</a> (地方)</td>
+<td><a href="/trainer/a02b0/" title="打越勇児">打越勇児</a> (高知)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,11 +769,11 @@ get_horse_detail_note('2017100993', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>47戦10勝 [<a href="/horse/result/2017100993/" title="全競走成績">10-4-4-29</a>]</td>
+<td>48戦10勝 [<a href="/horse/result/2017100993/" title="全競走成績">10-5-4-29</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202103010410/" title="21'天の川S(１６００万下)">21'天の川S(１６００万下)</a><!--、<a href="/race/202109030209/" title=21'鷹取特別(１０００万下)"">21'鷹取特別(１０００万下)</a>--></td>
+<td><a href="/race/202103010410/" title="21'天の川S(3勝クラス)">21'天の川S(3勝クラス)</a><!--、<a href="/race/202109030209/" title=21'鷹取特別(2勝クラス)"">21'鷹取特別(2勝クラス)</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -983,6 +983,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/54/20250108/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202554010807/" title="C1ー3">C1ー3</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010807" target="_blank" title="C1ー3の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">7</td>
+<td class="txt_right">7</td>
+<td class="txt_right">1.2</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05640/" title="宮川実">宮川実</a>
+
+</td>
+<td>56</td>
+<td>ダ1600</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:49.3</td>
+<td class="txt_right">0.1</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>3-3-2-2</td>
+<td>0.0-41.9</td>
+<td class="rank_3">41.8</td>
+<td>507(+2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018102454/">ラグラスドシエル</a></td>
+
+<td>31.5</td>
+</tr><tr>
 <td><a href="/race/list/20241116/">2024/11/16</a></td>
 <td><a href="/race/sum/54/20241116/">高知</a></td>
 <td>曇</td>

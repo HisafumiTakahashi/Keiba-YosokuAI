@@ -593,7 +593,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017105600&no=43008&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2017105600&no=42880&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -767,7 +767,7 @@ get_horse_detail_note('2017105600', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>ºÁ§ æ°∞»</th>
-<td><a href="/race/202109050810/" title="21'Œ©±¿∂ÆS(3æ°•Ø•È•π)">21'Œ©±¿∂ÆS(3æ°•Ø•È•π)</a><!--°¢<a href="/race/202101020612/" title=21'ªŸ„Ù∏–∆√ Ã(2æ°•Ø•È•π)"">21'ªŸ„Ù∏–∆√ Ã(2æ°•Ø•È•π)</a>--></td>
+<td><a href="/race/202109050810/" title="21'Œ©±¿∂ÆS(£±£∂£∞£∞À¸≤º)">21'Œ©±¿∂ÆS(£±£∂£∞£∞À¸≤º)</a><!--°¢<a href="/race/202101020612/" title=21'ªŸ„Ù∏–∆√ Ã(£±£∞£∞£∞À¸≤º)"">21'ªŸ„Ù∏–∆√ Ã(£±£∞£∞£∞À¸≤º)</a>--></td>
 </tr>
 <tr>
 <th>∂·ø∆«œ</th>

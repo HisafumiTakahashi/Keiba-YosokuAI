@@ -733,7 +733,7 @@ get_horse_detail_note('2021101115', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a0367/" title="山田徹">山田徹</a> (地方)</td>
+<td><a href="/trainer/a0367/" title="山田徹">山田徹</a> (佐賀)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021101115', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202355111907/" title="矢野酒造「肥前蔵心」賞">矢野酒造「肥前蔵心」賞</a><!--、<a href="/race/202355102306/" title=２歳ー５組"">２歳ー５組</a>--></td>
+<td><a href="/race/202355102306/" title="2歳ー5組">2歳ー5組</a><!--、<a href="/race/202355111907/" title=矢野酒造「肥前蔵心」賞"">矢野酒造「肥前蔵心」賞</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

@@ -765,7 +765,7 @@ get_horse_detail_note('2021106257', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>12戦0勝 [<a href="/horse/result/2021106257/" title="全競走成績">0-0-0-12</a>]</td>
+<td>13戦0勝 [<a href="/horse/result/2021106257/" title="全競走成績">0-0-0-13</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/50/20250108/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">4</td>
+<td class=""><a href="/race/202550010804/" title="杏町ダッシュC3">杏町ダッシュC3</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010804" target="_blank" title="杏町ダッシュC3の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">7</td>
+<td class="txt_right">8</td>
+<td class="txt_right">165.2</td>
+<td class=" txt_right">7</td>
+<td class="bml txt_right">7</td>
+<td>
+<a href="/jockey/result/recent/a0514/" title="山本屋太">山本屋太</a>
+
+</td>
+<td>55</td>
+<td>ダ820</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">0:54.4</td>
+<td class="txt_right">1.4</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>9-9</td>
+<td>0.0-38.6</td>
+<td class="bml">38.9</td>
+<td>472(0)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021102041/">リッキームーン</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241226/">2024/12/26</a></td>
 <td><a href="/race/sum/50/20241226/">園田</a></td>
 <td>曇</td>

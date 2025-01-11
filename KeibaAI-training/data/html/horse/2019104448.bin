@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104448&no=43859&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2019104448&no=43486&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -729,7 +729,7 @@ get_horse_detail_note('2019104448', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05580/" title="田中守">田中守</a> (高知)</td>
+<td><a href="/trainer/05580/" title="田中守">田中守</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -756,16 +756,16 @@ get_horse_detail_note('2019104448', 'Horse_Note_Box');
 
 
 
-226万円 (中央) /412万円 (地方)
+226万円 (中央) /436万円 (地方)
 </td>
 </tr>
 <tr>
 <th>通算成績</th>
-<td>32戦4勝 [<a href="/horse/result/2019104448/" title="全競走成績">4-3-1-24</a>]</td>
+<td>33戦4勝 [<a href="/horse/result/2019104448/" title="全競走成績">4-4-1-24</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202454120110/" title="ウチワエビ特別">ウチワエビ特別</a><!--、<a href="/race/202235112009/" title=C1四組"">C1四組</a>--></td>
+<td><a href="/race/202451011811/" title="ＪＲＡ交流夢前川特別">ＪＲＡ交流夢前川特別</a><!--、<a href="/race/202454120110/" title=ウチワエビ特別"">ウチワエビ特別</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
@@ -975,6 +975,63 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250105/">2025/01/05</a></td>
+<td><a href="/race/sum/54/20250105/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">6</td>
+<td class=""><a href="/race/202554010506/" title="C2ー3">C2ー3</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010506" target="_blank" title="C2ー3の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">8</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3</td>
+<td class="txt_right">3.2</td>
+<td class="rank_2 txt_right">2</td>
+<td class="rank_2 txt_right">2</td>
+<td>
+<a href="/jockey/result/recent/05074/" title="赤岡修次">赤岡修次</a>
+
+</td>
+<td>54</td>
+<td>ダ1300</td>
+<td>良</td>
+
+<td class="bml txt_right">
+<div align="center">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p44" id="a_monthly_goods_link_01" data-theme="07002">**</a>
+</div>
+
+
+</td>
+<td class="txt_right">1:27.0</td>
+<td class="txt_right">0.2</td>
+<td class="bml txt_right">
+<div style="text-align:center;">
+<a href="https://regist.netkeiba.com/?pid=premium&service=p04" id="a_monthly_goods_link_02" data-theme="07003">**</a>
+</div>
+
+
+</td>
+<td>8-8-7-4</td>
+<td>0.0-41.5</td>
+<td class="rank_1">40.3</td>
+<td>463(-2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018103529/">ハイレリーフ</a></td>
+
+<td>24.5</td>
+</tr><tr>
 <td><a href="/race/list/20241229/">2024/12/29</a></td>
 <td><a href="/race/sum/54/20241229/">高知</a></td>
 <td>晴</td>

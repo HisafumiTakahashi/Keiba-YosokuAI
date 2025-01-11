@@ -2,8 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" id="html">
 <head>
 
-
-
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="content-type" content="text/html; charset=euc-jp" />
 <meta http-equiv="content-script-type" content="text/javascript" />
@@ -66,9 +64,6 @@ var _bbs_action_api_url     = 'https://bbs.netkeiba.com/';
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.bbs/common/js/bbs.action.js?2018053101"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.regist.sp//common/js/monthly_goods_link.js?2017080201"></script>
 
-
-
-
 <meta http-equiv="content-language" content="ja">
 <meta name="viewport" content="width=device-960px">
 <meta name="format-detection" content="telephone=no" />
@@ -98,10 +93,6 @@ var _bbs_action_api_url     = 'https://bbs.netkeiba.com/';
 <title>アールアンドビー (R and B) | 競走馬データ - netkeiba</title>
 
 
-
-
-
-
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/tab_change_jquer.js"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.select.js"></script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db/common/js/jquery.MetaData.js"></script>
@@ -113,34 +104,23 @@ var _bbs_action_api_url     = 'https://bbs.netkeiba.com/';
 
 
 
-
-
-
-
-
 <script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({article:'auto'});
-  !function (e, f, u, i) {
-    if (!document.getElementById(i)){
-      e.async = 1;
-      e.src = u;
-      e.id = i;
-      f.parentNode.insertBefore(e, f);
-    }
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  '//cdn.taboola.com/libtrc/netkeiba/loader.js',
-  'tb_loader_script');
-  if(window.performance && typeof window.performance.mark == 'function')
-    {window.performance.mark('tbl_ic');}
+window._taboola = window._taboola || [];
+_taboola.push({article:'auto'});
+!function (e, f, u, i) {
+if (!document.getElementById(i)){
+e.async = 1;
+e.src = u;
+e.id = i;
+f.parentNode.insertBefore(e, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/netkeiba/loader.js',
+'tb_loader_script');
+if(window.performance && typeof window.performance.mark == 'function')
+{window.performance.mark('tbl_ic');}
 </script>
-
-
-
-
-
-
 
 
 <!-- Google Tag Manager -->
@@ -159,16 +139,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 </head>
 <body class="db " id="horse_detail">
-
 <noscript>
 お客様のブラウザはジャバスクリプト（JavaScript）に対応していないか無効になっています。
 </noscript>
-
 <div id="page">
 
-    
-    
-    <link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/css/pc_header.css?20241114" type="text/css" media="screen" />
 <style>
 * {
 margin: 0;
@@ -354,11 +330,8 @@ $('.login_show').remove();
 }
 }
 </script>
-    
 
-    
-    
-    <div class="genre_menu fc">
+<div class="genre_menu fc">
 <ul>
 <li ><a href="/" title="競馬データTOP">競馬データTOP</a></li>
 <li class="active"><a href="/?pid=horse_top" title="競走馬">競走馬</a></li>
@@ -370,85 +343,72 @@ $('.login_show').remove();
 <li ><a href="/?pid=classic_index" title="クラシック">クラシック</a></li>
 </ul>
 </div><!-- /.genre_menu -->
-    
+<div id="contents" class="fc">
 
-
-  <div id="contents" class="fc">
-            
-            
-            <style>
-	.add_bnr{
-		margin:20px 0 10px;
-		text-align: center;
-	}
-	.add_bnr a{
-		display: inline-block;
-	}
+<style>
+.add_bnr{
+margin:20px 0 10px;
+text-align: center;
+}
+.add_bnr a{
+display: inline-block;
+}
 </style>
 <div class="add_bnr">
-		
-		
-			<script language="JavaScript" type="text/javascript">
-				noCacheParam=Math.random()*10000000000;document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=pc_nk_db_horse1st&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
-			</script>
-		
+
+<script language="JavaScript" type="text/javascript">
+noCacheParam=Math.random()*10000000000;document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=pc_nk_db_horse1st&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
+</script>
 </div>
 <div class="top_newinfo_box fc">
-
-	<dl>
-		<dd>
-			<div style="line-height: 1.8em;">
-				<a href="https://info.netkeiba.com/?pid=info_detail&id=1183" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_red_01.gif" border="0" style="display:inline"><span style="text-indent:4px">コミュニティ健全化に向けた取り組みについて</span></a>
-			</div>
-			<div style="line-height: 1.8em;">
-				<a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">いま競輪が熱い！ netkeirinで競輪を気軽に楽しもう</span></a>
-			</div>
-			<div style="line-height: 1.8em;">
-				<!-- <a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">なぞのテキストリンク1</span></a> -->
-				<!-- new_db_text1 ad start  -->
-				<script language="JavaScript" type="text/javascript">
-					noCacheParam=Math.random()*10000000000;
-					document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text1&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
-				</script><noscript><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" width="700" height="20" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text1&encoding=EUC-JP"></iframe></noscript>
-				<!-- new_db_text1 ad end  -->
-			</div>
-			<div style="line-height: 1.8em;">
-				<!-- <a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">なぞのテキストリンク2</span></a> -->
-				<!-- new_db_text2 ad start  -->
-				<script language="JavaScript" type="text/javascript">
-					noCacheParam=Math.random()*10000000000;
-					document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text2&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
-				</script><noscript><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" width="700" height="20" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text2&encoding=EUC-JP"></iframe></noscript>
-				<!-- new_db_text2 ad end  -->
-			</div>
-			<div style="line-height: 1.8em;">
-				<!-- <a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">なぞのテキストリンク3</span></a> -->
-				<!-- new_db_text3 ad start  -->
-				<script language="JavaScript" type="text/javascript">
-					noCacheParam=Math.random()*10000000000;
-					document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text3&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
-				</script>
-				<noscript><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" width="700" height="20" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text3&encoding=EUC-JP"></iframe></noscript>
-				<!-- new_db_text3 ad end  -->
-			</div>
-		</dd>
-
-		<!--
-		<dd style="float:right"><a href="http://www.tabirism.co.jp/overseas-tour/0006/" target="_blank"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/banner_overseatour_380_59.png" alt="日本競馬の悲願を現地で！凱旋門賞ツアー" /></a></dd>
-		-->
-		<!--dd style="float:right"><a href="http://www.netkeiba.com/recruit/entry/entry_detail_FE.html?rf=db_info" target="_blank"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/recruit_FE380-59_01.png" alt="netkeiba.com 人材募集中！" /></a></dd-->
-
-	</dl>
+<dl>
+<dd>
+<div style="line-height: 1.8em;">
+<a href="https://info.netkeiba.com/?pid=info_detail&id=1183" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_red_01.gif" border="0" style="display:inline"><span style="text-indent:4px">コミュニティ健全化に向けた取り組みについて</span></a>
 </div>
+<div style="line-height: 1.8em;">
+<a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">いま競輪が熱い！ netkeirinで競輪を気軽に楽しもう</span></a>
+</div>
+<div style="line-height: 1.8em;">
+<!-- <a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">なぞのテキストリンク1</span></a> -->
+<!-- new_db_text1 ad start  -->
+<script language="JavaScript" type="text/javascript">
+noCacheParam=Math.random()*10000000000;
+document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text1&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
+</script><noscript><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" width="700" height="20" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text1&encoding=EUC-JP"></iframe></noscript>
+<!-- new_db_text1 ad end  -->
+</div>
+<div style="line-height: 1.8em;">
+<!-- <a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">なぞのテキストリンク2</span></a> -->
+<!-- new_db_text2 ad start  -->
+<script language="JavaScript" type="text/javascript">
+noCacheParam=Math.random()*10000000000;
+document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text2&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
+</script><noscript><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" width="700" height="20" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text2&encoding=EUC-JP"></iframe></noscript>
+<!-- new_db_text2 ad end  -->
+</div>
+<div style="line-height: 1.8em;">
+<!-- <a href="//keirin.netkeiba.com/?rf=nk_pc_dbhorse" target="_blank" title="netkeirin"><img src="https://cdn.netkeiba.com/img.db/common/image/mark_arrow_blue_01.gif" border="0" style="display:inline"><span style="text-indent:4px">なぞのテキストリンク3</span></a> -->
+<!-- new_db_text3 ad start  -->
+<script language="JavaScript" type="text/javascript">
+noCacheParam=Math.random()*10000000000;
+document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text3&isJS=true&encoding=EUC-JP&ord=' + noCacheParam + '"></scr'+'ipt>');
+</script>
+<noscript><iframe marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" width="700" height="20" src="https://netdreamersad.durasite.net/A-affiliate2/mobile?site=23&keyword=new_db_text3&encoding=EUC-JP"></iframe></noscript>
+<!-- new_db_text3 ad end  -->
+</div>
+</dd>
+<!--
+<dd style="float:right"><a href="http://www.tabirism.co.jp/overseas-tour/0006/" target="_blank"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/banner_overseatour_380_59.png" alt="日本競馬の悲願を現地で！凱旋門賞ツアー" /></a></dd>
+-->
+<!--dd style="float:right"><a href="http://www.netkeiba.com/recruit/entry/entry_detail_FE.html?rf=db_info" target="_blank"><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/recruit_FE380-59_01.png" alt="netkeiba.com 人材募集中！" /></a></dd-->
+</dl>
+</div>
+<div id="db_main_box" class="fc">
+<div class="db_head fc">
+<div class="db_head_name fc">
 
-            
-
-    <div id="db_main_box" class="fc">
-      <div class="db_head fc">
-        <div class="db_head_name fc">
-          
-          
-          <div class="horse_title">
+<div class="horse_title">
 <h1><!--  □地 -->アールアンドビー</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2021104862/" style="color:#FFF;">R and B</a>
@@ -458,11 +418,8 @@ $('.login_show').remove();
 </p>
 <p class="txt_01">　牡　青鹿毛 </p>
 </div><!-- /.horse_title" -->
-          
 
-          
-          
-          <div class="HorseRegist_BtnBox fc">
+<div class="HorseRegist_BtnBox fc">
 <!-- social api_community_show_horse_bookmark_link -->
 <div class="ShereBtn"><a href=""><img src="https://cdn.netkeiba.com/img.db/style/netkeiba.ja/image/db_head_btn_bg_01_shere.png" alt="" />共有</a></div>
 <span id="HorseBookmarkLink"></span>
@@ -576,12 +533,9 @@ event.preventDefault();
 });
 });
 </script>
-          
-        </div><!-- /.db_head_name -->
+</div><!-- /.db_head_name -->
 
-        
-        
-        <div class="db_head_regist fc">
+<div class="db_head_regist fc">
 <ul class="db_detail_menu">
 <li>
 </li>
@@ -631,385 +585,310 @@ event.preventDefault();
 </li>
 </ul>
 </div><!-- /.db_head_regist -->
-        
-      </div><!-- /.db_head -->
+</div><!-- /.db_head -->
+<div class="db_main_deta">
+<div class="db_prof fc">
+<div class="db_prof_area_01">
 
-      <div class="db_main_deta">
-        <div class="db_prof fc">
-          <div class="db_prof_area_01">
-
-            
-            
-            <script language="javascript">
- function changeHorseMainPhoto( Id )
- {
-     document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&tn=yes&tmp=no&no=" + Id );
- }
+<script language="javascript">
+function changeHorseMainPhoto( Id )
+{
+document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&tn=yes&tmp=no&no=" + Id );
+}
 </script>
-
 <div class="db_photo_box fc">
-    
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=19799&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
-    
-    <img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=396&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
-    
-    
-    
-    <div class="Slid_List Photo_Slid">
-	<ul id="Horse_Photo_Slide">
-	    
-	    <li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=50795&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50795 );"/></a></li>
-	    
-	    <li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=19799&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 19799 );"/></a></li>
-	    
-	    <li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=396&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 396 );"/></a></li>
-	    
-	    <li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=342&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 342 );"/></a></li>
-	    
-	    <li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=270&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 270 );"/></a></li>
-	    
-	</ul>
-    </div><!-- /.Slid_List Photo_Slid -->
-    
-    
-    <p class="detail_link"><a href="https://db.netkeiba.com/v1.1//?pid=horse_photo&id=2021104862" title="写真一覧">写真一覧</a> / <a href="https://uploaddb.netkeiba.com/v1.1//?pid=horse_upload_photo&id=2021104862" title="写真投稿" id="photo_post">写真投稿</a></p>
+<div class="Slid_List Photo_Slid">
+<ul id="Horse_Photo_Slide">
+<li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=50795&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 50795 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=19799&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 19799 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=396&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 396 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=342&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 342 );"/></a></li><li><a href="javascript:void(0);"><img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021104862&no=270&tn=yes&tmp=no" width="64" height="45"style="object-fit: contain; background-color: #f5f5f5" onClick="javascript:changeHorseMainPhoto( 270 );"/></a></li>
+</ul>
+</div><!-- /.Slid_List Photo_Slid -->
+
+<p class="detail_link"><a href="https://db.netkeiba.com/v1.1//?pid=horse_photo&id=2021104862" title="写真一覧">写真一覧</a> / <a href="https://uploaddb.netkeiba.com/v1.1//?pid=horse_upload_photo&id=2021104862" title="写真投稿" id="photo_post">写真投稿</a></p>
 </div>
 <script>
- $('#Horse_Photo_Slide').slick({
-     slidesToShow: 3,
-     slidesToScroll: 1,
-     variableWidth: true,
-     prevArrow: '<p class="prev"><a id="prev2" href="javascript:void(0);"><span>&laquo;</span></a></p>',
-     nextArrow: '<p class="next"><a id="next2" href="javascript:void(0);"><span>&raquo;</span></a></p>'
- });
+$('#Horse_Photo_Slide').slick({
+slidesToShow: 3,
+slidesToScroll: 1,
+variableWidth: true,
+prevArrow: '<p class="prev"><a id="prev2" href="javascript:void(0);"><span>&laquo;</span></a></p>',
+nextArrow: '<p class="next"><a id="next2" href="javascript:void(0);"><span>&raquo;</span></a></p>'
+});
 </script>
 <script type="text/javascript" src="https://cdn.netkeiba.com/img.db.sp/common/js/jquery.colorbox.js?20180321"></script>
 <link rel="stylesheet" href="https://cdn.netkeiba.com/img.db.sp/common/css/sp/colorbox.css?20180321" type="text/css" media="screen">
 <script type="text/javascript">
- $(function(){
-     var is_sms_auth = 0; //sms認証
-     // sms認証
-     $('#photo_post').focusin(function(e) {
-         if (is_sms_auth) return;
-         e.preventDefault();
-         var _data = {
-             pid : 'api_check_sms_auth_status',
-             input : 'UTF-8',
-             output : 'jsonp',
-         };
-         $.ajax({
-             type : 'GET',
-             url : 'https://regist.sp.netkeiba.com',
-             data : _data,
-             dataType : _data.output,
-             success : function(data){
-                 console.log(data);
-                 if (data.status=="OK") {
-                     if (!data.value) {
-                         $.colorbox({
-                             href:"https://regist.sp.netkeiba.com/?pid=post_sms_request",
-                             iframe:true,
-                             width: "94%",
-                             height:"90%",
-                             maxWidth:"360px",
-                             maxHeight:"480px",
-                             opacity: 0.7,
-                             scrolling: true,
-                             onOpen: function(){
-                                 $('#colorbox').addClass('sms_box');
-                             },
-                             onClosed: function(){
-                             }
-                         });
-                     } else {
-                         is_sms_auth = 1;
-                     }
-                 }
-             }
-         });
-     });
- });
+$(function(){
+var is_sms_auth = 0; //sms認証
+// sms認証
+$('#photo_post').focusin(function(e) {
+if (is_sms_auth) return;
+e.preventDefault();
+var _data = {
+pid : 'api_check_sms_auth_status',
+input : 'UTF-8',
+output : 'jsonp',
+};
+$.ajax({
+type : 'GET',
+url : 'https://regist.sp.netkeiba.com',
+data : _data,
+dataType : _data.output,
+success : function(data){
+console.log(data);
+if (data.status=="OK") {
+if (!data.value) {
+$.colorbox({
+href:"https://regist.sp.netkeiba.com/?pid=post_sms_request",
+iframe:true,
+width: "94%",
+height:"90%",
+maxWidth:"360px",
+maxHeight:"480px",
+opacity: 0.7,
+scrolling: true,
+onOpen: function(){
+$('#colorbox').addClass('sms_box');
+},
+onClosed: function(){
+}
+});
+} else {
+is_sms_auth = 1;
+}
+}
+}
+});
+});
+});
 </script>
-
-            
-
-            
-            
 <span id="horse_aptitude_box"></span>
 <script>
- "use strict"
- // $Id: get_horse_aptitude_box.html 154 2024-11-18 04:26:09Z ysimizu $
- $(function(){
-     let horse_id;
-     const query = window.location.search.split('#')[0].split('?')[1];
-     if(undefined !== query){
-	 const params = query.split('&');
-	 for(let i=0; i < params.length; i++){
-	     const val = params[i].split('=');
-	     if('id' == val[0]){
-		 horse_id = val[1];
-	     }
-	 }
-     }
-     if(undefined == horse_id){
-	 const path = window.location.pathname.split('/');
-	 for(let i=0; i < path.length; i++){
-	     if('horse' == path[i] && ! path[i+1].match(/\.html/)){
-		 horse_id = path[i+1];
-	     }
-	 }
-     }
-     $.get('https://db.netkeiba.com/social/ajax_horse_aptitude.html',
-	   {
-	       input: 'UTF-8',
-	       output: 'json',
-	       id: horse_id,
-	   },
-	   function(data){
-	       if('OK' == data.status){
-		   $('#horse_aptitude_box').html(data.data);
-	       }
-	   });
- });
+"use strict"
+// $Id: get_horse_aptitude_box.html 154 2024-11-18 04:26:09Z ysimizu $
+$(function(){
+let horse_id;
+const query = window.location.search.split('#')[0].split('?')[1];
+if(undefined !== query){
+const params = query.split('&');
+for(let i=0; i < params.length; i++){
+const val = params[i].split('=');
+if('id' == val[0]){
+horse_id = val[1];
+}
+}
+}
+if(undefined == horse_id){
+const path = window.location.pathname.split('/');
+for(let i=0; i < path.length; i++){
+if('horse' == path[i] && ! path[i+1].match(/\.html/)){
+horse_id = path[i+1];
+}
+}
+}
+$.get('https://db.netkeiba.com/social/ajax_horse_aptitude.html',
+{
+input: 'UTF-8',
+output: 'json',
+id: horse_id,
+},
+function(data){
+if('OK' == data.status){
+$('#horse_aptitude_box').html(data.data);
+}
+});
+});
 </script>
-
-            
-
-            <span id="Horse_Note_Box"></span>
-            
-            
+<span id="Horse_Note_Box"></span>
 <script>
 function get_horse_detail_note(_id, _show_id)
 {
-    var _data = {};
-    _data.input    = 'UTF-8';
-    _data.output   = 'jsonp';
-    _data.id  = _id;
-    $.ajax( { type     : 'GET',
-        url      : 'https://db.netkeiba.com/horse/ajax_horse_detail_note.html',
-        data     : _data,
-        dataType : _data.output,
-        success  : function( elm ){
-            console.log(elm);
-            $('#'+_show_id).after(elm);
-        },
-        complete : function (){}
-    });
+var _data = {};
+_data.input    = 'UTF-8';
+_data.output   = 'jsonp';
+_data.id  = _id;
+$.ajax( { type     : 'GET',
+url      : 'https://db.netkeiba.com/horse/ajax_horse_detail_note.html',
+data     : _data,
+dataType : _data.output,
+success  : function( elm ){
+console.log(elm);
+$('#'+_show_id).after(elm);
+},
+complete : function (){}
+});
 }
 </script>
+<script type="text/javascript">
+$(function(){
+get_horse_detail_note('2021104862', 'Horse_Note_Box');
+});
+</script>
+</div><!-- /.db_prof_area_01" -->
+<div class="db_prof_area_02">
 
-            
-            <script type="text/javascript">
-            $(function(){
-                get_horse_detail_note('2021104862', 'Horse_Note_Box');
-            });
-            </script>
+<table summary="のプロフィール" class="db_prof_table ">
+<tr>
+<th>生年月日</th>
+<td>2021年2月2日</td>
+</tr>
+<tr>
+<th>調教師</th>
+<td><a href="/trainer/05242/" title="角田輝也">角田輝也</a> (愛知)</td>
+</tr>
+<tr>
+<th>馬主</th>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/226800.gif" alt="サンデーレーシング" class="OwnerColours"><a href="/owner/226800/" title="サンデーレーシング">サンデーレーシング</a></td>
+</tr>
+<tr id="owner_info_tr">
+<th>募集情報</th>
+<td id="owner_info_td">
 
-          </div><!-- /.db_prof_area_01" -->
-
-          <div class="db_prof_area_02">
-            
-            
-            <table summary="のプロフィール" class="db_prof_table ">
-	<tr>
-		<th>生年月日</th>
-		<td>2021年2月2日</td>
-	</tr>
-	<tr>
-		<th>調教師</th>
-		<td><a href="/trainer/05242/" title="角田輝也">角田輝也</a> (愛知)</td>
-	</tr>
-	<tr>
-		<th>馬主</th>
-		<td><img src="https://cdn.netkeiba.com/img//db/colours/226800.gif" alt="サンデーレーシング" class="OwnerColours"><a href="/owner/226800/" title="サンデーレーシング">サンデーレーシング</a></td>
-	</tr>
-  
-  <tr id="owner_info_tr">
-      <th>募集情報</th>
-      <td id="owner_info_td">
-        
-        
-        <a href="https://owner.netkeiba.com/?pid=horse_profile&id=2021104862" class="OwnerUnitPrice">1口:150万円/<span>40口</span></a>
-        
-      </td>
-  </tr>
-  
-	<tr>
-		<th>生産者</th>
-		<td><a href="/breeder/341126/" title="社台コーポレーション白老ファーム">社台コーポレーション白老ファーム</a></td>
-	</tr>
-	<tr>
-		<th>産地</th>
-		<td>白老町</td>
-	</tr>
-	<tr>
-		<th>セリ取引価格</th>
-		<td>
-        -
-    </td>
-	</tr>
-	<tr>
-		<th>獲得賞金</th>
-		<td>
-
+<a href="https://owner.netkeiba.com/?pid=horse_profile&id=2021104862" class="OwnerUnitPrice">1口:150万円/<span>40口</span></a>
+</td>
+</tr>
+<tr>
+<th>生産者</th>
+<td><a href="/breeder/341126/" title="社台コーポレーション白老ファーム">社台コーポレーション白老ファーム</a></td>
+</tr>
+<tr>
+<th>産地</th>
+<td>白老町</td>
+</tr>
+<tr>
+<th>セリ取引価格</th>
+<td>
+-
+</td>
+</tr>
+<tr>
+<th>獲得賞金</th>
+<td>
 
 
 
 83万円 (中央) /107万円 (地方)
-
 </td>
-	</tr>
-	<tr>
-		<th>通算成績</th>
-		<td>5戦2勝 [<a href="/horse/result/2021104862/" title="全競走成績">2-0-0-3</a>]</td>
-	</tr>
-	<tr>
-		<th>主な勝鞍</th>
-		<td><a href="/race/202448112101/" title="C21組">C21組</a><!--、<a href="/race/202448122007/" title=C15組"">C15組</a>--></td>
-	</tr>
-	<tr>
-		<th>近親馬</th>
-		<td><a href="/horse/2020102660/" title="シングザットソング">シングザットソング</a>、<a href="/horse/2018105506/" title="スーパーフェイバー">スーパーフェイバー</a></td>
-	</tr>
+</tr>
+<tr>
+<th>通算成績</th>
+<td>5戦2勝 [<a href="/horse/result/2021104862/" title="全競走成績">2-0-0-3</a>]</td>
+</tr>
+<tr>
+<th>主な勝鞍</th>
+<td><a href="/race/202448112101/" title="C21組">C21組</a><!--、<a href="/race/202448122007/" title=C15組"">C15組</a>--></td>
+</tr>
+<tr>
+<th>近親馬</th>
+<td><a href="/horse/2020102660/" title="シングザットソング">シングザットソング</a>、<a href="/horse/2018105506/" title="スーパーフェイバー">スーパーフェイバー</a></td>
+</tr>
 </table>
 
-            
-
-            
-            
-            <div class="db_prof_box">
-	<dl class="fc">
-		<dt class="DB_ProfHead_dt_01">
-			<div class="fc">
-			<p class="db_prof_top_padigree_title png_bg">血統</p>
-			<p class="detail_link"><a href="/horse/ped/2021104862/" title="アールアンドビーの血統詳細">血統詳細・兄弟馬</a></p>
-			</div>
-		</dt>
-		<dd class="DB_ProfHead_dd_01">
-			<table cellpadding="0" cellspacing="0" summary="アールアンドビーの血統表" class="blood_table">
-				<tr>
-					<td rowspan="2" class="b_ml">
-						
-						  	<a href="/horse/ped/2010105827/" title="キズナ">キズナ</a>
-						  	
-					</td>
-					<td class="b_ml">
-						
-						<a href="/horse/ped/2002100816/">ディープインパクト</a>
-						
-					</td>
-				</tr>
-				<tr>
-					<td class="b_fml">
-						
-						<a href="/horse/ped/000a00646f/">キャットクイル</a>
-						
-					</td>
-				</tr>
-				<tr>
-					<td rowspan="2" class="b_fml">
-						
-						<a href="/horse/ped/000a013cf1/">ザガールインザットソング</a>
-						
-					</td>
-					<td class="b_ml">
-						
-						<a href="/horse/ped/000a013be7/">My Golden Song</a>
-						
-					</td>
-				</tr>
-				<tr>
-					<td class="b_fml">
-						
-						<a href="/horse/ped/000a013ce7/">Belle of the Band</a>
-						
-					</td>
-				</tr>
-			</table>
-		</dd>
-	</dl>
-	<!--<p class="detail_link"><a href="/horse/ped/2021104862/" title="アールアンドビーの血統詳細">血統詳細・兄弟馬</a></p>-->
+<div class="db_prof_box">
+<dl class="fc">
+<dt class="DB_ProfHead_dt_01">
+<div class="fc">
+<p class="db_prof_top_padigree_title png_bg">血統</p>
+<p class="detail_link"><a href="/horse/ped/2021104862/" title="アールアンドビーの血統詳細">血統詳細・兄弟馬</a></p>
 </div>
+</dt>
+<dd class="DB_ProfHead_dd_01">
+<table cellpadding="0" cellspacing="0" summary="アールアンドビーの血統表" class="blood_table">
+<tr>
+<td rowspan="2" class="b_ml">
+<a href="/horse/ped/2010105827/" title="キズナ">キズナ</a>
+</td>
+<td class="b_ml">
+<a href="/horse/ped/2002100816/">ディープインパクト</a>
+</td>
+</tr>
+<tr>
+<td class="b_fml">
+<a href="/horse/ped/000a00646f/">キャットクイル</a>
+</td>
+</tr>
+<tr>
+<td rowspan="2" class="b_fml">
+<a href="/horse/ped/000a013cf1/">ザガールインザットソング</a>
+</td>
+<td class="b_ml">
+<a href="/horse/ped/000a013be7/">My Golden Song</a>
+</td>
+</tr>
+<tr>
+<td class="b_fml">
+<a href="/horse/ped/000a013ce7/">Belle of the Band</a>
+</td>
+</tr>
+</table>
+</dd>
+</dl>
+<!--<p class="detail_link"><a href="/horse/ped/2021104862/" title="アールアンドビーの血統詳細">血統詳細・兄弟馬</a></p>-->
+</div>
+</div><!-- /.db_prof_area_02" -->
+<div class="db_prof_box db_prof_area_03 fc">
 
-            
-          </div><!-- /.db_prof_area_02" -->
-
-          <div class="db_prof_box db_prof_area_03 fc">
-
-            
-            
-            <!-- 掲示板ダイジェスト -->
+<!-- 掲示板ダイジェスト -->
 <!-- bbs api_get_comment_list_simple -->
 <dl class="db_prof_bbs fc">
-  <dt class="DB_ProfHead_dt_01">
-    <div class="fc">
-    <p class="db_prof_top_bbs_title png_bg">掲示板 (<a href="https://db.netkeiba.com/?pid=horse_board&id=2021104862"><strong><span id="Comment_Count"></span></strong></a>件)</p>
-    <p class="db_prof_top_bbs_btn">
-      <a href="https://regist.netkeiba.com/account/?pid=login" title="投稿する" class="post"><span>投稿する</span></a>
-    </p>
-    </div>
-  </dt>
-  <div id="Comment_List_Simple"></div>
+<dt class="DB_ProfHead_dt_01">
+<div class="fc">
+<p class="db_prof_top_bbs_title png_bg">掲示板 (<a href="https://db.netkeiba.com/?pid=horse_board&id=2021104862"><strong><span id="Comment_Count"></span></strong></a>件)</p>
+<p class="db_prof_top_bbs_btn">
+<a href="https://regist.netkeiba.com/account/?pid=login" title="投稿する" class="post"><span>投稿する</span></a>
+</p>
+</div>
+</dt>
+<div id="Comment_List_Simple"></div>
 </dl>
 <script type="text/javascript">
 <!--
 $( document ).ready( function() {
-  showTotalCount( 'Comment_Count', '2021104862', 'horse' );
-  showCommentListSimple( 'Comment_List_Simple', 1, '2021104862', 'https://db.netkeiba.com/?pid=horse_board&id=2021104862', 20, 3, 'horse' );
+showTotalCount( 'Comment_Count', '2021104862', 'horse' );
+showCommentListSimple( 'Comment_List_Simple', 1, '2021104862', 'https://db.netkeiba.com/?pid=horse_board&id=2021104862', 20, 3, 'horse' );
 } );
 // -->
 </script>
-
-            
-
-              
-              
 <div id="HorseInfo" class="Loader"></div>
 <script>
- $(function(){
-     let horse_id;
-     const query = window.location.search.split('#')[0].split('?')[1];
-     if(undefined !== query){
-	 const params = query.split('&');
-	 for(let i=0; i < params.length; i++){
-	     const val = params[i].split('=');
-	     if('id' == val[0]){
-		 horse_id = val[1];
-	     }
-	 }
-     }
-     if(undefined == horse_id){
-	 const path = window.location.pathname.split('/');
-	 for(let i=0; i < path.length; i++){
-	     if('horse' == path[i] && ! path[i+1].match(/\.html/)){
-		 horse_id = path[i+1];
-	     }
-	 }
-     }
-     $.get('https://db.netkeiba.com/social/api_db_horse_info_simple.html',
-	   {
-	       input: 'UTF-8',
-	       output: 'json',
-	       id: horse_id,
-	   },
-	   function(html){
-	       $('#HorseInfo').html(html);
-	   });
- });
+$(function(){
+let horse_id;
+const query = window.location.search.split('#')[0].split('?')[1];
+if(undefined !== query){
+const params = query.split('&');
+for(let i=0; i < params.length; i++){
+const val = params[i].split('=');
+if('id' == val[0]){
+horse_id = val[1];
+}
+}
+}
+if(undefined == horse_id){
+const path = window.location.pathname.split('/');
+for(let i=0; i < path.length; i++){
+if('horse' == path[i] && ! path[i+1].match(/\.html/)){
+horse_id = path[i+1];
+}
+}
+}
+$.get('https://db.netkeiba.com/social/api_db_horse_info_simple.html',
+{
+input: 'UTF-8',
+output: 'json',
+id: horse_id,
+},
+function(html){
+$('#HorseInfo').html(html);
+});
+});
 </script>
+</div><!-- /.db_prof_area_03 -->
+</div><!-- /.db_prof -->
+</div><!-- /.db_main_deta -->
+</div><!-- /#db_main_box -->
 
-              
 
-          </div><!-- /.db_prof_area_03 -->
-        </div><!-- /.db_prof -->
-
-      </div><!-- /.db_main_deta -->
-
-    </div><!-- /#db_main_box -->
-
-    
-    
-    
 <div class="mb30">
 <!-- Geniee Wrapper Body Tag 1491448 -->
 <div data-cptid="1491448">
@@ -1023,59 +902,49 @@ gnshbrequest.applyPassback("1491448", "[data-cptid='1491448']");
 </div>
 
 
-    
-
-    
-    
 <span id="horse_award_box"></span>
 <script>
- "use strict"
- // $Id: get_horse_award_box.html 155 2024-11-18 04:59:04Z ysimizu $
- $(function(){
-     let horse_id;
-     const query = window.location.search.split('#')[0].split('?')[1];
-     if(undefined !== query){
-	 const params = query.split('&');
-	 for(let i=0; i < params.length; i++){
-	     const val = params[i].split('=');
-	     if('id' == val[0]){
-		 horse_id = val[1];
-	     }
-	 }
-     }
-     if(undefined == horse_id){
-	 const path = window.location.pathname.split('/');
-	 for(let i=0; i < path.length; i++){
-	     if('horse' == path[i] && ! path[i+1].match(/\.html/)){
-		 horse_id = path[i+1];
-	     }
-	 }
-     }
-     $.get('https://db.netkeiba.com/horse/ajax_horse_award.html',
-	   {
-	       input: 'UTF-8',
-	       output: 'json',
-	       id: horse_id,
-	   },
-	   function(data){
-	       if('OK' == data.status){
-		   $('#horse_award_box').html(data.data);
-	       }
-	   });
- });
+"use strict"
+// $Id: get_horse_award_box.html 155 2024-11-18 04:59:04Z ysimizu $
+$(function(){
+let horse_id;
+const query = window.location.search.split('#')[0].split('?')[1];
+if(undefined !== query){
+const params = query.split('&');
+for(let i=0; i < params.length; i++){
+const val = params[i].split('=');
+if('id' == val[0]){
+horse_id = val[1];
+}
+}
+}
+if(undefined == horse_id){
+const path = window.location.pathname.split('/');
+for(let i=0; i < path.length; i++){
+if('horse' == path[i] && ! path[i+1].match(/\.html/)){
+horse_id = path[i+1];
+}
+}
+}
+$.get('https://db.netkeiba.com/horse/ajax_horse_award.html',
+{
+input: 'UTF-8',
+output: 'json',
+id: horse_id,
+},
+function(data){
+if('OK' == data.status){
+$('#horse_award_box').html(data.data);
+}
+});
+});
 </script>
 
-    
 
-    
-    
+<div class="db_main_race fc">
+<div class="db_main_deta">
 
-    <div class="db_main_race fc">
-      <div class="db_main_deta">
-
-        
-        
-        <div class="cate_bar">
+<div class="cate_bar">
 <h2>アールアンドビーの競走成績</h2>
 <div class="sp_info_box_01 fc">
 <p class="fc">スマホでもこの馬のデータをチェック！</p>
@@ -1520,153 +1389,121 @@ location.reload();
 }
 });
 </script>
-        
+</div><!-- /.db_main_deta -->
+</div><!-- / .db_main_race -->
+<div id="main">
+<div class="relation_box no_boder fc">
 
-      </div><!-- /.db_main_deta -->
-    </div><!-- / .db_main_race -->
-
-
-    <div id="main">
-
-        <div class="relation_box no_boder fc">
-	    
-	    
-	    
 <span id="paddock_movie_box"></span>
 <script>
- $(function(){
-     const block_name = 'horse_paddock_movie_top';
-     const horse_id = '2021104862';
-     $.get('https://db.netkeiba.com/horse/ajax_paddock_movie.html',
-	   {
-	       input: 'UTF-8',
-	       output: 'json',
-	       block_name: block_name,
-	       id: horse_id
-	   },
-	   function(data){
-	       if('OK' == data.status){
-		   $('#paddock_movie_box').html(data.data);
-	       }
-	   });
- });
+$(function(){
+const block_name = 'horse_paddock_movie_top';
+const horse_id = '2021104862';
+$.get('https://db.netkeiba.com/horse/ajax_paddock_movie.html',
+{
+input: 'UTF-8',
+output: 'json',
+block_name: block_name,
+id: horse_id
+},
+function(data){
+if('OK' == data.status){
+$('#paddock_movie_box').html(data.data);
+}
+});
+});
 </script>
+</div><!-- /.relation_box -->
+<div class="relation_box no_boder fc">
 
-	    
-        </div><!-- /.relation_box -->
 
-        <div class="relation_box no_boder fc">
-            
-            
-            
-
-            
-        </div><!-- /.relation_box -->
-
-        
-        
+</div><!-- /.relation_box -->
 <div id="o-horse_breeding_box" class="Loader"></div>
 <script>
- $(function(){
-     let horse_id;
-     const query = window.location.search.split('#')[0].split('?')[1];
-     if(undefined !== query){
-	 const params = query.split('&');
-	 for(let i=0; i < params.length; i++){
-	     const val = params[i].split('=');
-	     if('id' == val[0]){
-		 horse_id = val[1];
-	     }
-	 }
-     }
-     if(undefined == horse_id){
-	 const path = window.location.pathname.split('/');
-	 for(let i=0; i < path.length; i++){
-	     if('horse' == path[i] && ! path[i+1].match(/\.html/)){
-		 horse_id = path[i+1];
-	     }
-	 }
-     }
-     $.get('https://db.netkeiba.com/horse/ajax_horse_breeding.html',
-	   {
-	       input: 'UTF-8',
-	       output: 'json',
-	       id: horse_id,
-	   },
-	   function(data){
-	       if('OK' == data.status){
-		   $('#o-horse_breeding_box').html(data.data);
-	       }
-	   });
- });
+$(function(){
+let horse_id;
+const query = window.location.search.split('#')[0].split('?')[1];
+if(undefined !== query){
+const params = query.split('&');
+for(let i=0; i < params.length; i++){
+const val = params[i].split('=');
+if('id' == val[0]){
+horse_id = val[1];
+}
+}
+}
+if(undefined == horse_id){
+const path = window.location.pathname.split('/');
+for(let i=0; i < path.length; i++){
+if('horse' == path[i] && ! path[i+1].match(/\.html/)){
+horse_id = path[i+1];
+}
+}
+}
+$.get('https://db.netkeiba.com/horse/ajax_horse_breeding.html',
+{
+input: 'UTF-8',
+output: 'json',
+id: horse_id,
+},
+function(data){
+if('OK' == data.status){
+$('#o-horse_breeding_box').html(data.data);
+}
+});
+});
 </script>
-
-        
-        <div class="relation_box no_boder fc">
-          <div class="db_h_column_box">
-              
-	      
+<div class="relation_box no_boder fc">
+<div class="db_h_column_box">
 <span id="relation_movie"></span>
 <script>
- $(function(){
-     let horse_id;
-     const query = window.location.search.split('#')[0].split('?')[1];
-     if(undefined !== query){
-	 const params = query.split('&');
-	 for(let i=0; i < params.length; i++){
-	     const val = params[i].split('=');
-	     if('id' == val[0]){
-		 horse_id = val[1];
-	     }
-	 }
-     }
-     if(undefined == horse_id){
-	 const path = window.location.pathname.split('/');
-	 for(let i=0; i < path.length; i++){
-	     if('horse' == path[i] && ! path[i+1].match(/\.html/)){
-		 horse_id = path[i+1];
-	     }
-	 }
-     }
-     $.get('https://db.netkeiba.com/horse/ajax_relation_movie.html',
-	   {
-	       input: 'UTF-8',
-	       output: 'json',
-	       id: horse_id,
-	   },
-	   function(data){
-	       if('OK' == data.status){
-		   $('#relation_movie').html(data.data);
-	       }
-	   });
- });
+$(function(){
+let horse_id;
+const query = window.location.search.split('#')[0].split('?')[1];
+if(undefined !== query){
+const params = query.split('&');
+for(let i=0; i < params.length; i++){
+const val = params[i].split('=');
+if('id' == val[0]){
+horse_id = val[1];
+}
+}
+}
+if(undefined == horse_id){
+const path = window.location.pathname.split('/');
+for(let i=0; i < path.length; i++){
+if('horse' == path[i] && ! path[i+1].match(/\.html/)){
+horse_id = path[i+1];
+}
+}
+}
+$.get('https://db.netkeiba.com/horse/ajax_relation_movie.html',
+{
+input: 'UTF-8',
+output: 'json',
+id: horse_id,
+},
+function(data){
+if('OK' == data.status){
+$('#relation_movie').html(data.data);
+}
+});
+});
 </script>
+</div><!-- /.db_h_column_box -->
+</div><!-- /.relation_box -->
+<div class="db_h_rank_box fc">
 
-	      
-          </div><!-- /.db_h_column_box -->
-        </div><!-- /.relation_box -->
-  
-        <div class="db_h_rank_box fc">
-
-            
-            
-            <div class="db_h_rank_box_head">
-    <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/db_det_h_03_03.png" alt="" class="icon" />
-    <h2>みんなのアールアンドビー評価 (評価：<a href="/?pid=horse_reviewer_list&id=2021104862" title="みんなのアールアンドビー評価">0</a>件)</h2>
+<div class="db_h_rank_box_head">
+<img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/db_det_h_03_03.png" alt="" class="icon" />
+<h2>みんなのアールアンドビー評価 (評価：<a href="/?pid=horse_reviewer_list&id=2021104862" title="みんなのアールアンドビー評価">0</a>件)</h2>
 </div><!-- /.db_h_rank_box_head -->
 
-
 <p class="no_review_data">皆さまからのレビュー評価をお待ちしております！</p>
+</div><!-- /.db_h_rank_box -->
+<div class="relation_box fc">
 
 
-            
-
-            </div><!-- /.db_h_rank_box -->
-      <div class="relation_box fc">
-
-        
-        
-        
 <div id="taboola-below-article-thumbnails"></div>
 <script type="text/javascript">
 window._taboola = window._taboola || [];
@@ -1678,12 +1515,9 @@ target_type: 'mix'
 });
 </script>
 
-        
+<div class="db_h_news_box">
 
-        <div class="db_h_news_box">
-          
-          
-          <script language="JavaScript">
+<script language="JavaScript">
 <!--
 function tab_select( active_tab, passive_tab )
 {
@@ -1726,16 +1560,12 @@ showNetkeibaUserNewsSearch( "HorseSocialNews", "アールアンドビー", 5, 1, "", "",
 // -->
 </script>
 </div>
-          
-        </div><!-- /.db_h_news_box -->
+</div><!-- /.db_h_news_box -->
+</div><!-- /.relation_box -->
+<div class="relation_box fc">
+<div class="db_h_column_box">
 
-      </div><!-- /.relation_box -->
-
-      <div class="relation_box fc">
-        <div class="db_h_column_box">
-          
-          
-          <script language="JavaScript">
+<script language="JavaScript">
 <!--
 function tab_select( active_tab, passive_tab )
 {
@@ -1781,13 +1611,10 @@ showNetkeibaUserColumnSearch( "HorseSocialColumn", "アールアンドビー", 5, 1, "",
 // -->
 </script>
 </div>
-          
-        </div><!-- /.db_h_column_box -->
-      </div><!-- /.relation_box -->
+</div><!-- /.db_h_column_box -->
+</div><!-- /.relation_box -->
 
-        
-        
-        
+
 
 <div class="mb30">
 <!-- Geniee Wrapper Body Tag 1492793 -->
@@ -1801,16 +1628,11 @@ gnshbrequest.applyPassback("1492793", "[data-cptid='1492793']");
 <!-- /Geniee Wrapper Body Tag 1492793 -->
 </div>
 
-        
+</div><!-- / .main_ad -->
+<div id="side">
+<div class="side_ad">
 
-    </div><!-- / .main_ad -->
-
-    <div id="side">
-
-      <div class="side_ad">
-        
-        
-        <script src="https://cdn.netkeiba.com/img.sp/common/js/loadFif.js?ver=20200228"></script>
+<script src="https://cdn.netkeiba.com/img.sp/common/js/loadFif.js?ver=20200228"></script>
 <div id="new_db_rectangle">
   <script language="JavaScript" type="text/javascript">
     if(typeof loadDuraFiF !== "undefined") {
@@ -1818,13 +1640,10 @@ gnshbrequest.applyPassback("1492793", "[data-cptid='1492793']");
     }
   </script>
 </div>
-        
-      </div>
+</div>
+<div class="side_ad">
 
-      <div class="side_ad">
-        
-        
-        <script src="https://cdn.netkeiba.com/img.sp/common/js/loadFif.js?ver=20200228"></script>
+<script src="https://cdn.netkeiba.com/img.sp/common/js/loadFif.js?ver=20200228"></script>
 <div id="new_db_middle_rectangle">
   <script language="JavaScript" type="text/javascript">
     if(typeof loadDuraFiF !== "undefined") {
@@ -1832,137 +1651,118 @@ gnshbrequest.applyPassback("1492793", "[data-cptid='1492793']");
     }
   </script>
 </div>
-        
-      </div>
-
-      
-      
-<div class="db_rank_01 side_box_01 fc">
-    <h2><img src="https://cdn.netkeiba.com/img.db/style/netkeiba.ja/image/db_det_side_h_01.png" alt="競走馬総合ランキング"></h2>
-    <ul class="sort_menu fc" id="horse_ranking_db">
-	<li class="ninki">
-		<a href="javascript:void(0)" id="adb-access" title="人気順">人気順</a>
-	</li>
-	<li class="comment">
-	    <a href="javascript:void(0)" id="adb-comment" title="コメント順">コメント数</a>
-	</li>
-	<li class="rating">
-	    <a href="javascript:void(0)" id="adb-rating" title="レーティング順">レーティング</a>
-	</li>
-    </ul>
-    <span id="out_html"></span>
 </div>
-
+<div class="db_rank_01 side_box_01 fc">
+<h2><img src="https://cdn.netkeiba.com/img.db/style/netkeiba.ja/image/db_det_side_h_01.png" alt="競走馬総合ランキング"></h2>
+<ul class="sort_menu fc" id="horse_ranking_db">
+<li class="ninki">
+<a href="javascript:void(0)" id="adb-access" title="人気順">人気順</a>
+</li>
+<li class="comment">
+<a href="javascript:void(0)" id="adb-comment" title="コメント順">コメント数</a>
+</li>
+<li class="rating">
+<a href="javascript:void(0)" id="adb-rating" title="レーティング順">レーティング</a>
+</li>
+</ul>
+<span id="out_html"></span>
+</div>
 <script>
- // $Id: horse_ranking.html 23 2024-10-19 10:59:56Z ysimizu $
- "use strict"
- $(function(){
-     const urls = {
-	 'access': ['https://db.netkeiba.com/ranking/ajax_db_access_rank.html','daily'],
-	 'comment':['https://db.netkeiba.com/ranking/ajax_db_comment_rank.html','daily'],
-	 'rating': ['https://db.netkeiba.com/ranking/ajax_db_rating_rank.html','all'],
-     };
-     let cur_tab = 'access';
-     let cur_sort = '';     
-
-     $(document).on('click','[id^="adb-"]', function(){
-	 const tab_id = $(this).prop('id').replace(/adb-/,'');
-	 cur_tab = tab_id;
-	 cur_sort = urls[cur_tab][1];
-
-	 const param = {};
-	 param['input'] = 'UTF-8';
-	 param['sort'] = cur_sort;
-
-	 ajax_common(urls[cur_tab][0], param, function(data){
-	     if('OK' == data.status){
-		 $('#out_html').empty();
-		 $('#out_html').html(data.data);
-	     }
-	 });
-
-	 reset_tab1();
-	 $('#adb-'+cur_tab).addClass('active');
-     });
-     $('#adb-'+cur_tab).trigger('click');	// default action
-
-     //------------------------------------------------------------
-     function ajax_common(url, param, fn){
-	 let _data = {};
-	 _data.output = 'json';
-	 for(var key in param){
-	     _data[key] = param[key];
-	 }
-	 $.ajax({
-	     type: "POST",
-	     url: url,
-	     data: _data,
-	     dataType: _data.output,
-	     success: function(json){
-		 if(undefined !== fn){
-		     fn(json);
-		 }
-	     },
-	     error: function(XMLHttpRequest, textStatus, errorThrown) {
-		 console.error('textStatus:',textStatus);
-	     }
-	 });
-     }
-     //------------------------------------------------------------
-     function reset_tab1(){
-	 $('[id^="adb-"]').each(function(){
-	     $(this).removeClass('active');
-	 });
-     }
- });
+// $Id: horse_ranking.html 23 2024-10-19 10:59:56Z ysimizu $
+"use strict"
+$(function(){
+const urls = {
+'access': ['https://db.netkeiba.com/ranking/ajax_db_access_rank.html','daily'],
+'comment':['https://db.netkeiba.com/ranking/ajax_db_comment_rank.html','daily'],
+'rating': ['https://db.netkeiba.com/ranking/ajax_db_rating_rank.html','all'],
+};
+let cur_tab = 'access';
+let cur_sort = '';
+$(document).on('click','[id^="adb-"]', function(){
+const tab_id = $(this).prop('id').replace(/adb-/,'');
+cur_tab = tab_id;
+cur_sort = urls[cur_tab][1];
+const param = {};
+param['input'] = 'UTF-8';
+param['sort'] = cur_sort;
+ajax_common(urls[cur_tab][0], param, function(data){
+if('OK' == data.status){
+$('#out_html').empty();
+$('#out_html').html(data.data);
+}
+});
+reset_tab1();
+$('#adb-'+cur_tab).addClass('active');
+});
+$('#adb-'+cur_tab).trigger('click');	// default action
+//------------------------------------------------------------
+function ajax_common(url, param, fn){
+let _data = {};
+_data.output = 'json';
+for(var key in param){
+_data[key] = param[key];
+}
+$.ajax({
+type: "POST",
+url: url,
+data: _data,
+dataType: _data.output,
+success: function(json){
+if(undefined !== fn){
+fn(json);
+}
+},
+error: function(XMLHttpRequest, textStatus, errorThrown) {
+console.error('textStatus:',textStatus);
+}
+});
+}
+//------------------------------------------------------------
+function reset_tab1(){
+$('[id^="adb-"]').each(function(){
+$(this).removeClass('active');
+});
+}
+});
 </script>
-
-      
-
-      
-      
 <span id="horse_bbs_ranking_box"></span>
 <script>
- // $Id: get_horse_bbs_ranking_box.html 149 2024-11-16 09:17:28Z ysimizu $
- $(function(){
-     // https://db.netkeiba.com/horse/xxxxxxx/
-     const path = window.location.pathname.split('/');
-     let horse_id;
-     for(let i=0; i < path.length; i++){
-	 if('horse' == path[i]){
-	     horse_id = path[i+1];
-	 }
-     }
-     if(undefined == horse_id){
-	 // https://db.netkeiba.com/?pid=horse_detail&id=xxxxxxx
-	 const query = window.location.search.split('#')[0].split('?')[1];
-	 const params = query.split('&');
-	 for(let i=0; i < params.length; i++){
-	     const val = params[i].split('=');
-	     if('id' == val[0]){
-		 horse_id = val[1];
-	     }
-	 }
-     }
-     $.get('https://db.netkeiba.com/ranking/ajax_horse_bbs_ranking.html',
-	   {
-	       input: 'UTF-8',
-	       output: 'json',
-	       id: horse_id,
-	   },
-	   function(data){
-	       if('OK' == data.status){
-		   $('#horse_bbs_ranking_box').html(data.data);
-	       }
-	   });
- });
+// $Id: get_horse_bbs_ranking_box.html 149 2024-11-16 09:17:28Z ysimizu $
+$(function(){
+// https://db.netkeiba.com/horse/xxxxxxx/
+const path = window.location.pathname.split('/');
+let horse_id;
+for(let i=0; i < path.length; i++){
+if('horse' == path[i]){
+horse_id = path[i+1];
+}
+}
+if(undefined == horse_id){
+// https://db.netkeiba.com/?pid=horse_detail&id=xxxxxxx
+const query = window.location.search.split('#')[0].split('?')[1];
+const params = query.split('&');
+for(let i=0; i < params.length; i++){
+const val = params[i].split('=');
+if('id' == val[0]){
+horse_id = val[1];
+}
+}
+}
+$.get('https://db.netkeiba.com/ranking/ajax_horse_bbs_ranking.html',
+{
+input: 'UTF-8',
+output: 'json',
+id: horse_id,
+},
+function(data){
+if('OK' == data.status){
+$('#horse_bbs_ranking_box').html(data.data);
+}
+});
+});
 </script>
 
-      
-
-      
-      
-      <div class="mb20" style="text-align: center;">
+<div class="mb20" style="text-align: center;">
 <!-- Geniee Wrapper Body Tag 1491447 -->
 <div data-cptid="1491447">
 <script>
@@ -1976,12 +1776,8 @@ gnshbrequest.applyPassback("1491447", "[data-cptid='1491447']");
 
 
 
-      
-
-    </div><!-- / #side -->
-  </div><!-- / .contents -->
-
-
+</div><!-- / #side -->
+</div><!-- / .contents -->
 
 <footer>
 <div class="NkFooterArea">
@@ -2221,11 +2017,7 @@ return false;
 <!--
 <script src="https://genieedmp.com/dmp.js?c=3335"></script>
 -->
-
-
 <!-- / #page -->
-
-
 
 
 
@@ -2233,7 +2025,6 @@ return false;
 window._taboola = window._taboola || [];
 _taboola.push({flush: true});
 </script>
-
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K6PJT6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

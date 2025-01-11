@@ -729,7 +729,7 @@ get_horse_detail_note('2020103459', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/05610/" title="加藤和宏">加藤和宏</a> (地方)</td>
+<td><a href="/trainer/05610/" title="加藤和宏">加藤和宏</a> (金沢)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -765,7 +765,7 @@ get_horse_detail_note('2020103459', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202446042308/" title="アネモネ賞">アネモネ賞</a><!--、<a href="/race/202346100803/" title=祝４才！第２回ねこ店長Ｑ太郎誕生日記念"">祝４才！第２回ねこ店長Ｑ太郎誕生日記念</a>--></td>
+<td><a href="/race/202446042308/" title="アネモネ賞">アネモネ賞</a><!--、<a href="/race/202346100803/" title=祝4才!第2回ねこ店長Q太郎誕生日記念"">祝4才!第2回ねこ店長Q太郎誕生日記念</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>

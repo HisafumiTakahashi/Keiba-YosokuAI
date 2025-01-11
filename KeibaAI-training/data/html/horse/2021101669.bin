@@ -765,7 +765,7 @@ get_horse_detail_note('2021101669', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>8戦1勝 [<a href="/horse/result/2021101669/" title="全競走成績">1-0-1-6</a>]</td>
+<td>9戦1勝 [<a href="/horse/result/2021101669/" title="全競走成績">1-0-1-7</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/42/20250109/">浦和</a></td>
+<td>晴</td>
+<td class="txt_right">2</td>
+<td class=""><a href="/race/202542010902/" title="浦和800ラウンド(C3)">浦和800ラウンド(C3)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202542010902" target="_blank" title="浦和800ラウンド(C3)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">12</td>
+<td class="txt_right">1</td>
+<td class="txt_right">1</td>
+<td class="txt_right">59.6</td>
+<td class=" txt_right">10</td>
+<td class="bml txt_right">12</td>
+<td>
+<a href="/jockey/result/recent/05001/" title="内田利雄">内田利雄</a>
+
+</td>
+<td>54</td>
+<td>ダ800</td>
+<td>重</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">0:50.7</td>
+<td class="txt_right">1.7</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>12-12</td>
+<td>35.7-37.1</td>
+<td class="rank_3">37.0</td>
+<td>389(-15)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2018106007/">スプリングローズ</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241122/">2024/11/22</a></td>
 <td><a href="/race/sum/42/20241122/">浦和</a></td>
 <td>晴</td>

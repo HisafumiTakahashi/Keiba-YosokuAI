@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103516&no=69003&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103516&no=69004&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -733,7 +733,7 @@ get_horse_detail_note('2021103516', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>拇兜徽</th>
-<td><a href="/trainer/a02e4/" title="井斡接骚">井斡接骚</a> (孟数)</td>
+<td><a href="/trainer/a02e4/" title="井斡接骚">井斡接骚</a> (翠缄)</td>
 </tr>
 <tr>
 <th>窍肩</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021103516', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202436122804/" title="Ｂ２企寥">Ｂ２企寥</a><!--、<a href="/race/202436093008/" title=３盒Ｃ２话寥"">３盒Ｃ２话寥</a>--></td>
+<td><a href="/race/202436122804/" title="B2企寥">B2企寥</a><!--、<a href="/race/202435111209/" title=C1办寥"">C1办寥</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>

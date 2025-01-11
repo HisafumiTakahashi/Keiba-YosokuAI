@@ -595,7 +595,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103096&no=33921&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2021103096&no=39619&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -733,7 +733,7 @@ get_horse_detail_note('2021103096', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>拇兜徽</th>
-<td><a href="/trainer/05476/" title="集韭紊下">集韭紊下</a> (孟数)</td>
+<td><a href="/trainer/05476/" title="集韭紊下">集韭紊下</a> (焙下)</td>
 </tr>
 <tr>
 <th>窍肩</th>
@@ -769,7 +769,7 @@ get_horse_detail_note('2021103096', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>肩な尽叭</th>
-<td><a href="/race/202442102209/" title="ＹＪＳトライアルラウンド焙下妈２里">ＹＪＳトライアルラウンド焙下妈２里</a><!--、<a href="/race/202442112207/" title=Ｃ１煌"">Ｃ１煌</a>--></td>
+<td><a href="/race/202442112207/" title="C1煌">C1煌</a><!--、<a href="/race/202442102209/" title=YJSトライアルラウンド焙下妈2里"">YJSトライアルラウンド焙下妈2里</a>--></td>
 </tr>
 <tr>
 <th>夺科窍</th>

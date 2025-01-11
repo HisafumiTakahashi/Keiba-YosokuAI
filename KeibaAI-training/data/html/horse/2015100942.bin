@@ -591,7 +591,7 @@ document.getElementById( "HorseMainPhoto" ).setAttribute( "src", "https://cdn.ne
 }
 </script>
 <div class="db_photo_box fc">
-<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2015100942&no=77287&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
+<img src="https://cdn.netkeiba.com/img.db/v1.1/show_photo.php?horse_id=2015100942&no=86244&tn=yes&tmp=no" alt="" width="230" height="164" class="db_photo_main" id="HorseMainPhoto" style="object-fit: contain; background-color: #f5f5f5"/>
 
 <div class="Slid_List Photo_Slid">
 <ul id="Horse_Photo_Slide">
@@ -761,7 +761,7 @@ get_horse_detail_note('2015100942', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>67戦6勝 [<a href="/horse/result/2015100942/" title="全競走成績">6-9-5-47</a>]</td>
+<td>68戦6勝 [<a href="/horse/result/2015100942/" title="全競走成績">6-9-5-48</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
@@ -975,6 +975,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250108/">2025/01/08</a></td>
+<td><a href="/race/sum/54/20250108/">高知</a></td>
+<td>晴</td>
+<td class="txt_right">10</td>
+<td class=""><a href="/race/202554010810/" title="ファイナルレース(C1)">ファイナルレース(C1)</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202554010810" target="_blank" title="ファイナルレース(C1)の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">11</td>
+<td class="txt_right">8</td>
+<td class="txt_right">10</td>
+<td class="txt_right">6.5</td>
+<td class=" txt_right">4</td>
+<td class="bml txt_right">7</td>
+<td>
+<a href="/jockey/result/recent/05577/" title="岩本怜">岩本怜</a>
+
+</td>
+<td>56</td>
+<td>ダ1600</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:50.9</td>
+<td class="txt_right">1.0</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>4-4-3-3</td>
+<td>0.0-40.5</td>
+<td class="bml">41.3</td>
+<td>498(-2)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2019106622/">サバンナモンキー</a></td>
+
+<td>&nbsp;</td>
+</tr><tr>
 <td><a href="/race/list/20241228/">2024/12/28</a></td>
 <td><a href="/race/sum/54/20241228/">高知</a></td>
 <td>晴</td>

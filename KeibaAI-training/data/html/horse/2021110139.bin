@@ -409,14 +409,14 @@ document.write('<scr'+'ipt type="text/javascript" src="https://netdreamersad.dur
 <div class="db_head_name fc">
 
 <div class="horse_title">
-<h1><!--  ○外 -->ガーデンカメリア</h1>
+<h1><!--  □地 -->ガーデンカメリア</h1>
 <p class="eng_name">
 <a href="https://en.netkeiba.com/db/horse/2021110139/" style="color:#FFF;">Garden Camellia</a>
 </p>
 <p class="rate" style="display:none">
 <img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><img src="https://cdn.netkeiba.com/img.db//style/netkeiba.ja/image/" alt="" /><strong><!-- （<span></span>票）--></strong>
 </p>
-<p class="txt_01">抹消　牝　栗毛 </p>
+<p class="txt_01">　牝　栗毛 </p>
 </div><!-- /.horse_title" -->
 
 <div class="HorseRegist_BtnBox fc">
@@ -733,11 +733,11 @@ get_horse_detail_note('2021110139', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/01157/" title="杉山晴紀">杉山晴紀</a> (栗東)</td>
+<td><a href="/trainer/a0220/" title="柏原誠路">柏原誠路</a> (兵庫)</td>
 </tr>
 <tr>
 <th>馬主</th>
-<td><img src="https://cdn.netkeiba.com/img//db/colours/300803.gif" alt="ＫＲジャパン" class="OwnerColours"><a href="/owner/300803/" title="ＫＲジャパン">ＫＲジャパン</a></td>
+<td><img src="https://cdn.netkeiba.com/img//db/colours/no_data.gif" alt="（株）ヘルシーウッド" class="OwnerColours"><a href="/owner/x088b7/" title="（株）ヘルシーウッド">（株）ヘルシーウッド</a></td>
 </tr>
 
 <tr>
@@ -765,15 +765,15 @@ get_horse_detail_note('2021110139', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>通算成績</th>
-<td>6戦0勝 [<a href="/horse/result/2021110139/" title="全競走成績">0-2-3-1</a>]</td>
+<td>7戦1勝 [<a href="/horse/result/2021110139/" title="全競走成績">1-2-3-1</a>]</td>
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race//" title=""></a><!--、<a href="/race//" title=""></a>--></td>
+<td><a href="/race/202550010907/" title="C2二">C2二</a><!--、<a href="/race//" title=""></a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
-<td><a href="/horse//" title=""></a><a href="/horse//" title=""></a></td>
+<td><a href="/horse/2024101897/" title="アヴィラロードの2024">アヴィラロードの2024</a><a href="/horse//" title=""></a></td>
 </tr>
 </table>
 
@@ -979,6 +979,59 @@ $('#horse_award_box').html(data.data);
 </thead>
 <tbody>
 <tr>
+<td><a href="/race/list/20250109/">2025/01/09</a></td>
+<td><a href="/race/sum/50/20250109/">園田</a></td>
+<td>晴</td>
+<td class="txt_right">7</td>
+<td class=""><a href="/race/202550010907/" title="C2二">C2二</a></td>
+<td>
+
+
+<a href="https://nar.netkeiba.com/race/movie.html?race_id=202550010907" target="_blank" title="C2二の映像"><img src="/style/netkeiba.ja/image/icon_douga.png" border="0" /></a>
+</td>
+<td class="txt_right">10</td>
+<td class="txt_right">2</td>
+<td class="txt_right">2</td>
+<td class="txt_right">1.6</td>
+<td class="rank_1 txt_right">1</td>
+<td class="rank_1 txt_right">1</td>
+<td>
+<a href="/jockey/result/recent/a0574/" title="新庄海誠">新庄海誠</a>
+
+</td>
+<td>52</td>
+<td>ダ1400</td>
+<td>稍</td>
+
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td class="txt_right">1:35.3</td>
+<td class="txt_right">-0.4</td>
+<td class="bml txt_right">
+
+
+&nbsp;
+</td>
+<td>8-7-8-5</td>
+<td>0.0-41.3</td>
+<td class="rank_1">40.5</td>
+<td>463(+15)</td>
+<td class="bml" align="center" nowrap>
+
+&nbsp;
+</td>
+<td class="bml" nowrap>
+
+
+&nbsp;
+</td>
+<td><a href="/horse/2021101298/">(サンネリネ)</a></td>
+
+<td>70.0</td>
+</tr><tr>
 <td><a href="/race/list/20240505/">2024/05/05</a></td>
 <td><a href="/race/sum/08/20240505/">3京都6</a></td>
 <td>晴</td>

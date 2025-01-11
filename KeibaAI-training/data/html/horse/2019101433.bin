@@ -230,7 +230,7 @@ min-width: unset;
 </ul>
 <div class="SiteToggleBtn01 Keirin">
 <a href="https://keirin.netkeiba.com/?rf=nk_pc_header">
-<span class="LiveRace">LIVE</span>
+
 <img src="https://cdn.netkeiba.com/img.www/style/netkeiba.ja/image/common/icon_keirin01.png" alt="" width="21" height="16" class="KeirinLogoMark01">競輪
 </a>
 </div><!-- /.SiteToggleBtn01 -->
@@ -732,7 +732,7 @@ get_horse_detail_note('2019101433', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>調教師</th>
-<td><a href="/trainer/a02d8/" title="山崎裕也">山崎裕也</a> (川崎)</td>
+<td><a href="/trainer/a02d8/" title="山崎裕也">山崎裕也</a> (地方)</td>
 </tr>
 <tr>
 <th>馬主</th>
@@ -768,7 +768,7 @@ get_horse_detail_note('2019101433', 'Horse_Note_Box');
 </tr>
 <tr>
 <th>主な勝鞍</th>
-<td><a href="/race/202145083004/" title="スパーキングデビュー新馬">スパーキングデビュー新馬</a><!--、<a href="/race/202345022809/" title=抜山蓋世賞"">抜山蓋世賞</a>--></td>
+<td><a href="/race/202145083004/" title="スパーキングデビュー新馬">スパーキングデビュー新馬</a><!--、<a href="/race/202245070508/" title=ルビーフラワー賞"">ルビーフラワー賞</a>--></td>
 </tr>
 <tr>
 <th>近親馬</th>
